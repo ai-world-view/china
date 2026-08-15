@@ -17,7 +17,9 @@ Category index: [geography/](geography/index.md)
 
 ## History
 
-_No dedicated topic files yet._
+Category index: [history/](history/index.md)
+
+- [The Qin Dynasty](history/the-qin-dynasty.md)
 
 ## Government & Politics
 
@@ -27,7 +29,9 @@ Category index: [government-politics/](government-politics/index.md)
 
 ## Economy
 
-_No dedicated topic files yet._
+Category index: [economy/](economy/index.md)
+
+- [Economic Reform & Opening-up (1978 Onward)](economy/economic-reform-opening-up.md)
 
 ## Culture & Society
 
@@ -37,5 +41,7 @@ Category index: [culture-society/](culture-society/index.md)
 
 ## People
 
-_No dedicated topic files yet._
+Category index: [people/](people/index.md)
+
+- [Mao Zedong](people/mao-zedong.md)
 <!-- END GENERATED: master-index -->

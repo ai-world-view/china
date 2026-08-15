@@ -1,0 +1,17 @@
+---
+title: "History"
+preview: /images/previews/history.svg
+category: "History"
+---
+
+# History
+
+Topics in this knowledge base concerning the history of China — its dynasties, eras, and the developments that shaped the nation from antiquity to the present.
+
+<!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
+| Topic | Description |
+|-------|-------------|
+| [The Qin Dynasty](the-qin-dynasty.md) | China's first centralized empire (221–206 BCE); unified the warring states, standardized writing, weights, measures, and currency, and created the bureaucratic imperial model that endured for over two millennia. |
+<!-- END GENERATED: category-index -->
+
+See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

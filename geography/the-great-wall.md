@@ -85,6 +85,7 @@ The widespread belief that the Great Wall is visible from space is a myth: the w
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+- [The Qin Dynasty](../history/the-qin-dynasty.md) — under Qin Shi Huang, general Meng Tian joined the earlier state walls into the first continuous frontier barrier.
 - [The Communist Party of China](../government-politics/communist-party-china.md) — modern custodian of the Wall, which it promotes as a national symbol and invokes in the PRC national anthem.
 - [Confucianism](../culture-society/confucianism.md) — the ethical and bureaucratic tradition underpinning the imperial state that mobilized the Wall's construction.
 <!-- END GENERATED: crossrefs -->

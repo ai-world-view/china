@@ -117,6 +117,8 @@ The CPC has presided over both the worst man-made famines in history and one of 
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+- [Mao Zedong](../people/mao-zedong.md) — founded the People's Republic and led the party until his death; its legitimacy is still anchored in his revolution.
+- [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — the party's post-1978 program that reoriented the country toward a market economy while preserving one-party rule.
 - [Confucianism](../culture-society/confucianism.md) — the tradition the party condemned during the Cultural Revolution and later rehabilitated for cultural legitimacy.
 - [The Great Wall of China](../geography/the-great-wall.md) — a national symbol the party preserves and invokes in the PRC national anthem.
 <!-- END GENERATED: crossrefs -->
