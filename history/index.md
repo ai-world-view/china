@@ -12,6 +12,7 @@ Topics in this knowledge base concerning the history of China — its dynasties,
 | Topic | Description |
 |-------|-------------|
 | [The Qin Dynasty](the-qin-dynasty.md) | China's first centralized empire (221–206 BCE); unified the warring states, standardized writing, weights, measures, and currency, and created the bureaucratic imperial model that endured for over two millennia. |
+| [The Tang Dynasty](the-tang-dynasty.md) | A golden age of Chinese civilization (618–907 CE); cosmopolitan, prosperous, and militarily powerful, it perfected the civil examination system and produced a canonical flowering of poetry, painting, and Silk Road exchange. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

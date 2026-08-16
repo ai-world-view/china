@@ -11,16 +11,27 @@ Reworked and extended as new content is added.
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |------|------|----------|------|
-| 551 BCE | Birth of Confucius in the state of Lu | Culture & Society | [Confucianism](culture-society/confucianism.md) |
+| 551 BCE | Birth of Confucius in the state of Lu | People | [Confucius](people/confucius.md) |
+| 479 BCE | Death of Confucius; his disciples begin compiling the *Analects* | People | [Confucius](people/confucius.md) |
 | 221 BCE | Qin Shi Huang unifies the warring states and founds the Qin Dynasty, China's first centralized empire | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 221 BCE | Qin unification; the first continuous frontier wall is joined under general Meng Tian | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 210 BCE | Death of Qin Shi Huang during his fifth imperial inspection tour | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 206 BCE | Collapse of the Qin Dynasty amid peasant rebellion and civil war | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 136 BCE | Emperor Wu of Han designates Confucianism the official state ideology | Culture & Society | [Confucianism](culture-society/confucianism.md) |
+| 618 CE | Li Yuan founds the Tang Dynasty after the collapse of the Sui | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 626 CE | Emperor Taizong takes the throne, opening the Tang golden age | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 690 CE | Wu Zetian declares herself emperor, China's only reigning empress | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 755 CE | The An Lushan Rebellion erupts, devastating the Tang | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 907 CE | Fall of the Tang Dynasty; the Five Dynasties period begins | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
+| 1406 CE | Construction of the Forbidden City begins under the Yongle Emperor | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1893 | Birth of Mao Zedong in Shaoshan, Hunan province | People | [Mao Zedong](people/mao-zedong.md) |
 | 1905 | Abolition of the Confucian imperial examination system | Culture & Society | [Confucianism](culture-society/confucianism.md) |
+| 1912 | Abdication of the last emperor, Puyi, ends dynastic rule in the Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1921 | Founding of the Communist Party of China in Shanghai | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
+| 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1934 | The Long March begins as Communist forces retreat from Jiangxi | People | [Mao Zedong](people/mao-zedong.md) |
 | 1949 | Proclamation of the People's Republic of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1958 | Mao launches the Great Leap Forward, precipitating catastrophic famine | People | [Mao Zedong](people/mao-zedong.md) |
@@ -29,6 +40,7 @@ Reworked and extended as new content is added.
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 1980 | First Special Economic Zones established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
+| 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 2013 | Belt and Road Initiative announced | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |

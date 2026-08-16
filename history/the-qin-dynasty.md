@@ -124,6 +124,9 @@ The Qin's name, *Qin* (*秦*), passed through Sanskrit (*Cīna*) and Persian (*C
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 - [The Great Wall of China](../geography/the-great-wall.md) — extended during the Qin under Qin Shi Huang to defend against northern invasions.
+- [The Tang Dynasty](the-tang-dynasty.md) — inherited and refined the centralized bureaucratic and county-based administration the Qin first imposed.
+- [Confucius](../people/confucius.md) — the philosopher whose followers the Qin persecuted in the book burning, though the Han later made his teaching state orthodoxy.
+- [The Forbidden City](../geography/the-forbidden-city.md) — later imperial palace expressing the centralized, hierarchical imperial order the Qin inaugurated.
 - [The Communist Party of China](../government-politics/communist-party-china.md) — also employed centralized bureaucratic control and standardization as organizing principles.
 - [Confucianism](../culture-society/confucianism.md) — suppressed during the Qin but would become the ideological foundation of later dynasties.
 - [Mao Zedong](../people/mao-zedong.md) — Mao explicitly compared himself to Qin Shi Huang, embracing the comparison to centralized, ruthless unification.

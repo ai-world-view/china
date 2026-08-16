@@ -11,6 +11,7 @@ Topics in this knowledge base concerning the notable people who shaped China.
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 | Topic | Description |
 |-------|-------------|
+| [Confucius](confucius.md) | Ancient philosopher and teacher (551–479 BCE) whose ethics of virtue, ritual propriety, and benevolent rule founded Confucianism and shaped Chinese governance, education, and values for over two millennia. |
 | [Mao Zedong](mao-zedong.md) | Founding leader of the People's Republic of China (1949–1976); Marxist revolutionary and paramount leader whose campaigns reshaped—and convulsed—modern China. |
 <!-- END GENERATED: category-index -->
 

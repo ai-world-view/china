@@ -14,12 +14,14 @@ See also the [timeline](TIMELINE.md) of dated milestones.
 Category index: [geography/](geography/index.md)
 
 - [The Great Wall of China](geography/the-great-wall.md)
+- [The Forbidden City](geography/the-forbidden-city.md)
 
 ## History
 
 Category index: [history/](history/index.md)
 
 - [The Qin Dynasty](history/the-qin-dynasty.md)
+- [The Tang Dynasty](history/the-tang-dynasty.md)
 
 ## Government & Politics
 
@@ -43,5 +45,6 @@ Category index: [culture-society/](culture-society/index.md)
 
 Category index: [people/](people/index.md)
 
+- [Confucius](people/confucius.md)
 - [Mao Zedong](people/mao-zedong.md)
 <!-- END GENERATED: master-index -->

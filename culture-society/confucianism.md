@@ -89,7 +89,9 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+- [Confucius](../people/confucius.md) — the founding thinker whose teachings this philosophical system codifies, systematizes, and extends.
 - [The Qin Dynasty](../history/the-qin-dynasty.md) — the Legalist Qin state suppressed Confucian texts in the book burning before the Han made Confucianism the imperial orthodoxy.
+- [The Tang Dynasty](../history/the-tang-dynasty.md) — perfected the Confucian civil examination system that made mastery of the classics the path to office.
 - [The Communist Party of China](../government-politics/communist-party-china.md) — the ruling party that first condemned and later rehabilitated Confucian tradition.
 - [The Great Wall of China](../geography/the-great-wall.md) — a product of the same hierarchical, bureaucratic imperial state that Confucian governance shaped.
 <!-- END GENERATED: crossrefs -->
