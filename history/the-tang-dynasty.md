@@ -101,6 +101,8 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 - [Confucius](../people/confucius.md) — Confucian philosophy, particularly the civil examination system he inspired, was the Tang Dynasty's primary administrative framework.
 - [The Forbidden City](../geography/the-forbidden-city.md) — the Ming Dynasty palace whose architectural and administrative traditions drew directly on Tang precedents.
 - [The Great Wall of China](../geography/the-great-wall.md) — maintained and extended during Tang to defend northern borders.
+- [Taoism](../culture-society/taoism.md) — the Tang was the high-water mark of imperial Taoist patronage, with emperors claiming Laozi as a divine ancestor.
+- [The Ming Dynasty](the-ming-dynasty.md) — a later Han-Chinese dynasty whose inward turn contrasts with the cosmopolitan Tang.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

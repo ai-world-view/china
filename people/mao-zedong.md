@@ -130,6 +130,7 @@ Deng Xiaoping's reforms—the Economic Reform & Opening-up launched in 1978—we
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — initiated by Deng Xiaoping as explicit rejection of Maoist economic policies; the Great Leap Forward's catastrophe made the case for agricultural reform.
 - [The Qin Dynasty](../history/the-qin-dynasty.md) — Mao explicitly compared himself to Qin Shi Huang, seeing his revolution as another moment of centralized unification and standardization.
 - [Confucius](confucius.md) — the philosopher whose Confucian tradition Mao's regime attacked as feudal during the Cultural Revolution.
+- [Deng Xiaoping](deng-xiaoping.md) — Mao's eventual successor, twice purged under Mao, who reversed much of his economic legacy after 1978.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

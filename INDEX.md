@@ -22,6 +22,7 @@ Category index: [history/](history/index.md)
 
 - [The Qin Dynasty](history/the-qin-dynasty.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
+- [The Ming Dynasty](history/the-ming-dynasty.md)
 
 ## Government & Politics
 
@@ -40,6 +41,7 @@ Category index: [economy/](economy/index.md)
 Category index: [culture-society/](culture-society/index.md)
 
 - [Confucianism](culture-society/confucianism.md)
+- [Taoism](culture-society/taoism.md)
 
 ## People
 
@@ -47,4 +49,5 @@ Category index: [people/](people/index.md)
 
 - [Confucius](people/confucius.md)
 - [Mao Zedong](people/mao-zedong.md)
+- [Deng Xiaoping](people/deng-xiaoping.md)
 <!-- END GENERATED: master-index -->

@@ -1,5 +1,6 @@
 ---
 title: "Economic Reform & Opening-up (1978 Onward)"
+preview: /images/previews/economic-reform-opening-up-1978-onward.svg
 date: 2026-08-15
 category: "Economy"
 ---
@@ -112,6 +113,7 @@ The reforms also reshaped international relations. Rising Chinese exports and fo
 - [The Communist Party of China](../government-politics/communist-party-china.md) — orchestrated and maintains control over the reform process to preserve political monopoly.
 - [Confucianism](../culture-society/confucianism.md) — traditional philosophy was officially rehabilitated under reform-era ideology as part of cultural renewal.
 - [Mao Zedong](../people/mao-zedong.md) — his death and the rejection of his policies set the stage for Deng's reforms; the Great Leap Forward's famine made the case for agricultural decollectivization.
+- [Deng Xiaoping](../people/deng-xiaoping.md) — the paramount leader who launched and drove the reform program from 1978 onward.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

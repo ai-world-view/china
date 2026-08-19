@@ -85,6 +85,8 @@ The Forbidden City also became a symbol in global architecture and art of the ae
 - [The Qin Dynasty](../history/the-qin-dynasty.md) — established precedents for imperial palace architecture that the Forbidden City inherited.
 - [The Tang Dynasty](../history/the-tang-dynasty.md) — earlier imperial period whose administrative and architectural traditions influenced Ming palace design.
 - [Confucius](../people/confucius.md) — Confucian principles of hierarchy, ritual propriety, and cosmic order are encoded in the Forbidden City's spatial organization and symbolism.
+- [The Ming Dynasty](../history/the-ming-dynasty.md) — the Yongle Emperor built the palace (1406–1420) as the ceremonial center of Ming imperial rule.
+- [Taoism](../culture-society/taoism.md) — the complex's north-south axis and south-facing throne express Taoist feng shui and cosmological principles.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
