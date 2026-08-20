@@ -114,6 +114,7 @@ The reforms also reshaped international relations. Rising Chinese exports and fo
 - [Confucianism](../culture-society/confucianism.md) — traditional philosophy was officially rehabilitated under reform-era ideology as part of cultural renewal.
 - [Mao Zedong](../people/mao-zedong.md) — his death and the rejection of his policies set the stage for Deng's reforms; the Great Leap Forward's famine made the case for agricultural decollectivization.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — the paramount leader who launched and drove the reform program from 1978 onward.
+- [Xi Jinping](../people/xi-jinping.md) — inherited the reform-era economy and has reshaped it, tightening Party and state control over the private sector while retaining market mechanisms.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

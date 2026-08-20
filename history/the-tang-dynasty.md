@@ -103,6 +103,8 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 - [The Great Wall of China](../geography/the-great-wall.md) — maintained and extended during Tang to defend northern borders.
 - [Taoism](../culture-society/taoism.md) — the Tang was the high-water mark of imperial Taoist patronage, with emperors claiming Laozi as a divine ancestor.
 - [The Ming Dynasty](the-ming-dynasty.md) — a later Han-Chinese dynasty whose inward turn contrasts with the cosmopolitan Tang.
+- [The Han Dynasty](the-han-dynasty.md) — the earlier foundational dynasty whose Silk Road routes and meritocratic ideals the Tang revived and perfected.
+- [The Silk Road](../geography/the-silk-road.md) — the trade network that reached its height of prosperity and cosmopolitan exchange under the Tang.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

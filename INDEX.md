@@ -15,12 +15,14 @@ Category index: [geography/](geography/index.md)
 
 - [The Great Wall of China](geography/the-great-wall.md)
 - [The Forbidden City](geography/the-forbidden-city.md)
+- [The Silk Road](geography/the-silk-road.md)
 
 ## History
 
 Category index: [history/](history/index.md)
 
 - [The Qin Dynasty](history/the-qin-dynasty.md)
+- [The Han Dynasty](history/the-han-dynasty.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
 
@@ -50,4 +52,5 @@ Category index: [people/](people/index.md)
 - [Confucius](people/confucius.md)
 - [Mao Zedong](people/mao-zedong.md)
 - [Deng Xiaoping](people/deng-xiaoping.md)
+- [Xi Jinping](people/xi-jinping.md)
 <!-- END GENERATED: master-index -->

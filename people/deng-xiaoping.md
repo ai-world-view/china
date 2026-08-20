@@ -107,6 +107,7 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [The Forbidden City](../geography/the-forbidden-city.md) — Beijing's imperial center became the backdrop of modern Chinese statehood; Tiananmen Square, adjacent to the Forbidden City, was the site of the 1989 crisis
 - [Taoism](../culture-society/taoism.md) — "Feeling the stones" pragmatism parallels Taoist empiricism; Deng's reforms also enabled Taoist practice to revive after Cultural Revolution suppression
 - [The Ming Dynasty](../history/the-ming-dynasty.md) — Deng's outward-looking reform strategy inverts the Ming's inward retreat; both represent pivotal choices about China's relationship with the world
+- [Xi Jinping](xi-jinping.md) — Deng's eventual successor as paramount leader, who inherited his economic reforms while reversing his restraint on personal power and Party ideology
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

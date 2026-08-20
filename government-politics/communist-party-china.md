@@ -122,6 +122,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [Confucianism](../culture-society/confucianism.md) — the tradition the party condemned during the Cultural Revolution and later rehabilitated for cultural legitimacy.
 - [The Great Wall of China](../geography/the-great-wall.md) — a national symbol the party preserves and invokes in the PRC national anthem.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — the paramount leader who reformed the party's economic line after 1978 while preserving its political monopoly.
+- [Xi Jinping](../people/xi-jinping.md) — the party's general secretary since 2012, who has reasserted its ideological authority and consolidated personal power within it.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

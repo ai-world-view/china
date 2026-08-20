@@ -95,6 +95,8 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [The Communist Party of China](../government-politics/communist-party-china.md) — the ruling party that first condemned and later rehabilitated Confucian tradition.
 - [The Great Wall of China](../geography/the-great-wall.md) — a product of the same hierarchical, bureaucratic imperial state that Confucian governance shaped.
 - [Taoism](taoism.md) — the complementary pole of Chinese thought; where Confucianism orders society outwardly, Taoism turns inward toward nature and spontaneity.
+- [The Han Dynasty](../history/the-han-dynasty.md) — made Confucianism the official state ideology, beginning its two-thousand-year role as the foundation of imperial governance.
+- [Xi Jinping](../people/xi-jinping.md) — has selectively invoked Confucian ideas of hierarchy, order, and moral leadership to legitimize centralized Party rule.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

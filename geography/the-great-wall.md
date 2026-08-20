@@ -91,6 +91,7 @@ The widespread belief that the Great Wall is visible from space is a myth: the w
 - [The Communist Party of China](../government-politics/communist-party-china.md) — modern custodian of the Wall, which it promotes as a national symbol and invokes in the PRC national anthem.
 - [Confucianism](../culture-society/confucianism.md) — the ethical and bureaucratic tradition underpinning the imperial state that mobilized the Wall's construction.
 - [The Ming Dynasty](../history/the-ming-dynasty.md) — built the iconic brick-and-stone wall visible today across northern China.
+- [The Silk Road](the-silk-road.md) — the Wall's western extensions toward the Jade Gate helped guard the overland trade routes into Central Asia.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

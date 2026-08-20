@@ -98,6 +98,7 @@ In the contemporary world, Confucius remains the most revered figure in Chinese 
 - [Mao Zedong](mao-zedong.md) — a modern figure who explicitly rejected Confucianism as feudal and incompatible with communist revolution.
 - [The Tang Dynasty](../history/the-tang-dynasty.md) — an era when Confucianism, synthesized with Buddhism and Daoism, shaped imperial governance and the civil examination system.
 - [The Forbidden City](../geography/the-forbidden-city.md) — the imperial palace whose spatial organization and symbolism encode Confucian principles of hierarchy and ritual propriety.
+- [The Han Dynasty](../history/the-han-dynasty.md) — the dynasty that elevated his teachings to state orthodoxy, making them the ideological foundation of imperial governance.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

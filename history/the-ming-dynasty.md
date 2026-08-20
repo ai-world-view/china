@@ -116,6 +116,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [The Qin Dynasty](the-qin-dynasty.md) — First unified empire; Ming drew on Qin administrative models
 - [Confucianism](../culture-society/confucianism.md) — Ideological framework for Ming governance, literati culture, and the examination system
 - [Deng Xiaoping](../people/deng-xiaoping.md) — Later architect of China's outward integration with the world; his Reform era reversed the insularity the Ming exemplified
+- [The Silk Road](../geography/the-silk-road.md) — Overland trade network in decline by the Ming; Zheng He's treasure-fleet voyages represented a state-directed maritime counterpart to it
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
