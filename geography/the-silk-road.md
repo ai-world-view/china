@@ -121,6 +121,7 @@ In the 20th and 21st centuries, the Silk Road has become a symbol of cosmopolita
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — Deng's reforms re-established China as a global trading power, echoing the Silk Road's historical role.
 - [Taoism](../culture-society/taoism.md) — transmitted westward along the Silk Road and blended with Buddhist and Islamic thought in Central Asia.
 - [Xi Jinping](../people/xi-jinping.md) — launched the Belt and Road Initiative (2013), explicitly framed as a revival of the Silk Road connecting China to Central Asia, Africa, and Europe through infrastructure and investment.
+- [Buddhism in China](../culture-society/buddhism-in-china.md) — the religion transmitted from India and Central Asia into China along these routes, carrying texts, art, and the Dunhuang cave libraries.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

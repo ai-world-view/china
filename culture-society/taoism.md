@@ -110,6 +110,7 @@ Globally, Taoist concepts have profoundly influenced Western alternative spiritu
 - [The Ming Dynasty](../history/the-ming-dynasty.md) — Compiled the Daozang in 1445 CE; Jiajing Emperor's personal devotion to Taoist alchemy
 - [Deng Xiaoping](../people/deng-xiaoping.md) — Pragmatic governance philosophy ("practice is the sole criterion") echoes Taoist empiricism; his reforms enabled the partial revival of Taoist practice after Cultural Revolution suppression
 - [The Forbidden City](../geography/the-forbidden-city.md) — Imperial palace designed with feng shui and Taoist cosmological principles; oriented on the north-south axis demanded by Taoist cosmology
+- [Buddhism in China](buddhism-in-china.md) — The imported tradition whose concepts first entered Chinese through Taoist vocabulary (*geyi*) and later blended with it in Chan practice and the "Three Teachings in One"
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

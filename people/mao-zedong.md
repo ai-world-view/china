@@ -132,6 +132,7 @@ Deng Xiaoping's reforms—the Economic Reform & Opening-up launched in 1978—we
 - [Confucius](confucius.md) — the philosopher whose Confucian tradition Mao's regime attacked as feudal during the Cultural Revolution.
 - [Deng Xiaoping](deng-xiaoping.md) — Mao's eventual successor, twice purged under Mao, who reversed much of his economic legacy after 1978.
 - [Xi Jinping](xi-jinping.md) — later leader who invoked Mao's model of strong centralized authority and personality-centered ideology while distancing himself from Maoist radicalism.
+- [Sun Yat-sen](sun-yat-sen.md) — republican revolutionary of the preceding generation whose unfinished national unification the Communists claimed to complete under Mao.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

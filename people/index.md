@@ -15,6 +15,7 @@ Topics in this knowledge base concerning the notable people who shaped China.
 | [Mao Zedong](mao-zedong.md) | Founding leader of the People's Republic of China (1949–1976); Marxist revolutionary and paramount leader whose campaigns reshaped—and convulsed—modern China. |
 | [Deng Xiaoping](deng-xiaoping.md) | Paramount leader (1978–1992) and architect of Reform and Opening-up; his pragmatic market reforms lifted an estimated 800 million people from poverty and made China the world's second-largest economy. |
 | [Xi Jinping](xi-jinping.md) | Paramount leader since 2012 (General Secretary, President, and Military Commission Chairman); consolidated unprecedented personal power, launched the Belt and Road Initiative, reasserted Party ideological control, and positioned China as a superpower rival to the United States. |
+| [Sun Yat-sen](sun-yat-sen.md) | Revolutionary leader and founding father of the Republic of China (1866–1925); architect of the 1911 Xinhai Revolution that overthrew the Qing Dynasty and author of the Three Principles of the People—nationalism, democracy, and social welfare—revered across both the mainland and Taiwan. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

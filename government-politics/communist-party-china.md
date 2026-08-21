@@ -123,6 +123,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [The Great Wall of China](../geography/the-great-wall.md) — a national symbol the party preserves and invokes in the PRC national anthem.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — the paramount leader who reformed the party's economic line after 1978 while preserving its political monopoly.
 - [Xi Jinping](../people/xi-jinping.md) — the party's general secretary since 2012, who has reasserted its ideological authority and consolidated personal power within it.
+- [Sun Yat-sen](../people/sun-yat-sen.md) — republican founder whose 1924 First United Front first allied the party with his Kuomintang and whom the CCP still honors as a "forerunner of the revolution."
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

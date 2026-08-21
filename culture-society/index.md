@@ -13,6 +13,7 @@ Topics in this knowledge base concerning the philosophy, traditions, and social 
 |-------|-------------|
 | [Confucianism](confucianism.md) | An ancient philosophical and ethical system founded by Confucius that shaped Chinese governance, education, and values for nearly 2,000 years. |
 | [Taoism](taoism.md) | A Chinese philosophical and religious tradition rooted in the Tao Te Ching and Zhuangzi; teaching wu wei, naturalness, and harmony with the Tao, it forms the inward-turning, naturalistic complement to Confucianism. |
+| [Buddhism in China](buddhism-in-china.md) | The Indian religion that entered China via the Silk Road during the Han Dynasty and, over two millennia, synthesized with Confucianism and Taoism—shaping Chinese philosophy, art, literature, and daily spiritual life through the Chan, Pure Land, Huayan, and Tiantai schools. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).
