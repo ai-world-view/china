@@ -132,6 +132,7 @@ The Qin's name, *Qin* (*秦*), passed through Sanskrit (*Cīna*) and Persian (*C
 - [Mao Zedong](../people/mao-zedong.md) — Mao explicitly compared himself to Qin Shi Huang, embracing the comparison to centralized, ruthless unification.
 - [The Ming Dynasty](the-ming-dynasty.md) — a later unified empire that inherited the centralized bureaucratic model the Qin first imposed.
 - [The Han Dynasty](the-han-dynasty.md) — the dynasty that succeeded the Qin, preserving its centralized bureaucracy while softening its Legalism with Confucian governance.
+- [Qin Shi Huang](../people/qin-shi-huang.md) — the dynasty's founder and first emperor, who unified the warring states and built its centralized institutions.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -124,6 +124,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [Deng Xiaoping](../people/deng-xiaoping.md) — the paramount leader who reformed the party's economic line after 1978 while preserving its political monopoly.
 - [Xi Jinping](../people/xi-jinping.md) — the party's general secretary since 2012, who has reasserted its ideological authority and consolidated personal power within it.
 - [Sun Yat-sen](../people/sun-yat-sen.md) — republican founder whose 1924 First United Front first allied the party with his Kuomintang and whom the CCP still honors as a "forerunner of the revolution."
+- [Chinese Civil War](chinese-civil-war.md) — the 1927–1949 struggle against the Kuomintang from which the party emerged victorious to found the People's Republic.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

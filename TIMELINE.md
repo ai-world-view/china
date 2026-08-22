@@ -13,8 +13,12 @@ Reworked and extended as new content is added.
 |------|------|----------|------|
 | 551 BCE | Birth of Confucius in the state of Lu | People | [Confucius](people/confucius.md) |
 | 479 BCE | Death of Confucius; his disciples begin compiling the *Analects* | People | [Confucius](people/confucius.md) |
+| 259 BCE | Birth of Ying Zheng, the future Qin Shi Huang, in Handan | People | [Qin Shi Huang](people/qin-shi-huang.md) |
+| 246 BCE | Ying Zheng accedes to the Qin throne at age 13; construction of his mausoleum begins | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 221 BCE | Qin Shi Huang unifies the warring states and founds the Qin Dynasty, China's first centralized empire | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 221 BCE | Qin unification; the first continuous frontier wall is joined under general Meng Tian | Geography | [The Great Wall of China](geography/the-great-wall.md) |
+| 221 BCE | Ying Zheng completes the conquest of the six states and adopts the title *Shi Huangdi*, "First Emperor" | People | [Qin Shi Huang](people/qin-shi-huang.md) |
+| 213 BCE | The burning of books is ordered on the advice of chancellor Li Si | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 210 BCE | Death of Qin Shi Huang during his fifth imperial inspection tour | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 206 BCE | Collapse of the Qin Dynasty amid peasant rebellion and civil war | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 202 BCE | Liu Bang defeats Xiang Yu at Gaixia and founds the Han Dynasty as Emperor Gaozu | History | [The Han Dynasty](history/the-han-dynasty.md) |
@@ -79,11 +83,18 @@ Reworked and extended as new content is added.
 | 1921 | Founding of the Communist Party of China in Shanghai | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1925 | Death of Sun Yat-sen in Beijing; his body later interred at the Nanjing mausoleum | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1927 | The Shanghai Massacre shatters the KMT–CPC alliance, opening the Chinese Civil War | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1934 | The Long March begins as Communist forces retreat from Jiangxi | People | [Mao Zedong](people/mao-zedong.md) |
+| 1937 | The Second United Front suspends the civil war to resist the Japanese invasion | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1946 | Full-scale civil war resumes as the Marshall Mission fails to broker a coalition | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1948 | The Liaoshen, Huai-Hai, and Pingjin campaigns destroy the Nationalist field armies | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1949 | Proclamation of the People's Republic of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
+| 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1953 | Birth of Xi Jinping in Beijing | People | [Xi Jinping](people/xi-jinping.md) |
 | 1958 | Mao launches the Great Leap Forward, precipitating catastrophic famine | People | [Mao Zedong](people/mao-zedong.md) |
 | 1966 | Mao launches the Cultural Revolution | People | [Mao Zedong](people/mao-zedong.md) |
+| 1974 | Farmers digging a well near Xi'an discover the Terracotta Army in Qin Shi Huang's mausoleum complex | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 1976 | Death of Mao Zedong in Beijing | People | [Mao Zedong](people/mao-zedong.md) |
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 1980 | First Special Economic Zones established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
@@ -94,9 +105,14 @@ Reworked and extended as new content is added.
 | 1997 | Death of Deng Xiaoping in Beijing | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
-| 2013 | Belt and Road Initiative announced | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
+| 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2017 | Sri Lanka grants China a 99-year lease on Hambantota Port after a debt default | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
+| 2021 | The China–Laos Railway opens, linking Kunming toward Vientiane | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |
+| 2023 | The third Belt and Road Forum convenes as cumulative BRI investment surpasses $1 trillion | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 <!-- END GENERATED: timeline -->
 
 See also the [master index](INDEX.md).

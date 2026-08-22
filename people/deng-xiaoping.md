@@ -108,6 +108,8 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [Taoism](../culture-society/taoism.md) — "Feeling the stones" pragmatism parallels Taoist empiricism; Deng's reforms also enabled Taoist practice to revive after Cultural Revolution suppression
 - [The Ming Dynasty](../history/the-ming-dynasty.md) — Deng's outward-looking reform strategy inverts the Ming's inward retreat; both represent pivotal choices about China's relationship with the world
 - [Xi Jinping](xi-jinping.md) — Deng's eventual successor as paramount leader, who inherited his economic reforms while reversing his restraint on personal power and Party ideology
+- [Chinese Civil War](../government-politics/chinese-civil-war.md) — the conflict in which Deng served as a senior political commissar, notably in the decisive Huai-Hai Campaign
+- [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — the outbound-investment program that extends the "Go Out" strategy and opening-up that Deng set in motion
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

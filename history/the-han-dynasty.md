@@ -115,7 +115,8 @@ The Han also left a historical record: Sima Qian (145–86 BCE) compiled the *Sh
 - [Confucianism](../culture-society/confucianism.md) — elevated to state orthodoxy during the Han, becoming the foundation of imperial governance.
 - [The Forbidden City](../geography/the-forbidden-city.md) — the Ming palace embodied the centralized imperial hierarchy that the Han pioneered.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — modern reformer who looked to Han-Tang prosperity as a model for restoring China's wealth and international status.
-- [The Silk Road](the-silk-road.md) — the trade network that the Han Dynasty pioneered through its expansion into Central Asia.
+- [The Silk Road](../geography/the-silk-road.md) — the trade network that the Han Dynasty pioneered through its expansion into Central Asia.
+- [Qin Shi Huang](../people/qin-shi-huang.md) — the first emperor whose centralized state the Han inherited, preserving its structure while replacing Legalism with Confucian governance.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

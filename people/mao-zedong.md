@@ -133,6 +133,8 @@ Deng Xiaoping's reforms—the Economic Reform & Opening-up launched in 1978—we
 - [Deng Xiaoping](deng-xiaoping.md) — Mao's eventual successor, twice purged under Mao, who reversed much of his economic legacy after 1978.
 - [Xi Jinping](xi-jinping.md) — later leader who invoked Mao's model of strong centralized authority and personality-centered ideology while distancing himself from Maoist radicalism.
 - [Sun Yat-sen](sun-yat-sen.md) — republican revolutionary of the preceding generation whose unfinished national unification the Communists claimed to complete under Mao.
+- [Chinese Civil War](../government-politics/chinese-civil-war.md) — the 1927–1949 conflict Mao led to victory, founding the People's Republic of China.
+- [Qin Shi Huang](qin-shi-huang.md) — China's first emperor, to whom Mao explicitly and approvingly compared himself as a ruthless unifier.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

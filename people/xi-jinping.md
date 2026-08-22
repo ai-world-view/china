@@ -86,6 +86,7 @@ Xi's tenure represents a decisive departure from Deng Xiaoping's philosophy of p
 - [Confucianism](../culture-society/confucianism.md) — Xi has invoked Confucian ideas about hierarchy, moral leadership, and order to justify authoritarian governance.
 - [The Silk Road](../geography/the-silk-road.md) — the historical network Xi invokes as a precedent for the Belt and Road Initiative; the BRI explicitly claims to revive Silk Road-era patterns of Chinese-led trade and cultural exchange.
 - [The Han Dynasty](../history/the-han-dynasty.md) — an era of Chinese imperial power that Xi's "Chinese Dream" implicitly invokes, associating the CCP's governance with China's historical peaks of civilization and territorial extent.
+- [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — Xi's flagship global infrastructure and economic-integration program, launched in 2013 and central to his foreign-policy legacy.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

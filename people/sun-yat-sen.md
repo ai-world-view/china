@@ -95,6 +95,7 @@ His limitations are equally significant. He never achieved the stable democratic
 - [Xi Jinping](xi-jinping.md) — CCP leader who continues to invoke Sun in appeals for cross-strait national unity.
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — the modern realization of the industrial and economic development Sun envisioned in his "People's Livelihood" principle.
 - [Confucianism](../culture-society/confucianism.md) — the traditional order Sun sought to replace with a republican constitution while retaining its examination and censorate institutions in his five-power constitution.
+- [Chinese Civil War](../government-politics/chinese-civil-war.md) — the struggle between Sun's Kuomintang and the Communists that erupted after his death for control of the republic he founded.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

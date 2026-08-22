@@ -32,12 +32,14 @@ Category index: [history/](history/index.md)
 Category index: [government-politics/](government-politics/index.md)
 
 - [The Communist Party of China](government-politics/communist-party-china.md)
+- [Chinese Civil War](government-politics/chinese-civil-war.md)
 
 ## Economy
 
 Category index: [economy/](economy/index.md)
 
 - [Economic Reform & Opening-up (1978 Onward)](economy/economic-reform-opening-up.md)
+- [Belt and Road Initiative](economy/belt-and-road-initiative.md)
 
 ## Culture & Society
 
@@ -56,4 +58,5 @@ Category index: [people/](people/index.md)
 - [Deng Xiaoping](people/deng-xiaoping.md)
 - [Xi Jinping](people/xi-jinping.md)
 - [Sun Yat-sen](people/sun-yat-sen.md)
+- [Qin Shi Huang](people/qin-shi-huang.md)
 <!-- END GENERATED: master-index -->
