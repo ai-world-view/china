@@ -162,4 +162,5 @@ The BRI's ultimate legacy will depend on whether the infrastructure it builds ge
 - [The Communist Party of China](../government-politics/communist-party-china.md) — controlling entity and policy architect
 - [Deng Xiaoping](../people/deng-xiaoping.md) — architect of the "Go Out" policy and earlier outbound investment framework
 - [Mao Zedong](../people/mao-zedong.md) — predecessor whose centralized state apparatus the BRI leverages
+- [Special Economic Zones](./special-economic-zones.md) — the earlier domestic reform experiment whose opening-to-foreign-investment logic the BRI projects abroad
 <!-- END GENERATED: crossrefs -->

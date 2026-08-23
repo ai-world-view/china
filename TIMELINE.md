@@ -71,6 +71,7 @@ Reworked and extended as new content is added.
 | 1893 | Birth of Mao Zedong in Shaoshan, Hunan province | People | [Mao Zedong](people/mao-zedong.md) |
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1898 | Birth of Zhou Enlai in Huai'an, Jiangsu province | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1900 | The Dunhuang manuscript cache is discovered in the Mogao Caves | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 1901 | The Boxer Protocol imposes a massive indemnity after the Eight-Nation Alliance sacks Beijing | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1904 | Birth of Deng Xiaoping in Guang'an County, Sichuan province | People | [Deng Xiaoping](people/deng-xiaoping.md) |
@@ -92,20 +93,31 @@ Reworked and extended as new content is added.
 | 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1953 | Birth of Xi Jinping in Beijing | People | [Xi Jinping](people/xi-jinping.md) |
+| 1955 | Zhou Enlai articulates the Five Principles of Peaceful Coexistence at the Bandung Conference | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1958 | Mao launches the Great Leap Forward, precipitating catastrophic famine | People | [Mao Zedong](people/mao-zedong.md) |
+| 1966 | The "May 16 Circular" formally launches the Cultural Revolution; Red Guards mobilize nationwide | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1966 | Mao launches the Cultural Revolution | People | [Mao Zedong](people/mao-zedong.md) |
+| 1971 | Zhou Enlai hosts Henry Kissinger's secret Beijing visit, opening U.S.–China rapprochement | People | [Zhou Enlai](people/zhou-enlai.md) |
+| 1971 | Lin Biao dies in a plane crash in Mongolia after an alleged failed coup, discrediting the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
+| 1972 | President Nixon visits China; the Shanghai Communiqué is signed under Zhou Enlai's management | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1974 | Farmers digging a well near Xi'an discover the Terracotta Army in Qin Shi Huang's mausoleum complex | People | [Qin Shi Huang](people/qin-shi-huang.md) |
+| 1976 | Death of Zhou Enlai in Beijing; public mourning erupts at Tiananmen on April 5 | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1976 | Death of Mao Zedong in Beijing | People | [Mao Zedong](people/mao-zedong.md) |
+| 1976 | Arrest of the Gang of Four ends the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
-| 1980 | First Special Economic Zones established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
+| 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
+| 1980 | The four original Special Economic Zones are formally established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1989 | The Tiananmen Square protests are suppressed by military force on June 3–4 | People | [Deng Xiaoping](people/deng-xiaoping.md) |
+| 1990 | The Pudong New Area is launched, extending SEZ-style policy to Shanghai | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1992 | Deng's Southern Tour revives and accelerates market reform | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 1997 | Death of Deng Xiaoping in Beijing | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2013 | The China (Shanghai) Pilot Free Trade Zone opens in Pudong, extending the SEZ model to financial-services liberalization | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2017 | Sri Lanka grants China a 99-year lease on Hambantota Port after a debt default | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |

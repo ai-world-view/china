@@ -17,6 +17,7 @@ Topics in this knowledge base concerning the notable people who shaped China.
 | [Xi Jinping](xi-jinping.md) | Paramount leader since 2012 (General Secretary, President, and Military Commission Chairman); consolidated unprecedented personal power, launched the Belt and Road Initiative, reasserted Party ideological control, and positioned China as a superpower rival to the United States. |
 | [Sun Yat-sen](sun-yat-sen.md) | Revolutionary leader and founding father of the Republic of China (1866–1925); architect of the 1911 Xinhai Revolution that overthrew the Qing Dynasty and author of the Three Principles of the People—nationalism, democracy, and social welfare—revered across both the mainland and Taiwan. |
 | [Qin Shi Huang](qin-shi-huang.md) | Founder and first emperor of a unified China (259–210 BCE); conquered the Warring States, replaced feudalism with a centralized commandery-county bureaucracy, standardized writing, weights, measures, and currency, and was buried in the mausoleum guarded by the Terracotta Army. |
+| [Zhou Enlai](zhou-enlai.md) | First Premier of the People's Republic (1949–1976) and its foremost diplomat; survived the Long March, shielded officials and heritage during the Cultural Revolution, and orchestrated the 1971–1972 opening to the United States while advancing the Four Modernizations. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

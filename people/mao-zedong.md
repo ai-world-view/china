@@ -135,6 +135,8 @@ Deng Xiaoping's reforms—the Economic Reform & Opening-up launched in 1978—we
 - [Sun Yat-sen](sun-yat-sen.md) — republican revolutionary of the preceding generation whose unfinished national unification the Communists claimed to complete under Mao.
 - [Chinese Civil War](../government-politics/chinese-civil-war.md) — the 1927–1949 conflict Mao led to victory, founding the People's Republic of China.
 - [Qin Shi Huang](qin-shi-huang.md) — China's first emperor, to whom Mao explicitly and approvingly compared himself as a ruthless unifier.
+- [Cultural Revolution](../history/cultural-revolution.md) — the decade-long upheaval Mao launched in 1966 to reassert his authority and purge the party.
+- [Zhou Enlai](zhou-enlai.md) — Mao's long-serving premier and chief diplomat, who executed policy while working to blunt the era's worst excesses.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

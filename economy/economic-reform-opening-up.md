@@ -116,6 +116,8 @@ The reforms also reshaped international relations. Rising Chinese exports and fo
 - [Deng Xiaoping](../people/deng-xiaoping.md) — the paramount leader who launched and drove the reform program from 1978 onward.
 - [Xi Jinping](../people/xi-jinping.md) — inherited the reform-era economy and has reshaped it, tightening Party and state control over the private sector while retaining market mechanisms.
 - [Belt and Road Initiative](belt-and-road-initiative.md) — the outward-facing continuation of opening-up, exporting the investment capacity the reforms built.
+- [Special Economic Zones](special-economic-zones.md) — the pioneering instrument of the reform program, testing market mechanisms in fenced coastal enclaves.
+- [Zhou Enlai](../people/zhou-enlai.md) — premier whose Four Modernizations framework anticipated the reform agenda and who rehabilitated its architect, Deng Xiaoping.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

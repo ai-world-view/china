@@ -110,6 +110,9 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [Xi Jinping](xi-jinping.md) — Deng's eventual successor as paramount leader, who inherited his economic reforms while reversing his restraint on personal power and Party ideology
 - [Chinese Civil War](../government-politics/chinese-civil-war.md) — the conflict in which Deng served as a senior political commissar, notably in the decisive Huai-Hai Campaign
 - [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — the outbound-investment program that extends the "Go Out" strategy and opening-up that Deng set in motion
+- [Cultural Revolution](../history/cultural-revolution.md) — the upheaval that twice purged Deng and whose memory legitimized his later market reforms
+- [Special Economic Zones](../economy/special-economic-zones.md) — Deng's flagship reform experiment, whose Shenzhen success he championed on his 1992 Southern Tour
+- [Zhou Enlai](zhou-enlai.md) — the premier who rehabilitated Deng in 1973 and whose Four Modernizations framed Deng's reform agenda
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -26,6 +26,7 @@ Category index: [history/](history/index.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
 - [The Qing Dynasty](history/the-qing-dynasty.md)
+- [Cultural Revolution](history/cultural-revolution.md)
 
 ## Government & Politics
 
@@ -40,6 +41,7 @@ Category index: [economy/](economy/index.md)
 
 - [Economic Reform & Opening-up (1978 Onward)](economy/economic-reform-opening-up.md)
 - [Belt and Road Initiative](economy/belt-and-road-initiative.md)
+- [Special Economic Zones](economy/special-economic-zones.md)
 
 ## Culture & Society
 
@@ -59,4 +61,5 @@ Category index: [people/](people/index.md)
 - [Xi Jinping](people/xi-jinping.md)
 - [Sun Yat-sen](people/sun-yat-sen.md)
 - [Qin Shi Huang](people/qin-shi-huang.md)
+- [Zhou Enlai](people/zhou-enlai.md)
 <!-- END GENERATED: master-index -->
