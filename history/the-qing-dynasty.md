@@ -111,6 +111,7 @@ The Qing left an indelible imprint on modern China:
 - [The Forbidden City](../geography/the-forbidden-city.md) — the imperial palace from which the Qing emperors ruled until Puyi's 1912 abdication.
 - [The Communist Party of China](../government-politics/communist-party-china.md) — the party whose emphasis on national unity draws on the "century of humiliation" that began under the late Qing.
 - [Chinese Civil War](../government-politics/chinese-civil-war.md) — the struggle for the republic that arose from the Qing's collapse, ending with the Communist victory of 1949.
+- [The Opium Wars](the-opium-wars.md) — the mid-19th-century conflicts that forced the Qing open to Western trade and began the "century of humiliation" that hastened the dynasty's decline.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

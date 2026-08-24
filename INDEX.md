@@ -26,6 +26,7 @@ Category index: [history/](history/index.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
 - [The Qing Dynasty](history/the-qing-dynasty.md)
+- [The Opium Wars](history/the-opium-wars.md)
 - [Cultural Revolution](history/cultural-revolution.md)
 
 ## Government & Politics
@@ -62,4 +63,6 @@ Category index: [people/](people/index.md)
 - [Sun Yat-sen](people/sun-yat-sen.md)
 - [Qin Shi Huang](people/qin-shi-huang.md)
 - [Zhou Enlai](people/zhou-enlai.md)
+- [Jiang Zemin](people/jiang-zemin.md)
+- [Hu Jintao](people/hu-jintao.md)
 <!-- END GENERATED: master-index -->

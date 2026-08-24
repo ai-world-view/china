@@ -61,10 +61,12 @@ Reworked and extended as new content is added.
 | 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1744 CE | Beijing's Yonghe Temple is converted into a major Tibetan Buddhist monastery | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 1793 CE | The Macartney Mission is rebuffed as the Qianlong Emperor declines British trade overtures | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
-| 1839 | Commissioner Lin Zexu destroys British opium at Guangzhou, triggering the First Opium War | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
-| 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
+| 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1850 | The Taiping Rebellion erupts, beginning one of the deadliest civil wars in history | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
-| 1860 | Anglo-French forces burn the Summer Palace; the Treaty of Beijing ends the Second Opium War | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1856 | The Arrow incident triggers the Second Opium War between the Qing and an Anglo-French alliance | History | [The Opium Wars](history/the-opium-wars.md) |
+| 1858 | The Treaty of Tientsin opens further treaty ports and permits foreign legations in Beijing | History | [The Opium Wars](history/the-opium-wars.md) |
+| 1860 | Anglo-French forces burn the Summer Palace; the Convention of Peking ends the Second Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1864 | Qing forces suppress the Taiping Heavenly Kingdom after fourteen years of civil war | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1866 | Birth of Sun Yat-sen in Cuiheng village, Guangdong province | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1877 | Ferdinand von Richthofen coins the term "Silk Road" (*Seidenstraße*) | Geography | [The Silk Road](geography/the-silk-road.md) |
@@ -84,9 +86,11 @@ Reworked and extended as new content is added.
 | 1921 | Founding of the Communist Party of China in Shanghai | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1925 | Death of Sun Yat-sen in Beijing; his body later interred at the Nanjing mausoleum | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1926 | Birth of Jiang Zemin in Yangzhou, Jiangsu province | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1927 | The Shanghai Massacre shatters the KMT–CPC alliance, opening the Chinese Civil War | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1934 | The Long March begins as Communist forces retreat from Jiangxi | People | [Mao Zedong](people/mao-zedong.md) |
 | 1937 | The Second United Front suspends the civil war to resist the Japanese invasion | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1942 | Birth of Hu Jintao in Jiangsu province | People | [Hu Jintao](people/hu-jintao.md) |
 | 1946 | Full-scale civil war resumes as the Marshall Mission fails to broker a coalition | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1948 | The Liaoshen, Huai-Hai, and Pingjin campaigns destroy the Nationalist field armies | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1949 | Proclamation of the People's Republic of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
@@ -111,11 +115,16 @@ Reworked and extended as new content is added.
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1989 | The Tiananmen Square protests are suppressed by military force on June 3–4 | People | [Deng Xiaoping](people/deng-xiaoping.md) |
+| 1989 | Jiang Zemin becomes General Secretary of the Communist Party after the Tiananmen crisis | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1990 | The Pudong New Area is launched, extending SEZ-style policy to Shanghai | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1992 | Deng's Southern Tour revives and accelerates market reform | People | [Deng Xiaoping](people/deng-xiaoping.md) |
+| 1997 | Hong Kong is handed over to Chinese sovereignty under Jiang Zemin, ending 156 years of British rule | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1997 | Death of Deng Xiaoping in Beijing | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
+| 2002 | Hu Jintao becomes General Secretary of the Communist Party, beginning an orderly succession from Jiang Zemin | People | [Hu Jintao](people/hu-jintao.md) |
+| 2008 | Hu Jintao's China hosts the Beijing Summer Olympics and responds to the Sichuan earthquake | People | [Hu Jintao](people/hu-jintao.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
+| 2012 | Hu Jintao transfers leadership to Xi Jinping in an orderly, norm-based succession | People | [Hu Jintao](people/hu-jintao.md) |
 | 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2013 | The China (Shanghai) Pilot Free Trade Zone opens in Pudong, extending the SEZ model to financial-services liberalization | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
@@ -124,6 +133,8 @@ Reworked and extended as new content is added.
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
 | 2021 | The China–Laos Railway opens, linking Kunming toward Vientiane | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |
+| 2022 | Hu Jintao is unexpectedly escorted from the closing session of the 20th Party Congress on live television | People | [Hu Jintao](people/hu-jintao.md) |
+| 2022 | Death of Jiang Zemin in Shanghai at age 96 | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 2023 | The third Belt and Road Forum convenes as cumulative BRI investment surpasses $1 trillion | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 <!-- END GENERATED: timeline -->
 

@@ -113,6 +113,7 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [Cultural Revolution](../history/cultural-revolution.md) — the upheaval that twice purged Deng and whose memory legitimized his later market reforms
 - [Special Economic Zones](../economy/special-economic-zones.md) — Deng's flagship reform experiment, whose Shenzhen success he championed on his 1992 Southern Tour
 - [Zhou Enlai](zhou-enlai.md) — the premier who rehabilitated Deng in 1973 and whose Four Modernizations framed Deng's reform agenda
+- [Jiang Zemin](jiang-zemin.md) — the Shanghai leader Deng elevated to paramount leader in 1989 to carry his reform agenda forward
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
