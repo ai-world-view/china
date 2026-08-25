@@ -118,6 +118,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [Deng Xiaoping](../people/deng-xiaoping.md) — Later architect of China's outward integration with the world; his Reform era reversed the insularity the Ming exemplified
 - [The Silk Road](../geography/the-silk-road.md) — Overland trade network in decline by the Ming; Zheng He's treasure-fleet voyages represented a state-directed maritime counterpart to it
 - [The Qing Dynasty](the-qing-dynasty.md) — The Manchu dynasty that overthrew the Ming in 1644, inheriting its capital, palace, and bureaucratic institutions
+- [The Song Dynasty](the-song-dynasty.md) — The earlier Han-Chinese dynasty whose Neo-Confucian orthodoxy, cultural models, and scholar-official ideal the Ming restored after Mongol rule
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -98,6 +98,7 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [The Han Dynasty](../history/the-han-dynasty.md) — made Confucianism the official state ideology, beginning its two-thousand-year role as the foundation of imperial governance.
 - [Xi Jinping](../people/xi-jinping.md) — has selectively invoked Confucian ideas of hierarchy, order, and moral leadership to legitimize centralized Party rule.
 - [Buddhism in China](buddhism-in-china.md) — the tradition that both challenged Confucian orthodoxy as "foreign" and, through Neo-Confucianism, was absorbed into it.
+- [The Song Dynasty](../history/the-song-dynasty.md) — the era in which Zhu Xi synthesized Confucian ethics with Daoist and Buddhist metaphysics into Neo-Confucianism, the orthodoxy of later imperial China.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

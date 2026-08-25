@@ -106,6 +106,7 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 - [The Han Dynasty](the-han-dynasty.md) — the earlier foundational dynasty whose Silk Road routes and meritocratic ideals the Tang revived and perfected.
 - [The Silk Road](../geography/the-silk-road.md) — the trade network that reached its height of prosperity and cosmopolitan exchange under the Tang.
 - [Buddhism in China](../culture-society/buddhism-in-china.md) — the faith whose Chinese golden age unfolded under Tang patronage, when the Chan, Pure Land, Huayan, and Tiantai schools took mature form.
+- [The Song Dynasty](the-song-dynasty.md) — the dynasty that reunified China after the Tang's collapse and the Five Dynasties, looking back to Tang precedents while forging a new civilian-centered order.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

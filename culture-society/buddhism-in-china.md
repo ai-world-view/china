@@ -87,6 +87,7 @@ Today, China hosts an estimated 185–244 million Buddhist practitioners (variou
 - [The Qing Dynasty](../history/the-qing-dynasty.md) — whose Manchu emperors patronized Tibetan Buddhism as an instrument of rule over Mongol and Tibetan populations.
 - [The Silk Road](../geography/the-silk-road.md) — the trans-Eurasian network along which Buddhist monks, texts, and art reached China from India and Central Asia.
 - [Confucius](../people/confucius.md) — founder of the ethical tradition with which Buddhism synthesized in the "Three Teachings in One."
+- [Chinese Medicine](chinese-medicine.md) — the healing tradition that Buddhist monasteries and Indian knowledge transmission enriched, especially during the Tang, adding pharmaceutical and diagnostic concepts.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

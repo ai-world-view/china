@@ -36,9 +36,11 @@ Reworked and extended as new content is added.
 | 220 CE | The Eastern Han falls; the Three Kingdoms period begins | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 313 CE | The Ancient Sogdian Letters document Silk Road commerce near Dunhuang | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 401 CE | Kumarajiva reaches Chang'an and begins his landmark translations of the Lotus and Diamond Sutras | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
+| 610 CE | Chao Yuanfang compiles the *Zhubing Yuanhou Lun*, an imperial encyclopedia of disease origins and symptoms | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 618 CE | Li Yuan founds the Tang Dynasty after the collapse of the Sui | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 626 CE | Emperor Taizong takes the throne, opening the Tang golden age | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 645 CE | Xuanzang returns from India with 657 Sanskrit texts and founds the Consciousness-Only school | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
+| 659 CE | The Tang court issues the *Xinxiu Bencao*, regarded as the world's first officially promulgated pharmacopoeia | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 675 CE | The colossal Vairocana Buddha at the Longmen Grottoes is completed under Tang patronage | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 690 CE | Wu Zetian declares herself emperor, China's only reigning empress | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
@@ -47,6 +49,16 @@ Reworked and extended as new content is added.
 | 845 CE | The Huichang Persecution under Emperor Wuzong devastates Chinese Buddhist institutions | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 868 CE | A woodblock Diamond Sutra is printed at Dunhuang, the world's oldest dated printed book | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 907 CE | Fall of the Tang Dynasty; the Five Dynasties period begins | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 960 CE | Zhao Kuangyin seizes power and founds the Song Dynasty, establishing his capital at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 979 CE | Emperor Taizong completes the reunification of China proper, ending the Five Dynasties and Ten Kingdoms era | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1027 CE | Wang Weiyi casts bronze acupuncture mannequins to standardize the teaching of acupoints | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
+| 1069 CE | Wang Anshi launches the New Laws (*xin fa*) reform program under Emperor Shenzong | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1084 CE | Sima Guang completes the *Zizhi Tongjian*, a comprehensive chronicle spanning 1,362 years of Chinese history | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1092 CE | Su Song completes his water-powered astronomical clock tower at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1127 CE | The Jurchen Jin sack Kaifeng in the Jingkang Incident; the court flees south to found the Southern Song | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1200 CE | Death of Zhu Xi, whose Neo-Confucian synthesis becomes orthodox for Chinese education until 1905 | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1276 CE | Mongol forces capture the Southern Song capital of Hangzhou | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1279 CE | The Song fleet is annihilated at the Battle of Yamen, ending the dynasty and bringing all China under Mongol rule | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1368 CE | Zhu Yuanzhang founds the Ming Dynasty at Nanjing, expelling the Mongol Yuan | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
 | 1405 CE | Admiral Zheng He's first treasure-fleet voyage departs Nanjing | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
@@ -54,6 +66,7 @@ Reworked and extended as new content is added.
 | 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1433 CE | Zheng He's seventh and final voyage ends; the Ming suspends the treasure fleets | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
 | 1445 CE | The Daozang (Taoist Canon) is compiled under Ming patronage | Culture & Society | [Taoism](culture-society/taoism.md) |
+| 1596 CE | Li Shizhen's *Bencao Gangmu* (Compendium of Materia Medica) is published posthumously, documenting 1,892 substances | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 1616 CE | Nurhaci unifies the Jurchen clans and founds the Later Jin state | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1636 CE | Hong Taiji renames the dynasty "Qing" and his people "Manchu" | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1644 CE | The Ming Dynasty falls; Qing forces enter Beijing | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
@@ -97,12 +110,14 @@ Reworked and extended as new content is added.
 | 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1953 | Birth of Xi Jinping in Beijing | People | [Xi Jinping](people/xi-jinping.md) |
+| 1954 | The First National People's Congress convenes in Beijing and adopts the PRC's first constitution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 1955 | Zhou Enlai articulates the Five Principles of Peaceful Coexistence at the Bandung Conference | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1958 | Mao launches the Great Leap Forward, precipitating catastrophic famine | People | [Mao Zedong](people/mao-zedong.md) |
 | 1966 | The "May 16 Circular" formally launches the Cultural Revolution; Red Guards mobilize nationwide | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1966 | Mao launches the Cultural Revolution | People | [Mao Zedong](people/mao-zedong.md) |
 | 1971 | Zhou Enlai hosts Henry Kissinger's secret Beijing visit, opening U.S.–China rapprochement | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1971 | Lin Biao dies in a plane crash in Mongolia after an alleged failed coup, discrediting the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
+| 1972 | Tu Youyou's research team isolates the antimalarial compound artemisinin from sweet wormwood | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 1972 | President Nixon visits China; the Shanghai Communiqué is signed under Zhou Enlai's management | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1974 | Farmers digging a well near Xi'an discover the Terracotta Army in Qin Shi Huang's mausoleum complex | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 1976 | Death of Zhou Enlai in Beijing; public mourning erupts at Tiananmen on April 5 | People | [Zhou Enlai](people/zhou-enlai.md) |
@@ -111,6 +126,7 @@ Reworked and extended as new content is added.
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1980 | The four original Special Economic Zones are formally established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
+| 1982 | The National People's Congress adopts the current PRC Constitution, restoring formal constitutional governance after the Cultural Revolution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
@@ -128,14 +144,17 @@ Reworked and extended as new content is added.
 | 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2013 | The China (Shanghai) Pilot Free Trade Zone opens in Pudong, extending the SEZ model to financial-services liberalization | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2015 | Tu Youyou receives the Nobel Prize in Physiology or Medicine for artemisinin, a first for mainland Chinese science | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2017 | Sri Lanka grants China a 99-year lease on Hambantota Port after a debt default | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
+| 2020 | The NPC adopts China's first comprehensive Civil Code, and its Standing Committee enacts the Hong Kong National Security Law | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 2021 | The China–Laos Railway opens, linking Kunming toward Vientiane | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |
 | 2022 | Hu Jintao is unexpectedly escorted from the closing session of the 20th Party Congress on live television | People | [Hu Jintao](people/hu-jintao.md) |
 | 2022 | Death of Jiang Zemin in Shanghai at age 96 | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 2023 | The third Belt and Road Forum convenes as cumulative BRI investment surpasses $1 trillion | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2023 | The 14th National People's Congress installs Xi Jinping for a third presidential term and appoints Li Qiang as Premier | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 <!-- END GENERATED: timeline -->
 
 See also the [master index](INDEX.md).
