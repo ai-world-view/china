@@ -28,6 +28,7 @@ Category index: [history/](history/index.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
 - [The Qing Dynasty](history/the-qing-dynasty.md)
 - [The Opium Wars](history/the-opium-wars.md)
+- [The Great Leap Forward](history/the-great-leap-forward.md)
 - [Cultural Revolution](history/cultural-revolution.md)
 
 ## Government & Politics
@@ -54,6 +55,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Taoism](culture-society/taoism.md)
 - [Buddhism in China](culture-society/buddhism-in-china.md)
 - [Chinese Medicine](culture-society/chinese-medicine.md)
+- [The I Ching (Book of Changes)](culture-society/i-ching.md)
 
 ## People
 
@@ -68,4 +70,5 @@ Category index: [people/](people/index.md)
 - [Zhou Enlai](people/zhou-enlai.md)
 - [Jiang Zemin](people/jiang-zemin.md)
 - [Hu Jintao](people/hu-jintao.md)
+- [Zheng He](people/zheng-he.md)
 <!-- END GENERATED: master-index -->

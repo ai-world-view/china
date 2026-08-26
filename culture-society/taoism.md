@@ -112,6 +112,7 @@ Globally, Taoist concepts have profoundly influenced Western alternative spiritu
 - [The Forbidden City](../geography/the-forbidden-city.md) — Imperial palace designed with feng shui and Taoist cosmological principles; oriented on the north-south axis demanded by Taoist cosmology
 - [Buddhism in China](buddhism-in-china.md) — The imported tradition whose concepts first entered Chinese through Taoist vocabulary (*geyi*) and later blended with it in Chan practice and the "Three Teachings in One"
 - [Chinese Medicine](chinese-medicine.md) — The healing tradition whose theory of *qi*, yin-yang balance, and *yangsheng* (nourishing life) drew deeply on Taoist cosmology and practice
+- [The I Ching (Book of Changes)](i-ching.md) — The classic of change whose *yin*–*yang* cosmology and philosophy of natural transformation Taoism shares and elaborates
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

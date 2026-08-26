@@ -25,6 +25,7 @@ Reworked and extended as new content is added.
 | 200 BCE | Defeated at Baideng, Emperor Gaozu adopts the *heqin* policy of appeasing the Xiongnu | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 141 BCE | Emperor Wu of Han accedes to the throne, opening an era of expansion | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 136 BCE | Emperor Wu of Han designates Confucianism the official state ideology | Culture & Society | [Confucianism](culture-society/confucianism.md) |
+| 136 BCE | The I Ching is canonized among the Five Classics under Emperor Wu of Han | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 126 BCE | Zhang Qian returns from Central Asia, opening Han knowledge of the Western Regions and the Silk Road | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 9 CE | Wang Mang usurps the throne and founds the short-lived Xin Dynasty | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 25 CE | Liu Xiu restores the dynasty as the Eastern Han, with its capital at Luoyang | History | [The Han Dynasty](history/the-han-dynasty.md) |
@@ -56,15 +57,18 @@ Reworked and extended as new content is added.
 | 1084 CE | Sima Guang completes the *Zizhi Tongjian*, a comprehensive chronicle spanning 1,362 years of Chinese history | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1092 CE | Su Song completes his water-powered astronomical clock tower at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1127 CE | The Jurchen Jin sack Kaifeng in the Jingkang Incident; the court flees south to found the Southern Song | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1177 CE | Zhu Xi completes the *Zhouyi Benyi*, which becomes the standard examination commentary on the I Ching | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1200 CE | Death of Zhu Xi, whose Neo-Confucian synthesis becomes orthodox for Chinese education until 1905 | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1276 CE | Mongol forces capture the Southern Song capital of Hangzhou | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1279 CE | The Song fleet is annihilated at the Battle of Yamen, ending the dynasty and bringing all China under Mongol rule | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1368 CE | Zhu Yuanzhang founds the Ming Dynasty at Nanjing, expelling the Mongol Yuan | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
-| 1405 CE | Admiral Zheng He's first treasure-fleet voyage departs Nanjing | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
+| 1371 CE | Birth of Zheng He (Ma He) into a Muslim family in Kunyang, Yunnan | People | [Zheng He](people/zheng-he.md) |
+| 1405 CE | Zheng He's first treasure-fleet voyage sets sail for the Indian Ocean | People | [Zheng He](people/zheng-he.md) |
 | 1406 CE | Construction of the Forbidden City begins under the Yongle Emperor | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
-| 1433 CE | Zheng He's seventh and final voyage ends; the Ming suspends the treasure fleets | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
+| 1424 CE | The Yongle Emperor dies; the Hongxi Emperor orders a halt to the treasure voyages | People | [Zheng He](people/zheng-he.md) |
+| 1433 CE | Zheng He's seventh and final voyage ends and he dies at sea; the Ming abandons the treasure fleets | People | [Zheng He](people/zheng-he.md) |
 | 1445 CE | The Daozang (Taoist Canon) is compiled under Ming patronage | Culture & Society | [Taoism](culture-society/taoism.md) |
 | 1596 CE | Li Shizhen's *Bencao Gangmu* (Compendium of Materia Medica) is published posthumously, documenting 1,892 substances | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 1616 CE | Nurhaci unifies the Jurchen clans and founds the Later Jin state | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
@@ -72,6 +76,7 @@ Reworked and extended as new content is added.
 | 1644 CE | The Ming Dynasty falls; Qing forces enter Beijing | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
 | 1683 CE | The Qing annexes Taiwan, completing its conquest of Ming loyalist resistance | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1703 CE | Gottfried Wilhelm Leibniz notes that the I Ching's hexagram ordering corresponds to binary arithmetic | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1744 CE | Beijing's Yonghe Temple is converted into a major Tibetan Buddhist monastery | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 1793 CE | The Macartney Mission is rebuffed as the Qianlong Emperor declines British trade overtures | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
@@ -97,6 +102,7 @@ Reworked and extended as new content is added.
 | 1912 | The Republic of China is founded with Sun Yat-sen as provisional president | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1912 | Abdication of the last emperor, Puyi, ends dynastic rule in the Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1921 | Founding of the Communist Party of China in Shanghai | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
+| 1923 | Richard Wilhelm publishes his German translation of the I Ching, *I Ging: Das Buch der Wandlungen* | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1925 | Death of Sun Yat-sen in Beijing; his body later interred at the Nanjing mausoleum | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1926 | Birth of Jiang Zemin in Yangzhou, Jiangsu province | People | [Jiang Zemin](people/jiang-zemin.md) |
@@ -109,10 +115,13 @@ Reworked and extended as new content is added.
 | 1949 | Proclamation of the People's Republic of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1950 | The Wilhelm–Baynes English translation of the I Ching appears with C.G. Jung's foreword on synchronicity | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1953 | Birth of Xi Jinping in Beijing | People | [Xi Jinping](people/xi-jinping.md) |
 | 1954 | The First National People's Congress convenes in Beijing and adopts the PRC's first constitution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 1955 | Zhou Enlai articulates the Five Principles of Peaceful Coexistence at the Bandung Conference | People | [Zhou Enlai](people/zhou-enlai.md) |
-| 1958 | Mao launches the Great Leap Forward, precipitating catastrophic famine | People | [Mao Zedong](people/mao-zedong.md) |
+| 1958 | The Second Session of the Eighth Party Congress adopts the general line of the Great Leap Forward; communes and backyard steel furnaces spread nationwide | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
+| 1959 | Marshal Peng Dehuai is purged at the Lushan Conference for criticizing the Great Leap Forward | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
+| 1962 | The Seven Thousand Cadres Conference assesses the Great Leap's failures as retrenchment ends the famine | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
 | 1966 | The "May 16 Circular" formally launches the Cultural Revolution; Red Guards mobilize nationwide | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1966 | Mao launches the Cultural Revolution | People | [Mao Zedong](people/mao-zedong.md) |
 | 1971 | Zhou Enlai hosts Henry Kissinger's secret Beijing visit, opening U.S.–China rapprochement | People | [Zhou Enlai](people/zhou-enlai.md) |

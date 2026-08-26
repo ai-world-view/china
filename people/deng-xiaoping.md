@@ -114,6 +114,7 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [Special Economic Zones](../economy/special-economic-zones.md) — Deng's flagship reform experiment, whose Shenzhen success he championed on his 1992 Southern Tour
 - [Zhou Enlai](zhou-enlai.md) — the premier who rehabilitated Deng in 1973 and whose Four Modernizations framed Deng's reform agenda
 - [Jiang Zemin](jiang-zemin.md) — the Shanghai leader Deng elevated to paramount leader in 1989 to carry his reform agenda forward
+- [The Great Leap Forward](../history/the-great-leap-forward.md) — the Maoist mobilization disaster that Deng, retrenching alongside Liu Shaoqi from 1961, helped reverse and that shaped his later pragmatism
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

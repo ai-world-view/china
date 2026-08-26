@@ -99,6 +99,7 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [Xi Jinping](../people/xi-jinping.md) — has selectively invoked Confucian ideas of hierarchy, order, and moral leadership to legitimize centralized Party rule.
 - [Buddhism in China](buddhism-in-china.md) — the tradition that both challenged Confucian orthodoxy as "foreign" and, through Neo-Confucianism, was absorbed into it.
 - [The Song Dynasty](../history/the-song-dynasty.md) — the era in which Zhu Xi synthesized Confucian ethics with Daoist and Buddhist metaphysics into Neo-Confucianism, the orthodoxy of later imperial China.
+- [The I Ching (Book of Changes)](i-ching.md) — the divination classic that Confucius's tradition elevated to one of the Five Classics, embedding its philosophy of change in the examination curriculum.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -119,6 +119,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [The Silk Road](../geography/the-silk-road.md) — Overland trade network in decline by the Ming; Zheng He's treasure-fleet voyages represented a state-directed maritime counterpart to it
 - [The Qing Dynasty](the-qing-dynasty.md) — The Manchu dynasty that overthrew the Ming in 1644, inheriting its capital, palace, and bureaucratic institutions
 - [The Song Dynasty](the-song-dynasty.md) — The earlier Han-Chinese dynasty whose Neo-Confucian orthodoxy, cultural models, and scholar-official ideal the Ming restored after Mongol rule
+- [Zheng He](../people/zheng-he.md) — The Muslim eunuch admiral whose seven treasure-fleet voyages (1405–1433) marked the apex of Ming maritime power before the court's inward turn
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

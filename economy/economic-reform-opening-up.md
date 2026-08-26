@@ -118,6 +118,7 @@ The reforms also reshaped international relations. Rising Chinese exports and fo
 - [Belt and Road Initiative](belt-and-road-initiative.md) — the outward-facing continuation of opening-up, exporting the investment capacity the reforms built.
 - [Special Economic Zones](special-economic-zones.md) — the pioneering instrument of the reform program, testing market mechanisms in fenced coastal enclaves.
 - [Zhou Enlai](../people/zhou-enlai.md) — premier whose Four Modernizations framework anticipated the reform agenda and who rehabilitated its architect, Deng Xiaoping.
+- [The Great Leap Forward](../history/the-great-leap-forward.md) — the utopian mobilization campaign whose famine and failure made the empirical case for the market-oriented reforms that followed.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

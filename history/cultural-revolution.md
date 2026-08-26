@@ -89,6 +89,7 @@ Public discussion of the Cultural Revolution in China has oscillated: there was 
 - [The Communist Party of China](../government-politics/communist-party-china.md) — organization torn apart and rebuilt by the upheaval
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — reform program that partly addressed Cultural Revolution's damage
 - [Special Economic Zones](../economy/special-economic-zones.md) — post-Cultural Revolution market experiment enabled by the upheaval's discrediting of radical Maoism
+- [The Great Leap Forward](the-great-leap-forward.md) — the earlier Maoist campaign whose catastrophic failure and the intra-party criticism it provoked helped drive Mao to launch the Cultural Revolution
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

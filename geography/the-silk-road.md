@@ -123,6 +123,7 @@ In the 20th and 21st centuries, the Silk Road has become a symbol of cosmopolita
 - [Xi Jinping](../people/xi-jinping.md) — launched the Belt and Road Initiative (2013), explicitly framed as a revival of the Silk Road connecting China to Central Asia, Africa, and Europe through infrastructure and investment.
 - [Buddhism in China](../culture-society/buddhism-in-china.md) — the religion transmitted from India and Central Asia into China along these routes, carrying texts, art, and the Dunhuang cave libraries.
 - [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — the modern infrastructure program that invokes the Silk Road's name and legacy to frame China-led trade and investment across Eurasia.
+- [Zheng He](../people/zheng-he.md) — the Ming admiral whose Indian Ocean treasure voyages formed a state-directed maritime counterpart to the overland Silk Road, reaching the same Arabian and Indian emporia.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

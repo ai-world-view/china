@@ -146,6 +146,7 @@ In Chinese historical memory, the Song occupies a unique place as the dynasty of
 - [Chinese Medicine](../culture-society/chinese-medicine.md) — a tradition that flourished under Song patronage, with Wang Weiyi's bronze acupuncture mannequins (1027 CE) and the Imperial Medical Bureau systematizing clinical education.
 - [The Ming Dynasty](the-ming-dynasty.md) — the dynasty that succeeded the Yuan after the Mongol conquest and restored Han Chinese rule, adopting Song cultural and philosophical models.
 - [The Qing Dynasty](the-qing-dynasty.md) — the final imperial dynasty, which maintained Song-era Neo-Confucian orthodoxy and cultural standards throughout its reign.
+- [The I Ching (Book of Changes)](../culture-society/i-ching.md) — the classic on which Song thinkers Shao Yong and Zhu Xi wrote the mathematical and Neo-Confucian commentaries that shaped its later interpretation.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

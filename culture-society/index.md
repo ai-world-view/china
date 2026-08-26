@@ -15,6 +15,7 @@ Topics in this knowledge base concerning the philosophy, traditions, and social 
 | [Taoism](taoism.md) | A Chinese philosophical and religious tradition rooted in the Tao Te Ching and Zhuangzi; teaching wu wei, naturalness, and harmony with the Tao, it forms the inward-turning, naturalistic complement to Confucianism. |
 | [Buddhism in China](buddhism-in-china.md) | The Indian religion that entered China via the Silk Road during the Han Dynasty and, over two millennia, synthesized with Confucianism and Taoism—shaping Chinese philosophy, art, literature, and daily spiritual life through the Chan, Pure Land, Huayan, and Tiantai schools. |
 | [Chinese Medicine](chinese-medicine.md) | A healing system developed over more than 2,000 years—herbal pharmacology, acupuncture, moxibustion, and massage grounded in concepts of qi, yin-yang, and the Five Elements; still practiced worldwide, it yielded the Nobel Prize–winning antimalarial artemisinin. |
+| [The I Ching (Book of Changes)](i-ching.md) | One of the oldest Chinese texts; a divination manual and philosophy of change built on 64 six-line hexagrams of yin and yang—canonized as one of the Five Classics, central to the imperial examinations, and later noted by Leibniz for its binary structure. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

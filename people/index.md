@@ -20,6 +20,7 @@ Topics in this knowledge base concerning the notable people who shaped China.
 | [Zhou Enlai](zhou-enlai.md) | First Premier of the People's Republic (1949–1976) and its foremost diplomat; survived the Long March, shielded officials and heritage during the Cultural Revolution, and orchestrated the 1971–1972 opening to the United States while advancing the Four Modernizations. |
 | [Jiang Zemin](jiang-zemin.md) | Paramount leader (1989–2004) who rose in the Tiananmen crisis; presided over rapid growth, WTO accession, and the Hong Kong handover, pioneered the "Three Represents," and institutionalized orderly, term-limited succession. |
 | [Hu Jintao](hu-jintao.md) | Paramount leader (2002–2012); a centrist technocrat who continued market growth while promoting the "Harmonious Society" and "Scientific Outlook on Development," and upheld the collective-leadership norms his successor later dismantled. |
+| [Zheng He](zheng-he.md) | Ming Dynasty Muslim eunuch admiral (1371–1435) who commanded seven treasure-fleet voyages across the Indian Ocean to Arabia and East Africa (1405–1433)—the apex of Chinese sea power, before the court abandoned oceanic exploration and turned inward. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).
