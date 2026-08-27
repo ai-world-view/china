@@ -120,6 +120,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [The Qing Dynasty](the-qing-dynasty.md) — The Manchu dynasty that overthrew the Ming in 1644, inheriting its capital, palace, and bureaucratic institutions
 - [The Song Dynasty](the-song-dynasty.md) — The earlier Han-Chinese dynasty whose Neo-Confucian orthodoxy, cultural models, and scholar-official ideal the Ming restored after Mongol rule
 - [Zheng He](../people/zheng-he.md) — The Muslim eunuch admiral whose seven treasure-fleet voyages (1405–1433) marked the apex of Ming maritime power before the court's inward turn
+- [The Yuan Dynasty](the-yuan-dynasty.md) — The Mongol dynasty the Ming overthrew in 1368, expelling its court to Mongolia and restoring Han-Chinese rule
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

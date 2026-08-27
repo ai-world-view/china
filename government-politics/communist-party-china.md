@@ -127,6 +127,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [Chinese Civil War](chinese-civil-war.md) — the 1927–1949 struggle against the Kuomintang from which the party emerged victorious to found the People's Republic.
 - [Cultural Revolution](../history/cultural-revolution.md) — the 1966–1976 upheaval that convulsed and rebuilt the party's own structures under Mao.
 - [The National People's Congress](national-peoples-congress.md) — the state legislature through which the party exercises formal legislative authority and ratifies its decisions.
+- [The 1989 Tiananmen Square Pro-Democracy Movement](tiananmen-square-1989.md) — the pro-democracy protests the party suppressed by force in June 1989, reaffirming its monopoly on political power.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

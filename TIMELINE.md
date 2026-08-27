@@ -13,7 +13,14 @@ Reworked and extended as new content is added.
 |------|------|----------|------|
 | 551 BCE | Birth of Confucius in the state of Lu | People | [Confucius](people/confucius.md) |
 | 479 BCE | Death of Confucius; his disciples begin compiling the *Analects* | People | [Confucius](people/confucius.md) |
+| 475 BCE | Traditional start of the Warring States Period as Zhou authority fragments among contending states | History | [The Warring States Period](history/warring-states-period.md) |
+| 453 BCE | The state of Jin is partitioned among the Han, Wei, and Zhao houses, forming three of the seven warring states | History | [The Warring States Period](history/warring-states-period.md) |
+| 359 BCE | Shang Yang begins his Legalist reforms in Qin under Duke Xiao, forging the era's most powerful state | History | [The Warring States Period](history/warring-states-period.md) |
+| 341 BCE | The Battle of Maling ends Wei's military dominance among the warring states | History | [The Warring States Period](history/warring-states-period.md) |
+| 307 BCE | King Wuling of Zhao adopts cavalry and nomadic dress, revolutionizing Chinese warfare | History | [The Warring States Period](history/warring-states-period.md) |
+| 260 BCE | The Battle of Changping: the Qin general Bai Qi annihilates the Zhao army, crippling Qin's last major rival | History | [The Warring States Period](history/warring-states-period.md) |
 | 259 BCE | Birth of Ying Zheng, the future Qin Shi Huang, in Handan | People | [Qin Shi Huang](people/qin-shi-huang.md) |
+| 256 BCE | Qin extinguishes the Zhou royal house, ending its nominal authority over the warring states | History | [The Warring States Period](history/warring-states-period.md) |
 | 246 BCE | Ying Zheng accedes to the Qin throne at age 13; construction of his mausoleum begins | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 221 BCE | Qin Shi Huang unifies the warring states and founds the Qin Dynasty, China's first centralized empire | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 221 BCE | Qin unification; the first continuous frontier wall is joined under general Meng Tian | Geography | [The Great Wall of China](geography/the-great-wall.md) |
@@ -59,8 +66,14 @@ Reworked and extended as new content is added.
 | 1127 CE | The Jurchen Jin sack Kaifeng in the Jingkang Incident; the court flees south to found the Southern Song | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1177 CE | Zhu Xi completes the *Zhouyi Benyi*, which becomes the standard examination commentary on the I Ching | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1200 CE | Death of Zhu Xi, whose Neo-Confucian synthesis becomes orthodox for Chinese education until 1905 | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1234 CE | Mongol forces complete the conquest of the Jin Dynasty, bringing northern China under Mongol rule | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1271 CE | Kublai Khan proclaims the Yuan Dynasty and makes Dadu (modern Beijing) his capital | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1274 CE | The first Mongol invasion of Japan is destroyed by a typhoon the Japanese call *kamikaze* ("divine wind") | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1276 CE | Mongol forces capture the Southern Song capital of Hangzhou | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1279 CE | The Song fleet is annihilated at the Battle of Yamen, ending the dynasty and bringing all China under Mongol rule | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 1281 CE | A second, larger Mongol invasion of Japan is again destroyed by typhoon | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1294 CE | Death of Kublai Khan opens a period of rapid succession and dynastic instability | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1351 CE | The Red Turban Rebellion erupts amid Yellow River floods and famine, beginning the Yuan's collapse | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1368 CE | Zhu Yuanzhang founds the Ming Dynasty at Nanjing, expelling the Mongol Yuan | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
 | 1371 CE | Birth of Zheng He (Ma He) into a Muslim family in Kunyang, Yunnan | People | [Zheng He](people/zheng-he.md) |
@@ -139,7 +152,8 @@ Reworked and extended as new content is added.
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
-| 1989 | The Tiananmen Square protests are suppressed by military force on June 3–4 | People | [Deng Xiaoping](people/deng-xiaoping.md) |
+| 1989 | The death of reformist leader Hu Yaobang on April 15 sparks the student-led Tiananmen Square pro-democracy movement | Government & Politics | [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md) |
+| 1989 | The People's Liberation Army suppresses the Tiananmen Square pro-democracy movement by force on June 3–4 | Government & Politics | [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md) |
 | 1989 | Jiang Zemin becomes General Secretary of the Communist Party after the Tiananmen crisis | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1990 | The Pudong New Area is launched, extending SEZ-style policy to Shanghai | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1992 | Deng's Southern Tour revives and accelerates market reform | People | [Deng Xiaoping](people/deng-xiaoping.md) |

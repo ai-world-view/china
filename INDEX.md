@@ -21,10 +21,12 @@ Category index: [geography/](geography/index.md)
 
 Category index: [history/](history/index.md)
 
+- [The Warring States Period](history/warring-states-period.md)
 - [The Qin Dynasty](history/the-qin-dynasty.md)
 - [The Han Dynasty](history/the-han-dynasty.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
 - [The Song Dynasty](history/the-song-dynasty.md)
+- [The Yuan Dynasty](history/the-yuan-dynasty.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
 - [The Qing Dynasty](history/the-qing-dynasty.md)
 - [The Opium Wars](history/the-opium-wars.md)
@@ -38,6 +40,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [The Communist Party of China](government-politics/communist-party-china.md)
 - [Chinese Civil War](government-politics/chinese-civil-war.md)
 - [The National People's Congress](government-politics/national-peoples-congress.md)
+- [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md)
 
 ## Economy
 

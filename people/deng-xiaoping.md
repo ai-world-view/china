@@ -115,6 +115,7 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [Zhou Enlai](zhou-enlai.md) — the premier who rehabilitated Deng in 1973 and whose Four Modernizations framed Deng's reform agenda
 - [Jiang Zemin](jiang-zemin.md) — the Shanghai leader Deng elevated to paramount leader in 1989 to carry his reform agenda forward
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — the Maoist mobilization disaster that Deng, retrenching alongside Liu Shaoqi from 1961, helped reverse and that shaped his later pragmatism
+- [The 1989 Tiananmen Square Pro-Democracy Movement](../government-politics/tiananmen-square-1989.md) — the pro-democracy protests Deng ordered suppressed by military force in June 1989, before his 1992 Southern Tour revived economic reform
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

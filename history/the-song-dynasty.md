@@ -147,6 +147,7 @@ In Chinese historical memory, the Song occupies a unique place as the dynasty of
 - [The Ming Dynasty](the-ming-dynasty.md) — the dynasty that succeeded the Yuan after the Mongol conquest and restored Han Chinese rule, adopting Song cultural and philosophical models.
 - [The Qing Dynasty](the-qing-dynasty.md) — the final imperial dynasty, which maintained Song-era Neo-Confucian orthodoxy and cultural standards throughout its reign.
 - [The I Ching (Book of Changes)](../culture-society/i-ching.md) — the classic on which Song thinkers Shao Yong and Zhu Xi wrote the mathematical and Neo-Confucian commentaries that shaped its later interpretation.
+- [The Yuan Dynasty](the-yuan-dynasty.md) — the Mongol dynasty that conquered the Southern Song at the Battle of Yamen in 1279 and ruled all China until 1368.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
