@@ -113,6 +113,7 @@ The Qing left an indelible imprint on modern China:
 - [Chinese Civil War](../government-politics/chinese-civil-war.md) — the struggle for the republic that arose from the Qing's collapse, ending with the Communist victory of 1949.
 - [The Opium Wars](the-opium-wars.md) — the mid-19th-century conflicts that forced the Qing open to Western trade and began the "century of humiliation" that hastened the dynasty's decline.
 - [The Song Dynasty](the-song-dynasty.md) — the earlier dynasty whose Neo-Confucian orthodoxy and scholarly culture the Qing upheld and canonized throughout its rule.
+- [The Boxer Rebellion](the-boxer-rebellion.md) — the 1899–1901 anti-foreign uprising the late Qing court embraced, whose suppression and punitive protocol hastened the dynasty's fall.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

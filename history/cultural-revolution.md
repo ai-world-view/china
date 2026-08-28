@@ -90,6 +90,7 @@ Public discussion of the Cultural Revolution in China has oscillated: there was 
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — reform program that partly addressed Cultural Revolution's damage
 - [Special Economic Zones](../economy/special-economic-zones.md) — post-Cultural Revolution market experiment enabled by the upheaval's discrediting of radical Maoism
 - [The Great Leap Forward](the-great-leap-forward.md) — the earlier Maoist campaign whose catastrophic failure and the intra-party criticism it provoked helped drive Mao to launch the Cultural Revolution
+- [The Long March](the-long-march.md) — the founding revolutionary ordeal repeatedly invoked as inspirational precedent during the Cultural Revolution
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

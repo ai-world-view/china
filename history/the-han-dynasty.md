@@ -117,6 +117,7 @@ The Han also left a historical record: Sima Qian (145–86 BCE) compiled the *Sh
 - [Deng Xiaoping](../people/deng-xiaoping.md) — modern reformer who looked to Han-Tang prosperity as a model for restoring China's wealth and international status.
 - [The Silk Road](../geography/the-silk-road.md) — the trade network that the Han Dynasty pioneered through its expansion into Central Asia.
 - [Qin Shi Huang](../people/qin-shi-huang.md) — the first emperor whose centralized state the Han inherited, preserving its structure while replacing Legalism with Confucian governance.
+- [The Sui Dynasty](the-sui-dynasty.md) — the later dynasty that consciously revived the Han's unified imperial model after centuries of division.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

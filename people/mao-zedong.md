@@ -138,6 +138,7 @@ Deng Xiaoping's reforms—the Economic Reform & Opening-up launched in 1978—we
 - [Cultural Revolution](../history/cultural-revolution.md) — the decade-long upheaval Mao launched in 1966 to reassert his authority and purge the party.
 - [Zhou Enlai](zhou-enlai.md) — Mao's long-serving premier and chief diplomat, who executed policy while working to blunt the era's worst excesses.
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — Mao's 1958–1962 campaign to industrialize through mass mobilization, whose resulting famine discredited his economic leadership and isolated him within the party.
+- [The Long March](../history/the-long-march.md) — the 1934–1935 retreat during which Mao rose to pre-eminence at the Zunyi Conference, an ascendancy he held until his death.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

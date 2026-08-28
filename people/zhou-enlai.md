@@ -75,6 +75,7 @@ His legacy is contested. Admirers point to lives saved, institutions protected, 
 - [Special Economic Zones](../economy/special-economic-zones.md) — SEZ logic rooted in Zhou's Four Modernizations concept
 - [The Communist Party of China](../government-politics/communist-party-china.md) — party Zhou helped found and served
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — reforms that followed Zhou's opening diplomacy and built on his Four Modernizations framework
+- [The Long March](../history/the-long-march.md) — the 1934–1935 retreat on which Zhou's self-criticism at the Zunyi Conference helped shift military leadership to Mao
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

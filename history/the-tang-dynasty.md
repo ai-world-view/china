@@ -97,6 +97,7 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 ## Related
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+- [The Sui Dynasty](the-sui-dynasty.md) — the short-lived dynasty that reunified China and built the Grand Canal, bequeathing to the Tang the administrative and legal template it perfected.
 - [The Qin Dynasty](the-qin-dynasty.md) — the earlier foundational dynasty whose bureaucratic model the Tang inherited and refined.
 - [Confucius](../people/confucius.md) — Confucian philosophy, particularly the civil examination system he inspired, was the Tang Dynasty's primary administrative framework.
 - [The Forbidden City](../geography/the-forbidden-city.md) — the Ming Dynasty palace whose architectural and administrative traditions drew directly on Tang precedents.

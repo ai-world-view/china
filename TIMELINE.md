@@ -44,7 +44,12 @@ Reworked and extended as new content is added.
 | 220 CE | The Eastern Han falls; the Three Kingdoms period begins | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 313 CE | The Ancient Sogdian Letters document Silk Road commerce near Dunhuang | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 401 CE | Kumarajiva reaches Chang'an and begins his landmark translations of the Lotus and Diamond Sutras | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
+| 581 CE | Yang Jian deposes the Northern Zhou and founds the Sui Dynasty as Emperor Wen, promulgating the Kaihuang Code | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
+| 589 CE | The Sui conquers the Chen Dynasty, reunifying China after nearly three centuries of division | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
+| 605 CE | Emperor Yang begins large-scale construction of the Grand Canal, linking northern and southern China | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 610 CE | Chao Yuanfang compiles the *Zhubing Yuanhou Lun*, an imperial encyclopedia of disease origins and symptoms | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
+| 612 CE | Emperor Yang's first invasion of Goguryeo ends in catastrophe at the Salsu River | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
+| 618 CE | Emperor Yang is assassinated at Jiangdu and the Sui Dynasty collapses | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 618 CE | Li Yuan founds the Tang Dynasty after the collapse of the Sui | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 626 CE | Emperor Taizong takes the throne, opening the Tang golden age | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 645 CE | Xuanzang returns from India with 657 Sanskrit texts and founds the Consciousness-Only school | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
@@ -105,8 +110,10 @@ Reworked and extended as new content is added.
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1898 | Birth of Zhou Enlai in Huai'an, Jiangsu province | People | [Zhou Enlai](people/zhou-enlai.md) |
+| 1899 | The Boxer movement ("Righteous and Harmonious Fists") spreads through Shandong amid drought and foreign encroachment | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
 | 1900 | The Dunhuang manuscript cache is discovered in the Mogao Caves | Geography | [The Silk Road](geography/the-silk-road.md) |
-| 1901 | The Boxer Protocol imposes a massive indemnity after the Eight-Nation Alliance sacks Beijing | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1900 | The Eight-Nation Alliance lifts the 55-day siege of Beijing's Legation Quarter and occupies the capital | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
+| 1901 | The Boxer Protocol imposes a 450-million-tael indemnity after the Eight-Nation Alliance sacks Beijing | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
 | 1904 | Birth of Deng Xiaoping in Guang'an County, Sichuan province | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 1905 | Sun Yat-sen forms the Tongmenghui in Tokyo and proclaims the Three Principles of the People | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1905 | Abolition of the Confucian imperial examination system | Culture & Society | [Confucianism](culture-society/confucianism.md) |
@@ -120,7 +127,9 @@ Reworked and extended as new content is added.
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1926 | Birth of Jiang Zemin in Yangzhou, Jiangsu province | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1927 | The Shanghai Massacre shatters the KMT–CPC alliance, opening the Chinese Civil War | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
-| 1934 | The Long March begins as Communist forces retreat from Jiangxi | People | [Mao Zedong](people/mao-zedong.md) |
+| 1934 | The Long March begins as some 86,000 Communist troops break out of the encircled Jiangxi Soviet | History | [The Long March](history/the-long-march.md) |
+| 1935 | At the Zunyi Conference, Mao Zedong rises to pre-eminence in the party's military leadership | History | [The Long March](history/the-long-march.md) |
+| 1935 | The First Front Army reaches northern Shaanxi, ending the Long March after roughly 9,000 km | History | [The Long March](history/the-long-march.md) |
 | 1937 | The Second United Front suspends the civil war to resist the Japanese invasion | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1942 | Birth of Hu Jintao in Jiangsu province | People | [Hu Jintao](people/hu-jintao.md) |
 | 1946 | Full-scale civil war resumes as the Marshall Mission fails to broker a coalition | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |

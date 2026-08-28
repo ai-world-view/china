@@ -128,6 +128,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [Cultural Revolution](../history/cultural-revolution.md) — the 1966–1976 upheaval that convulsed and rebuilt the party's own structures under Mao.
 - [The National People's Congress](national-peoples-congress.md) — the state legislature through which the party exercises formal legislative authority and ratifies its decisions.
 - [The 1989 Tiananmen Square Pro-Democracy Movement](tiananmen-square-1989.md) — the pro-democracy protests the party suppressed by force in June 1989, reaffirming its monopoly on political power.
+- [The Long March](../history/the-long-march.md) — the 1934–1935 retreat that preserved the party as an organized force and became a foundational narrative of its legitimacy.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
