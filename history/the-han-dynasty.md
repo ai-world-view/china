@@ -118,6 +118,7 @@ The Han also left a historical record: Sima Qian (145–86 BCE) compiled the *Sh
 - [The Silk Road](../geography/the-silk-road.md) — the trade network that the Han Dynasty pioneered through its expansion into Central Asia.
 - [Qin Shi Huang](../people/qin-shi-huang.md) — the first emperor whose centralized state the Han inherited, preserving its structure while replacing Legalism with Confucian governance.
 - [The Sui Dynasty](the-sui-dynasty.md) — the later dynasty that consciously revived the Han's unified imperial model after centuries of division.
+- [The Yellow River](../geography/the-yellow-river.md) — the river whose dikes and irrigation the Han managed through the first professional hydraulic bureaucracy under Emperor Wu.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

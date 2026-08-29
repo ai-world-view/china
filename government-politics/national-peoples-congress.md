@@ -89,6 +89,7 @@ The relationship between the NPC and the Communist Party illustrates a broader p
 - [Deng Xiaoping](../people/deng-xiaoping.md) — architect of reform-era governance who reinstituted constitutional procedures and the NPC as a ratification venue for market-oriented laws.
 - [Xi Jinping](../people/xi-jinping.md) — the paramount leader who used the NPC to remove presidential term limits in 2018, consolidating his authority.
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — the post-1978 policy agenda that the NPC formally enacted through multiple laws and regulations.
+- [The Standing Committee of the Politburo](standing-committee-politburo.md) — the party's inner leadership body whose decisions the NPC formally ratifies through party discipline.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

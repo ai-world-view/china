@@ -89,6 +89,7 @@ Xi's tenure represents a decisive departure from Deng Xiaoping's philosophy of p
 - [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — Xi's flagship global infrastructure and economic-integration program, launched in 2013 and central to his foreign-policy legacy.
 - [Hu Jintao](hu-jintao.md) — Xi's immediate predecessor, from whom he received power in 2012 and whose collective-leadership norms he subsequently dismantled.
 - [Jiang Zemin](jiang-zemin.md) — the paramount leader who institutionalized the orderly succession and term limits that Xi later reversed.
+- [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — the party's supreme body, which Xi has reshaped with loyalists and subordinated to his personal authority.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

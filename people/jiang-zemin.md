@@ -156,6 +156,8 @@ However, Jiang is often overlooked in popular and even scholarly narratives. He 
 - [Special Economic Zones](../economy/special-economic-zones.md) — Laboratories of market reform that flourished under Jiang's stewardship, particularly Shenzhen's explosive growth in the 1990s.
 - [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — Xi's global infrastructure program, which built on the economic foundation and global integration that Jiang's era had established.
 - [The 1989 Tiananmen Square Pro-Democracy Movement](../government-politics/tiananmen-square-1989.md) — the crisis whose aftermath propelled Jiang from Shanghai Party chief to General Secretary, replacing the purged Zhao Ziyang.
+- [State-Owned Enterprises](../economy/state-owned-enterprises.md) — the state sector Jiang and Premier Zhu Rongji restructured in the late 1990s through the "grasp the large, release the small" reform.
+- [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — the party's top body through which Jiang balanced factions and managed the orderly succession to Hu Jintao.
 
 ## END GENERATED: crossrefs
 

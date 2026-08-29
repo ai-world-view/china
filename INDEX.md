@@ -16,6 +16,7 @@ Category index: [geography/](geography/index.md)
 - [The Great Wall of China](geography/the-great-wall.md)
 - [The Forbidden City](geography/the-forbidden-city.md)
 - [The Silk Road](geography/the-silk-road.md)
+- [The Yellow River](geography/the-yellow-river.md)
 
 ## History
 
@@ -43,6 +44,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [The Communist Party of China](government-politics/communist-party-china.md)
 - [Chinese Civil War](government-politics/chinese-civil-war.md)
 - [The National People's Congress](government-politics/national-peoples-congress.md)
+- [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md)
 - [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md)
 
 ## Economy
@@ -52,6 +54,7 @@ Category index: [economy/](economy/index.md)
 - [Economic Reform & Opening-up (1978 Onward)](economy/economic-reform-opening-up.md)
 - [Belt and Road Initiative](economy/belt-and-road-initiative.md)
 - [Special Economic Zones](economy/special-economic-zones.md)
+- [State-Owned Enterprises (SOEs)](economy/state-owned-enterprises.md)
 
 ## Culture & Society
 

@@ -72,6 +72,7 @@ More broadly, the SEZ model demonstrated how state control and market mechanisms
 - [Belt and Road Initiative](belt-and-road-initiative.md) — later Xi-era expansion of global economic integration
 - [The Qing Dynasty](../history/the-qing-dynasty.md) — earlier Canton System prefigured SEZs as trade enclaves
 - [The Silk Road](../geography/the-silk-road.md) — historical precedent for trade-based economic integration
+- [State-Owned Enterprises](state-owned-enterprises.md) — the state sector that stayed dominant in strategic industries even as the zones opened space for private and foreign firms
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

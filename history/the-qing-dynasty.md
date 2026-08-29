@@ -114,6 +114,7 @@ The Qing left an indelible imprint on modern China:
 - [The Opium Wars](the-opium-wars.md) — the mid-19th-century conflicts that forced the Qing open to Western trade and began the "century of humiliation" that hastened the dynasty's decline.
 - [The Song Dynasty](the-song-dynasty.md) — the earlier dynasty whose Neo-Confucian orthodoxy and scholarly culture the Qing upheld and canonized throughout its rule.
 - [The Boxer Rebellion](the-boxer-rebellion.md) — the 1899–1901 anti-foreign uprising the late Qing court embraced, whose suppression and punitive protocol hastened the dynasty's fall.
+- [The Yellow River](../geography/the-yellow-river.md) — the river whose management consumed vast Qing resources under emperors like Kangxi, its catastrophic 1855 and 1887 breaches exposing the dynasty's decline.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

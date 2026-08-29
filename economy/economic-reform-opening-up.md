@@ -119,6 +119,7 @@ The reforms also reshaped international relations. Rising Chinese exports and fo
 - [Special Economic Zones](special-economic-zones.md) — the pioneering instrument of the reform program, testing market mechanisms in fenced coastal enclaves.
 - [Zhou Enlai](../people/zhou-enlai.md) — premier whose Four Modernizations framework anticipated the reform agenda and who rehabilitated its architect, Deng Xiaoping.
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — the utopian mobilization campaign whose famine and failure made the empirical case for the market-oriented reforms that followed.
+- [State-Owned Enterprises](state-owned-enterprises.md) — the state sector that persisted alongside the reforms and proved the hardest and slowest part of the economy to restructure.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

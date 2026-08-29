@@ -163,4 +163,5 @@ The BRI's ultimate legacy will depend on whether the infrastructure it builds ge
 - [Deng Xiaoping](../people/deng-xiaoping.md) — architect of the "Go Out" policy and earlier outbound investment framework
 - [Mao Zedong](../people/mao-zedong.md) — predecessor whose centralized state apparatus the BRI leverages
 - [Special Economic Zones](./special-economic-zones.md) — the earlier domestic reform experiment whose opening-to-foreign-investment logic the BRI projects abroad
+- [State-Owned Enterprises](./state-owned-enterprises.md) — the state construction, energy, and telecom firms that serve as the primary contractors and vehicles for BRI projects
 <!-- END GENERATED: crossrefs -->

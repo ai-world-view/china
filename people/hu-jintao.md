@@ -149,6 +149,7 @@ Hu is perhaps the least iconic of China's post-Mao paramount leaders. He lacked 
 - [Confucianism](../culture-society/confucianism.md) — The ancient philosophy from which Hu drew the concept of "Harmonious Society" to articulate his development vision.
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — The market-oriented agenda Hu continued and refined while attempting to address its social costs.
 - [Special Economic Zones](../economy/special-economic-zones.md) — The engines of growth from earlier decades that Hu's administration sought to replicate in central and western provinces.
+- [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — The party's top body, which under Hu expanded to nine members and epitomized the collective-leadership model he upheld.
 
 ## END GENERATED: crossrefs
 

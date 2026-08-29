@@ -116,6 +116,8 @@ The contrast with the [Ming Dynasty's](../history/the-ming-dynasty.md) inward re
 - [Jiang Zemin](jiang-zemin.md) — the Shanghai leader Deng elevated to paramount leader in 1989 to carry his reform agenda forward
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — the Maoist mobilization disaster that Deng, retrenching alongside Liu Shaoqi from 1961, helped reverse and that shaped his later pragmatism
 - [The 1989 Tiananmen Square Pro-Democracy Movement](../government-politics/tiananmen-square-1989.md) — the pro-democracy protests Deng ordered suppressed by military force in June 1989, before his 1992 Southern Tour revived economic reform
+- [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — the party's top body whose collective-leadership norms Deng institutionalized after 1978 to prevent a return to one-man rule
+- [State-Owned Enterprises](../economy/state-owned-enterprises.md) — the state firms whose cautious early reform Deng launched while keeping strategic sectors under state control
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

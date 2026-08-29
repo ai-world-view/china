@@ -65,6 +65,7 @@ Reworked and extended as new content is added.
 | 960 CE | Zhao Kuangyin seizes power and founds the Song Dynasty, establishing his capital at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 979 CE | Emperor Taizong completes the reunification of China proper, ending the Five Dynasties and Ten Kingdoms era | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1027 CE | Wang Weiyi casts bronze acupuncture mannequins to standardize the teaching of acupoints | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
+| 1048 CE | A catastrophic avulsion shifts the Yellow River's lower course northward, deepening the Northern Song's fiscal and political crises | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1069 CE | Wang Anshi launches the New Laws (*xin fa*) reform program under Emperor Shenzong | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1084 CE | Sima Guang completes the *Zizhi Tongjian*, a comprehensive chronicle spanning 1,362 years of Chinese history | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1092 CE | Su Song completes his water-powered astronomical clock tower at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
@@ -91,6 +92,7 @@ Reworked and extended as new content is added.
 | 1596 CE | Li Shizhen's *Bencao Gangmu* (Compendium of Materia Medica) is published posthumously, documenting 1,892 substances | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 1616 CE | Nurhaci unifies the Jurchen clans and founds the Later Jin state | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1636 CE | Hong Taiji renames the dynasty "Qing" and his people "Manchu" | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1642 CE | Defenders breach the Yellow River dikes to flood Li Zicheng's rebels besieging Kaifeng, destroying the city and killing an estimated 300,000 | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1644 CE | The Ming Dynasty falls; Qing forces enter Beijing | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
 | 1683 CE | The Qing annexes Taiwan, completing its conquest of Ming loyalist resistance | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
@@ -100,12 +102,14 @@ Reworked and extended as new content is added.
 | 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1850 | The Taiping Rebellion erupts, beginning one of the deadliest civil wars in history | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1855 | The Yellow River bursts its banks at Tongwaxiang and shifts to a new northern course into the Bohai Sea, disrupting the Grand Canal amid the Taiping Rebellion | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1856 | The Arrow incident triggers the Second Opium War between the Qing and an Anglo-French alliance | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1858 | The Treaty of Tientsin opens further treaty ports and permits foreign legations in Beijing | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1860 | Anglo-French forces burn the Summer Palace; the Convention of Peking ends the Second Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1864 | Qing forces suppress the Taiping Heavenly Kingdom after fourteen years of civil war | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1866 | Birth of Sun Yat-sen in Cuiheng village, Guangdong province | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1877 | Ferdinand von Richthofen coins the term "Silk Road" (*Seidenstraße*) | Geography | [The Silk Road](geography/the-silk-road.md) |
+| 1887 | The Yellow River bursts at Huayuankou, flooding Henan and Shandong and killing an estimated 900,000 to two million | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1893 | Birth of Mao Zedong in Shaoshan, Hunan province | People | [Mao Zedong](people/mao-zedong.md) |
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
@@ -131,6 +135,7 @@ Reworked and extended as new content is added.
 | 1935 | At the Zunyi Conference, Mao Zedong rises to pre-eminence in the party's military leadership | History | [The Long March](history/the-long-march.md) |
 | 1935 | The First Front Army reaches northern Shaanxi, ending the Long March after roughly 9,000 km | History | [The Long March](history/the-long-march.md) |
 | 1937 | The Second United Front suspends the civil war to resist the Japanese invasion | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1938 | Nationalist forces deliberately breach the Yellow River dikes at Huayuankou to slow the Japanese advance, killing an estimated 400,000 to 900,000 civilians | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1942 | Birth of Hu Jintao in Jiangsu province | People | [Hu Jintao](people/hu-jintao.md) |
 | 1946 | Full-scale civil war resumes as the Marshall Mission fails to broker a coalition | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1948 | The Liaoshen, Huai-Hai, and Pingjin campaigns destroy the Nationalist field armies | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
@@ -143,6 +148,7 @@ Reworked and extended as new content is added.
 | 1955 | Zhou Enlai articulates the Five Principles of Peaceful Coexistence at the Bandung Conference | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1958 | The Second Session of the Eighth Party Congress adopts the general line of the Great Leap Forward; communes and backyard steel furnaces spread nationwide | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
 | 1959 | Marshal Peng Dehuai is purged at the Lushan Conference for criticizing the Great Leap Forward | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
+| 1960 | The Soviet-aided Sanmenxia Dam on the Yellow River is completed, but silts up within two years, discrediting large dams on sediment-heavy rivers | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1962 | The Seven Thousand Cadres Conference assesses the Great Leap's failures as retrenchment ends the famine | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
 | 1966 | The "May 16 Circular" formally launches the Cultural Revolution; Red Guards mobilize nationwide | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1966 | Mao launches the Cultural Revolution | People | [Mao Zedong](people/mao-zedong.md) |
@@ -158,6 +164,7 @@ Reworked and extended as new content is added.
 | 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1980 | The four original Special Economic Zones are formally established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1982 | The National People's Congress adopts the current PRC Constitution, restoring formal constitutional governance after the Cultural Revolution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
+| 1982 | The revised Party Constitution abolishes the Chairmanship and restores the General Secretary and Standing Committee system to institutionalize collective leadership | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
@@ -166,23 +173,30 @@ Reworked and extended as new content is added.
 | 1989 | Jiang Zemin becomes General Secretary of the Communist Party after the Tiananmen crisis | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1990 | The Pudong New Area is launched, extending SEZ-style policy to Shanghai | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1992 | Deng's Southern Tour revives and accelerates market reform | People | [Deng Xiaoping](people/deng-xiaoping.md) |
+| 1993 | The Company Law converts state-owned enterprises from administrative units into corporate legal entities | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
+| 1997 | The 15th Party Congress endorses "grasp the large, release the small," retaining major SOEs while selling or merging smaller ones | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 1997 | Hong Kong is handed over to Chinese sovereignty under Jiang Zemin, ending 156 years of British rule | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1997 | Death of Deng Xiaoping in Beijing | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 2002 | Hu Jintao becomes General Secretary of the Communist Party, beginning an orderly succession from Jiang Zemin | People | [Hu Jintao](people/hu-jintao.md) |
+| 2003 | The State-owned Assets Supervision and Administration Commission (SASAC) is established to oversee the central state-owned enterprises | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 2008 | Hu Jintao's China hosts the Beijing Summer Olympics and responds to the Sichuan earthquake | People | [Hu Jintao](people/hu-jintao.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
+| 2012 | The 18th Party Congress reduces the Politburo Standing Committee from nine members to seven, consolidating authority under Xi Jinping | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
 | 2012 | Hu Jintao transfers leadership to Xi Jinping in an orderly, norm-based succession | People | [Hu Jintao](people/hu-jintao.md) |
 | 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2013 | The China (Shanghai) Pilot Free Trade Zone opens in Pudong, extending the SEZ model to financial-services liberalization | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2015 | The Guidelines on Deepening SOE Reform distinguish "commercial" from "public-interest" enterprises and promote "mixed ownership" | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 2015 | Tu Youyou receives the Nobel Prize in Physiology or Medicine for artemisinin, a first for mainland Chinese science | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2017 | Sri Lanka grants China a 99-year lease on Hambantota Port after a debt default | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
+| 2019 | Xi Jinping launches the Yellow River Ecological Protection and High-Quality Development strategy at a symposium in Zhengzhou | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 2020 | The NPC adopts China's first comprehensive Civil Code, and its Standing Committee enacts the Hong Kong National Security Law | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 2021 | The China–Laos Railway opens, linking Kunming toward Vientiane | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |
+| 2022 | The 20th Party Congress seats a Standing Committee composed of Xi Jinping loyalists, abandoning the reform-era norm of balanced factional representation | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
 | 2022 | Hu Jintao is unexpectedly escorted from the closing session of the 20th Party Congress on live television | People | [Hu Jintao](people/hu-jintao.md) |
 | 2022 | Death of Jiang Zemin in Shanghai at age 96 | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 2023 | The third Belt and Road Forum convenes as cumulative BRI investment surpasses $1 trillion | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
