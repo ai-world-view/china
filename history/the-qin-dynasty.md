@@ -134,6 +134,7 @@ The Qin's name, *Qin* (*秦*), passed through Sanskrit (*Cīna*) and Persian (*C
 - [The Han Dynasty](the-han-dynasty.md) — the dynasty that succeeded the Qin, preserving its centralized bureaucracy while softening its Legalism with Confucian governance.
 - [Qin Shi Huang](../people/qin-shi-huang.md) — the dynasty's founder and first emperor, who unified the warring states and built its centralized institutions.
 - [The Warring States Period](warring-states-period.md) — the era of division whose seven contending kingdoms Qin conquered between 230 and 221 BCE, and whose Legalist reforms in Qin made that conquest possible.
+- [The Shang Dynasty](the-shang-dynasty.md) — the Bronze Age dynasty whose literate, scribal statecraft the Qin's centralized bureaucracy ultimately extended.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

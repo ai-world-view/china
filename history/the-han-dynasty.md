@@ -119,6 +119,8 @@ The Han also left a historical record: Sima Qian (145–86 BCE) compiled the *Sh
 - [Qin Shi Huang](../people/qin-shi-huang.md) — the first emperor whose centralized state the Han inherited, preserving its structure while replacing Legalism with Confucian governance.
 - [The Sui Dynasty](the-sui-dynasty.md) — the later dynasty that consciously revived the Han's unified imperial model after centuries of division.
 - [The Yellow River](../geography/the-yellow-river.md) — the river whose dikes and irrigation the Han managed through the first professional hydraulic bureaucracy under Emperor Wu.
+- [The Yangtze River](../geography/the-yangtze-river.md) — the southern river whose fertile basin became the economic center of southern China from the Han onward.
+- [The Shang Dynasty](the-shang-dynasty.md) — the Bronze Age dynasty whose Yellow River statecraft, writing, and ritual the Han imperial order ultimately inherited.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

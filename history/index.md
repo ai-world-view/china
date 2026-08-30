@@ -11,6 +11,7 @@ Topics in this knowledge base concerning the history of China — its dynasties,
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 | Topic | Description |
 |-------|-------------|
+| [The Shang Dynasty](the-shang-dynasty.md) | China's earliest archaeologically and textually confirmed dynasty (c. 1600–1046 BCE) and the apex of its Bronze Age; it produced the oracle-bone script ancestral to modern Chinese writing, monumental ritual bronzes, a theocratic ancestor cult, and the scribal statecraft later dynasties inherited, before falling to the Zhou at the Battle of Muye. |
 | [The Warring States Period](warring-states-period.md) | An era of intense interstate conflict (475–221 BCE) when pre-imperial China fragmented into seven contending kingdoms; it produced mass infantry warfare, *The Art of War*, the "Hundred Schools of Thought," and Shang Yang's Legalist reforms before Qin's unification ended more than two centuries of division. |
 | [The Qin Dynasty](the-qin-dynasty.md) | China's first centralized empire (221–206 BCE); unified the warring states, standardized writing, weights, measures, and currency, and created the bureaucratic imperial model that endured for over two millennia. |
 | [The Han Dynasty](the-han-dynasty.md) | The second imperial dynasty (206 BCE–220 CE); made Confucianism the state ideology, opened the Silk Road under Emperor Wu, and set the template of centralized, meritocratic imperial rule that later dynasties emulated—so foundational that the Chinese majority is still called "Han." |

@@ -98,6 +98,7 @@ BEGIN GENERATED: crossrefs
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — modern water management and hydroelectric projects reflect contemporary economic priorities.
 - [State-Owned Enterprises](../economy/state-owned-enterprises.md) — SOEs such as China Three Gorges Corporation manage major hydroelectric infrastructure on China's river systems.
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — Xi Jinping's Yellow River Ecological Protection strategy was announced and directed at the highest levels of party leadership.
+- [The Yangtze River](the-yangtze-river.md) — China's longest river and southern counterpart, whose flooding and prosperity contrast with the Yellow River's "Sorrow."
 END GENERATED: crossrefs
 
 ## Sources

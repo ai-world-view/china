@@ -11,6 +11,9 @@ Reworked and extended as new content is added.
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |------|------|----------|------|
+| c. 1600 BCE | The Shang Dynasty rises over the Yellow River plain, inaugurating China's historical Bronze Age | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| c. 1250 BCE | The reign of Wu Ding begins; the Shang capital at Yin (near modern Anyang) reaches its cultural and military peak, producing the bulk of the oracle-bone record | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| c. 1046 BCE | The Zhou defeat the Shang at the Battle of Muye, ending the dynasty and founding the long-lived Zhou | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 551 BCE | Birth of Confucius in the state of Lu | People | [Confucius](people/confucius.md) |
 | 479 BCE | Death of Confucius; his disciples begin compiling the *Analects* | People | [Confucius](people/confucius.md) |
 | 475 BCE | Traditional start of the Warring States Period as Zhou authority fragments among contending states | History | [The Warring States Period](history/warring-states-period.md) |
@@ -41,12 +44,14 @@ Reworked and extended as new content is added.
 | 142 CE | Zhang Daoling founds the Way of the Celestial Masters, Taoism's first organized church | Culture & Society | [Taoism](culture-society/taoism.md) |
 | 166 CE | An embassy claiming to represent Rome ("Daqin") reaches the Han court | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 184 CE | The Yellow Turban Rebellion erupts, fatally weakening the Eastern Han | History | [The Han Dynasty](history/the-han-dynasty.md) |
+| 208 CE | At the Battle of Red Cliffs on the Yangtze, the allied forces of Liu Bei and Sun Quan destroy Cao Cao's fleet, setting the Three Kingdoms division | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 220 CE | The Eastern Han falls; the Three Kingdoms period begins | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 313 CE | The Ancient Sogdian Letters document Silk Road commerce near Dunhuang | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 401 CE | Kumarajiva reaches Chang'an and begins his landmark translations of the Lotus and Diamond Sutras | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 581 CE | Yang Jian deposes the Northern Zhou and founds the Sui Dynasty as Emperor Wen, promulgating the Kaihuang Code | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 589 CE | The Sui conquers the Chen Dynasty, reunifying China after nearly three centuries of division | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 605 CE | Emperor Yang begins large-scale construction of the Grand Canal, linking northern and southern China | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
+| 605 CE | Emperor Yang of Sui institutes the *jinshi* ("presented scholar") degree, the foundation of the imperial examination system | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 610 CE | Chao Yuanfang compiles the *Zhubing Yuanhou Lun*, an imperial encyclopedia of disease origins and symptoms | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 612 CE | Emperor Yang's first invasion of Goguryeo ends in catastrophe at the Salsu River | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 618 CE | Emperor Yang is assassinated at Jiangdu and the Sui Dynasty collapses | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
@@ -63,6 +68,7 @@ Reworked and extended as new content is added.
 | 868 CE | A woodblock Diamond Sutra is printed at Dunhuang, the world's oldest dated printed book | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 907 CE | Fall of the Tang Dynasty; the Five Dynasties period begins | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 960 CE | Zhao Kuangyin seizes power and founds the Song Dynasty, establishing his capital at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| 973 CE | Emperor Taizu of Song institutes the palace examination (*dianshi*), personally ranking graduates and making the examinations the primary path to office | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 979 CE | Emperor Taizong completes the reunification of China proper, ending the Five Dynasties and Ten Kingdoms era | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1027 CE | Wang Weiyi casts bronze acupuncture mannequins to standardize the teaching of acupoints | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 1048 CE | A catastrophic avulsion shifts the Yellow River's lower course northward, deepening the Northern Song's fiscal and political crises | Geography | [The Yellow River](geography/the-yellow-river.md) |
@@ -79,6 +85,7 @@ Reworked and extended as new content is added.
 | 1279 CE | The Song fleet is annihilated at the Battle of Yamen, ending the dynasty and bringing all China under Mongol rule | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1281 CE | A second, larger Mongol invasion of Japan is again destroyed by typhoon | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1294 CE | Death of Kublai Khan opens a period of rapid succession and dynastic instability | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1315 CE | The Yuan Dynasty restores the imperial examinations under Emperor Renzong, with separate quotas favoring Mongols and Central Asians | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 1351 CE | The Red Turban Rebellion erupts amid Yellow River floods and famine, beginning the Yuan's collapse | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1368 CE | Zhu Yuanzhang founds the Ming Dynasty at Nanjing, expelling the Mongol Yuan | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
@@ -114,13 +121,14 @@ Reworked and extended as new content is added.
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1898 | Birth of Zhou Enlai in Huai'an, Jiangsu province | People | [Zhou Enlai](people/zhou-enlai.md) |
+| 1899 | The scholar Wang Yirong recognizes inscribed "dragon bones" sold as medicine as ancient Shang oracle bones, opening the study of the earliest Chinese writing | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 1899 | The Boxer movement ("Righteous and Harmonious Fists") spreads through Shandong amid drought and foreign encroachment | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
 | 1900 | The Dunhuang manuscript cache is discovered in the Mogao Caves | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 1900 | The Eight-Nation Alliance lifts the 55-day siege of Beijing's Legation Quarter and occupies the capital | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
 | 1901 | The Boxer Protocol imposes a 450-million-tael indemnity after the Eight-Nation Alliance sacks Beijing | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
 | 1904 | Birth of Deng Xiaoping in Guang'an County, Sichuan province | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 1905 | Sun Yat-sen forms the Tongmenghui in Tokyo and proclaims the Three Principles of the People | People | [Sun Yat-sen](people/sun-yat-sen.md) |
-| 1905 | Abolition of the Confucian imperial examination system | Culture & Society | [Confucianism](culture-society/confucianism.md) |
+| 1905 | The Qing court abolishes the imperial examination system by edict on September 2, ending 1,300 years of examination-based bureaucratic selection | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 1908 | The Guangxu Emperor and Empress Dowager Cixi die on consecutive days | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1911 | The Wuchang Uprising ignites the Xinhai Revolution against the Qing | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1912 | The Republic of China is founded with Sun Yat-sen as provisional president | People | [Sun Yat-sen](people/sun-yat-sen.md) |
@@ -131,6 +139,8 @@ Reworked and extended as new content is added.
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1926 | Birth of Jiang Zemin in Yangzhou, Jiangsu province | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1927 | The Shanghai Massacre shatters the KMT–CPC alliance, opening the Chinese Civil War | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1928 | Systematic excavation of Yinxu, the last Shang capital near Anyang, begins under Academia Sinica and Li Ji, confirming the dynasty archaeologically | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| 1931 | Catastrophic Yangtze and Huai River floods inundate some 180,000 km² and kill an estimated 3.7 million, among the deadliest natural disasters in recorded history | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 1934 | The Long March begins as some 86,000 Communist troops break out of the encircled Jiangxi Soviet | History | [The Long March](history/the-long-march.md) |
 | 1935 | At the Zunyi Conference, Mao Zedong rises to pre-eminence in the party's military leadership | History | [The Long March](history/the-long-march.md) |
 | 1935 | The First Front Army reaches northern Shaanxi, ending the Long March after roughly 9,000 km | History | [The Long March](history/the-long-march.md) |
@@ -159,6 +169,7 @@ Reworked and extended as new content is added.
 | 1974 | Farmers digging a well near Xi'an discover the Terracotta Army in Qin Shi Huang's mausoleum complex | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 1976 | Death of Zhou Enlai in Beijing; public mourning erupts at Tiananmen on April 5 | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1976 | Death of Mao Zedong in Beijing | People | [Mao Zedong](people/mao-zedong.md) |
+| 1976 | Archaeologist Zheng Zhenxiang excavates the intact tomb of Fu Hao at Yinxu, the only unlooted royal Shang burial yet found | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 1976 | Arrest of the Gang of Four ends the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
@@ -174,13 +185,17 @@ Reworked and extended as new content is added.
 | 1990 | The Pudong New Area is launched, extending SEZ-style policy to Shanghai | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1992 | Deng's Southern Tour revives and accelerates market reform | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 1993 | The Company Law converts state-owned enterprises from administrative units into corporate legal entities | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
+| 1994 | Construction of the Three Gorges Dam, the world's largest hydroelectric project, begins at Sandouping on the Yangtze | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 1997 | The 15th Party Congress endorses "grasp the large, release the small," retaining major SOEs while selling or merging smaller ones | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 1997 | Hong Kong is handed over to Chinese sovereignty under Jiang Zemin, ending 156 years of British rule | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1997 | Death of Deng Xiaoping in Beijing | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 2002 | Hu Jintao becomes General Secretary of the Communist Party, beginning an orderly succession from Jiang Zemin | People | [Hu Jintao](people/hu-jintao.md) |
 | 2003 | The State-owned Assets Supervision and Administration Commission (SASAC) is established to oversee the central state-owned enterprises | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
+| 2006 | Yinxu, the ruins of the last Shang capital at Anyang, is inscribed as a UNESCO World Heritage Site | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| 2007 | The baiji (Yangtze river dolphin) is declared functionally extinct after a survey finds none, the first large vertebrate lost to human activity in over fifty years | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2008 | Hu Jintao's China hosts the Beijing Summer Olympics and responds to the Sichuan earthquake | People | [Hu Jintao](people/hu-jintao.md) |
+| 2012 | The Three Gorges Dam is declared fully operational as its final turbines are commissioned, reaching 22,500 MW of installed capacity | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 2012 | The 18th Party Congress reduces the Politburo Standing Committee from nine members to seven, consolidating authority under Xi Jinping | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
 | 2012 | Hu Jintao transfers leadership to Xi Jinping in an orderly, norm-based succession | People | [Hu Jintao](people/hu-jintao.md) |
@@ -194,6 +209,7 @@ Reworked and extended as new content is added.
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
 | 2019 | Xi Jinping launches the Yellow River Ecological Protection and High-Quality Development strategy at a symposium in Zhengzhou | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 2020 | The NPC adopts China's first comprehensive Civil Code, and its Standing Committee enacts the Hong Kong National Security Law | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
+| 2021 | China begins a ten-year fishing moratorium on the Yangtze main stem and key tributaries, and enacts the Yangtze Protection Law | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2021 | The China–Laos Railway opens, linking Kunming toward Vientiane | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |
 | 2022 | The 20th Party Congress seats a Standing Committee composed of Xi Jinping loyalists, abandoning the reform-era norm of balanced factional representation | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |

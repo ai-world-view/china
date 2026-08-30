@@ -17,11 +17,13 @@ Category index: [geography/](geography/index.md)
 - [The Forbidden City](geography/the-forbidden-city.md)
 - [The Silk Road](geography/the-silk-road.md)
 - [The Yellow River](geography/the-yellow-river.md)
+- [The Yangtze River](geography/the-yangtze-river.md)
 
 ## History
 
 Category index: [history/](history/index.md)
 
+- [The Shang Dynasty](history/the-shang-dynasty.md)
 - [The Warring States Period](history/warring-states-period.md)
 - [The Qin Dynasty](history/the-qin-dynasty.md)
 - [The Han Dynasty](history/the-han-dynasty.md)
@@ -41,6 +43,7 @@ Category index: [history/](history/index.md)
 
 Category index: [government-politics/](government-politics/index.md)
 
+- [The Imperial Examination System](government-politics/imperial-examination-system.md)
 - [The Communist Party of China](government-politics/communist-party-china.md)
 - [Chinese Civil War](government-politics/chinese-civil-war.md)
 - [The National People's Congress](government-politics/national-peoples-congress.md)

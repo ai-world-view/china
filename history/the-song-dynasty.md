@@ -149,6 +149,7 @@ In Chinese historical memory, the Song occupies a unique place as the dynasty of
 - [The I Ching (Book of Changes)](../culture-society/i-ching.md) — the classic on which Song thinkers Shao Yong and Zhu Xi wrote the mathematical and Neo-Confucian commentaries that shaped its later interpretation.
 - [The Yuan Dynasty](the-yuan-dynasty.md) — the Mongol dynasty that conquered the Southern Song at the Battle of Yamen in 1279 and ruled all China until 1368.
 - [The Yellow River](../geography/the-yellow-river.md) — the river whose catastrophic 1048 avulsion deepened the Northern Song's fiscal and political crises.
+- [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the meritocratic mechanism the Song made the primary path to office, standardizing its Neo-Confucian curriculum.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

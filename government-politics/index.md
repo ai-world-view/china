@@ -11,6 +11,7 @@ Topics in this knowledge base concerning the government, political institutions,
 <!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
 | Topic | Description |
 |-------|-------------|
+| [The Imperial Examination System](imperial-examination-system.md) | The competitive written civil-service examination that selected imperial China's officials from the Sui and Tang through its abolition in 1905; grounded in the Confucian classics and Zhu Xi's Neo-Confucian orthodoxy, it enabled social mobility, standardized administrative competence, and shaped the scholar-official ideal for over a millennium. |
 | [The Communist Party of China](communist-party-china.md) | The founding and ruling political party of the People's Republic of China since 1949, governing through the Leninist principle of democratic centralism. |
 | [Chinese Civil War](chinese-civil-war.md) | Armed struggle (1927–1949) between the Nationalist Kuomintang and the Communist Party of China; the Communist victory established the People's Republic in 1949 while the defeated Nationalists retreated to Taiwan. |
 | [The National People's Congress](national-peoples-congress.md) | The PRC's constitutionally "highest organ of state power" and chief legislature, established in 1954; nominally supreme, it functions in practice as a ratifying body for decisions made by the Communist Party. |
