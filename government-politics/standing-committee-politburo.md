@@ -98,7 +98,7 @@ The Standing Committee is the actual seat of power in China's political system, 
 
 ## Related
 
-BEGIN GENERATED: crossrefs
+<!-- BEGIN GENERATED: crossrefs -->
 - [The Communist Party of China](communist-party-china.md) — the Standing Committee is the party's supreme decision-making organ.
 - [The National People's Congress](national-peoples-congress.md) — formally a legislature but subordinate to Standing Committee direction via party discipline.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — consolidated power through the Standing Committee post-1978 reform and institutionalized collective leadership norms.
@@ -108,7 +108,7 @@ BEGIN GENERATED: crossrefs
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — major policy initiatives directed through Standing Committee deliberation.
 - [State-Owned Enterprises](../economy/state-owned-enterprises.md) — SOE reform policy, including the 2015 guidelines, originates at Standing Committee level.
 - [The Yellow River](../geography/the-yellow-river.md) — Xi Jinping's Yellow River Ecological Protection strategy was launched as a national initiative from the Standing Committee level.
-END GENERATED: crossrefs
+<!-- END GENERATED: crossrefs -->
 
 ## Sources
 

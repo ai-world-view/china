@@ -14,7 +14,10 @@ Reworked and extended as new content is added.
 | c. 1600 BCE | The Shang Dynasty rises over the Yellow River plain, inaugurating China's historical Bronze Age | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1250 BCE | The reign of Wu Ding begins; the Shang capital at Yin (near modern Anyang) reaches its cultural and military peak, producing the bulk of the oracle-bone record | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1046 BCE | The Zhou defeat the Shang at the Battle of Muye, ending the dynasty and founding the long-lived Zhou | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| c. 1046 BCE | King Wu founds the Zhou Dynasty and proclaims the Mandate of Heaven to legitimize the conquest | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
+| 771 BCE | The Quanrong sack the capital Hao and kill King You, ending the Western Zhou; the court flees east to Luoyi, beginning the Eastern Zhou | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
 | 551 BCE | Birth of Confucius in the state of Lu | People | [Confucius](people/confucius.md) |
+| 486 BCE | The state of Wu digs the Han Gou canal linking the Huai River to the Yangtze, an early precursor of the Grand Canal | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 479 BCE | Death of Confucius; his disciples begin compiling the *Analects* | People | [Confucius](people/confucius.md) |
 | 475 BCE | Traditional start of the Warring States Period as Zhou authority fragments among contending states | History | [The Warring States Period](history/warring-states-period.md) |
 | 453 BCE | The state of Jin is partitioned among the Han, Wei, and Zhao houses, forming three of the seven warring states | History | [The Warring States Period](history/warring-states-period.md) |
@@ -23,7 +26,7 @@ Reworked and extended as new content is added.
 | 307 BCE | King Wuling of Zhao adopts cavalry and nomadic dress, revolutionizing Chinese warfare | History | [The Warring States Period](history/warring-states-period.md) |
 | 260 BCE | The Battle of Changping: the Qin general Bai Qi annihilates the Zhao army, crippling Qin's last major rival | History | [The Warring States Period](history/warring-states-period.md) |
 | 259 BCE | Birth of Ying Zheng, the future Qin Shi Huang, in Handan | People | [Qin Shi Huang](people/qin-shi-huang.md) |
-| 256 BCE | Qin extinguishes the Zhou royal house, ending its nominal authority over the warring states | History | [The Warring States Period](history/warring-states-period.md) |
+| 256 BCE | Qin extinguishes the Eastern Zhou royal house, ending the eight-century Zhou Dynasty | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
 | 246 BCE | Ying Zheng accedes to the Qin throne at age 13; construction of his mausoleum begins | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 221 BCE | Qin Shi Huang unifies the warring states and founds the Qin Dynasty, China's first centralized empire | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 221 BCE | Qin unification; the first continuous frontier wall is joined under general Meng Tian | Geography | [The Great Wall of China](geography/the-great-wall.md) |
@@ -50,7 +53,7 @@ Reworked and extended as new content is added.
 | 401 CE | Kumarajiva reaches Chang'an and begins his landmark translations of the Lotus and Diamond Sutras | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 581 CE | Yang Jian deposes the Northern Zhou and founds the Sui Dynasty as Emperor Wen, promulgating the Kaihuang Code | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 589 CE | The Sui conquers the Chen Dynasty, reunifying China after nearly three centuries of division | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
-| 605 CE | Emperor Yang begins large-scale construction of the Grand Canal, linking northern and southern China | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
+| 605 CE | Emperor Yang begins large-scale construction of the Grand Canal, linking northern and southern China | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 605 CE | Emperor Yang of Sui institutes the *jinshi* ("presented scholar") degree, the foundation of the imperial examination system | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 610 CE | Chao Yuanfang compiles the *Zhubing Yuanhou Lun*, an imperial encyclopedia of disease origins and symptoms | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 612 CE | Emperor Yang's first invasion of Goguryeo ends in catastrophe at the Salsu River | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
@@ -63,7 +66,9 @@ Reworked and extended as new content is added.
 | 690 CE | Wu Zetian declares herself emperor, China's only reigning empress | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 755 CE | The An Lushan Rebellion erupts, devastating the Tang | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| c. 760 CE | Lu Yu completes the *Cha Jing* (*Classic of Tea*), the world's first monograph on tea cultivation and connoisseurship | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 781 CE | The Nestorian Stele is erected in Chang'an, recording Christianity's arrival via the Silk Road | Geography | [The Silk Road](geography/the-silk-road.md) |
+| 793 CE | The Tang court imposes a permanent tax on tea (*chashui*), marking tea as a major state revenue source | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 845 CE | The Huichang Persecution under Emperor Wuzong devastates Chinese Buddhist institutions | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 868 CE | A woodblock Diamond Sutra is printed at Dunhuang, the world's oldest dated printed book | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 907 CE | Fall of the Tang Dynasty; the Five Dynasties period begins | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
@@ -84,12 +89,14 @@ Reworked and extended as new content is added.
 | 1276 CE | Mongol forces capture the Southern Song capital of Hangzhou | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1279 CE | The Song fleet is annihilated at the Battle of Yamen, ending the dynasty and bringing all China under Mongol rule | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1281 CE | A second, larger Mongol invasion of Japan is again destroyed by typhoon | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1293 CE | Guo Shoujing completes the Tonghui Canal, extending the Grand Canal north to the Yuan capital at Dadu (Beijing) | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 1294 CE | Death of Kublai Khan opens a period of rapid succession and dynastic instability | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1315 CE | The Yuan Dynasty restores the imperial examinations under Emperor Renzong, with separate quotas favoring Mongols and Central Asians | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 1351 CE | The Red Turban Rebellion erupts amid Yellow River floods and famine, beginning the Yuan's collapse | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1368 CE | Zhu Yuanzhang founds the Ming Dynasty at Nanjing, expelling the Mongol Yuan | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
 | 1371 CE | Birth of Zheng He (Ma He) into a Muslim family in Kunyang, Yunnan | People | [Zheng He](people/zheng-he.md) |
+| 1391 CE | The Hongwu Emperor abolishes compressed tribute-tea cakes, shifting Chinese production toward loose-leaf tea | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1405 CE | Zheng He's first treasure-fleet voyage sets sail for the Indian Ocean | People | [Zheng He](people/zheng-he.md) |
 | 1406 CE | Construction of the Forbidden City begins under the Yongle Emperor | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
@@ -97,6 +104,7 @@ Reworked and extended as new content is added.
 | 1433 CE | Zheng He's seventh and final voyage ends and he dies at sea; the Ming abandons the treasure fleets | People | [Zheng He](people/zheng-he.md) |
 | 1445 CE | The Daozang (Taoist Canon) is compiled under Ming patronage | Culture & Society | [Taoism](culture-society/taoism.md) |
 | 1596 CE | Li Shizhen's *Bencao Gangmu* (Compendium of Materia Medica) is published posthumously, documenting 1,892 substances | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
+| 1610 CE | The Dutch East India Company ships the first significant cargo of Chinese tea to Europe | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1616 CE | Nurhaci unifies the Jurchen clans and founds the Later Jin state | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1636 CE | Hong Taiji renames the dynasty "Qing" and his people "Manchu" | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1642 CE | Defenders breach the Yellow River dikes to flood Li Zicheng's rebels besieging Kaifeng, destroying the city and killing an estimated 300,000 | Geography | [The Yellow River](geography/the-yellow-river.md) |
@@ -105,9 +113,11 @@ Reworked and extended as new content is added.
 | 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1703 CE | Gottfried Wilhelm Leibniz notes that the I Ching's hexagram ordering corresponds to binary arithmetic | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1744 CE | Beijing's Yonghe Temple is converted into a major Tibetan Buddhist monastery | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
+| 1757 CE | The Qianlong Emperor confines European maritime trade to Canton under the licensed Cohong merchants, formalizing the Canton System | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1793 CE | The Macartney Mission is rebuffed as the Qianlong Emperor declines British trade overtures | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Opium Wars](history/the-opium-wars.md) |
+| 1848 | Robert Fortune begins smuggling tea plants, seeds, and expertise out of China for the East India Company, seeding the Indian tea industry | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1850 | The Taiping Rebellion erupts, beginning one of the deadliest civil wars in history | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1855 | The Yellow River bursts its banks at Tongwaxiang and shifts to a new northern course into the Bohai Sea, disrupting the Grand Canal amid the Taiping Rebellion | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1856 | The Arrow incident triggers the Second Opium War between the Qing and an Anglo-French alliance | History | [The Opium Wars](history/the-opium-wars.md) |
@@ -201,6 +211,7 @@ Reworked and extended as new content is added.
 | 2012 | Hu Jintao transfers leadership to Xi Jinping in an orderly, norm-based succession | People | [Hu Jintao](people/hu-jintao.md) |
 | 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2013 | The China (Shanghai) Pilot Free Trade Zone opens in Pudong, extending the SEZ model to financial-services liberalization | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
+| 2014 | The Grand Canal is inscribed as a UNESCO World Heritage Site, recognizing 48 heritage sites across eight provinces | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2015 | The Guidelines on Deepening SOE Reform distinguish "commercial" from "public-interest" enterprises and promote "mixed ownership" | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 2015 | Tu Youyou receives the Nobel Prize in Physiology or Medicine for artemisinin, a first for mainland Chinese science | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |

@@ -78,7 +78,7 @@ SOEs represent the structural foundation of China's distinctive "socialist marke
 
 ## Related
 
-BEGIN GENERATED: crossrefs
+<!-- BEGIN GENERATED: crossrefs -->
 - [Economic Reform & Opening-up](economic-reform-opening-up.md) — market liberalization occurred around, not within, SOEs, which largely persisted unreformed.
 - [Special Economic Zones](special-economic-zones.md) — zones permitted private and foreign enterprise while SOEs remained dominant in strategic sectors.
 - [The Communist Party of China](../government-politics/communist-party-china.md) — SOEs are owned and directed by the party-state apparatus.
@@ -87,7 +87,7 @@ BEGIN GENERATED: crossrefs
 - [Xi Jinping](../people/xi-jinping.md) — has reinforced party control over SOEs and resisted privatization despite efficiency arguments.
 - [The Belt and Road Initiative](belt-and-road-initiative.md) — Chinese SOEs in construction and energy are primary vehicles for BRI projects.
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — major SOE policy decisions, including the 2015 reform guidelines, originate at Standing Committee level.
-END GENERATED: crossrefs
+<!-- END GENERATED: crossrefs -->
 
 ## Sources
 

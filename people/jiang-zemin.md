@@ -143,10 +143,9 @@ However, Jiang is often overlooked in popular and even scholarly narratives. He 
 
 ---
 
-## BEGIN GENERATED: crossrefs
-
 ## Related
 
+<!-- BEGIN GENERATED: crossrefs -->
 - [Deng Xiaoping](deng-xiaoping.md) — Paramount leader (1978–1992) whose reform agenda Jiang inherited and accelerated; Jiang served as Deng's chosen successor.
 - [Hu Jintao](hu-jintao.md) — Jiang's hand-picked successor who served as General Secretary from 2002–2012, receiving power from Jiang in an orderly transition.
 - [Xi Jinping](xi-jinping.md) — The paramount leader who succeeded Hu, eventually dismantling the collective leadership and term-limit norms that Jiang had established.
@@ -158,10 +157,7 @@ However, Jiang is often overlooked in popular and even scholarly narratives. He 
 - [The 1989 Tiananmen Square Pro-Democracy Movement](../government-politics/tiananmen-square-1989.md) — the crisis whose aftermath propelled Jiang from Shanghai Party chief to General Secretary, replacing the purged Zhao Ziyang.
 - [State-Owned Enterprises](../economy/state-owned-enterprises.md) — the state sector Jiang and Premier Zhu Rongji restructured in the late 1990s through the "grasp the large, release the small" reform.
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — the party's top body through which Jiang balanced factions and managed the orderly succession to Hu Jintao.
-
-## END GENERATED: crossrefs
-
----
+<!-- END GENERATED: crossrefs -->
 
 ## Sources
 

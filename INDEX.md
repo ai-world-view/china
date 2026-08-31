@@ -18,12 +18,14 @@ Category index: [geography/](geography/index.md)
 - [The Silk Road](geography/the-silk-road.md)
 - [The Yellow River](geography/the-yellow-river.md)
 - [The Yangtze River](geography/the-yangtze-river.md)
+- [The Grand Canal](geography/the-grand-canal.md)
 
 ## History
 
 Category index: [history/](history/index.md)
 
 - [The Shang Dynasty](history/the-shang-dynasty.md)
+- [The Zhou Dynasty](history/the-zhou-dynasty.md)
 - [The Warring States Period](history/warring-states-period.md)
 - [The Qin Dynasty](history/the-qin-dynasty.md)
 - [The Han Dynasty](history/the-han-dynasty.md)
@@ -58,6 +60,7 @@ Category index: [economy/](economy/index.md)
 - [Belt and Road Initiative](economy/belt-and-road-initiative.md)
 - [Special Economic Zones](economy/special-economic-zones.md)
 - [State-Owned Enterprises (SOEs)](economy/state-owned-enterprises.md)
+- [The Tea Trade](economy/the-tea-trade.md)
 
 ## Culture & Society
 

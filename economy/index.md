@@ -15,6 +15,7 @@ Topics in this knowledge base concerning the economy of China — its developmen
 | [Belt and Road Initiative](belt-and-road-initiative.md) | China's flagship global infrastructure and economic-integration program, launched by Xi Jinping in 2013; overland and maritime corridors across more than 150 countries financed by Chinese policy banks, with over $1 trillion committed by 2023. |
 | [Special Economic Zones](special-economic-zones.md) | Designated experimental zones opened from 1979 in Guangdong and Fujian to test market practices; Shenzhen's transformation from fishing village to metropolis proved capitalist mechanisms could coexist with Party control and became the template for "the world's factory." |
 | [State-Owned Enterprises (SOEs)](state-owned-enterprises.md) | State-controlled corporations dominating China's strategic sectors—energy, telecommunications, banking, transport—that persist from the planned economy but have been repeatedly restructured under market reform while remaining instruments of Party control. |
+| [The Tea Trade](the-tea-trade.md) | One of history's longest-running commodity trades, from Tang-era codification under Lu Yu to a global export; insatiable British demand drove a silver drain that fed the opium traffic and the Opium Wars, and British plant theft transplanted the industry to India and Ceylon. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

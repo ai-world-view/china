@@ -124,6 +124,7 @@ In the 20th and 21st centuries, the Silk Road has become a symbol of cosmopolita
 - [Buddhism in China](../culture-society/buddhism-in-china.md) — the religion transmitted from India and Central Asia into China along these routes, carrying texts, art, and the Dunhuang cave libraries.
 - [Belt and Road Initiative](../economy/belt-and-road-initiative.md) — the modern infrastructure program that invokes the Silk Road's name and legacy to frame China-led trade and investment across Eurasia.
 - [Zheng He](../people/zheng-he.md) — the Ming admiral whose Indian Ocean treasure voyages formed a state-directed maritime counterpart to the overland Silk Road, reaching the same Arabian and Indian emporia.
+- [The Tea Trade](../economy/the-tea-trade.md) — the commodity carried westward along these routes and, later, by sea to Europe, one of China's defining exports.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

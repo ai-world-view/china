@@ -114,21 +114,18 @@ Despite genuine achievements, the Self-Strengthening Movement ultimately failed 
 
 The precedent established by the Opium Wars—that military force could compel China to accept foreign terms—emboldened other Western powers and Japan to pursue their own "unequal treaties." By the late 19th century, China was ringed by treaty ports, concessions, and spheres of influence, with foreign powers enjoying privileges that undermined Qing sovereignty.
 
----
-
-## BEGIN GENERATED: crossrefs
-
 ## Related
 
+<!-- BEGIN GENERATED: crossrefs -->
 - [The Qing Dynasty](the-qing-dynasty.md) — The final imperial dynasty that faced and ultimately succumbed to Western imperial pressure, beginning with the Opium Wars.
+- [The Tea Trade](../economy/the-tea-trade.md) — The commodity whose British trade imbalance, and the opium traffic used to redress it, directly precipitated the wars.
 - [The Tang Dynasty](the-tang-dynasty.md) — The cosmopolitan golden age before the Qing, showing China's earlier openness to foreign trade and cultural exchange.
 - [The Silk Road](../geography/the-silk-road.md) — The earlier trans-Eurasian trade network that set precedent for Sino-foreign commercial interaction, contrasting with the coercive 19th-century system.
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — The modern counterpart to forced opening, where China deliberately chose market reforms and global integration under Deng Xiaoping.
 - [The Boxer Rebellion](the-boxer-rebellion.md) — The 1899–1901 anti-foreign uprising that erupted from the same cumulative humiliation of the "unequal treaties" the Opium Wars imposed.
 - [The Chinese Civil War](../government-politics/chinese-civil-war.md) — The 20th-century conflict whose origins lay partly in anti-imperialist nationalism sparked by the humiliations of the 19th century.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — The reform leader who invoked the Opium Wars era as motivation for China's need to modernize and reassert itself.
-
-## END GENERATED: crossrefs
+<!-- END GENERATED: crossrefs -->
 
 ---
 

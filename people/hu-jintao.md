@@ -137,10 +137,9 @@ Hu is perhaps the least iconic of China's post-Mao paramount leaders. He lacked 
 
 ---
 
-## BEGIN GENERATED: crossrefs
-
 ## Related
 
+<!-- BEGIN GENERATED: crossrefs -->
 - [Jiang Zemin](jiang-zemin.md) — Hu's predecessor and the paramount leader who designated Hu as his successor and supervised the transition.
 - [Xi Jinping](xi-jinping.md) — Hu's successor who would ultimately transform the succession norms Hu helped establish.
 - [Deng Xiaoping](deng-xiaoping.md) — The elder statesman whose reform agenda Hu inherited and attempted to balance with social equity concerns.
@@ -150,10 +149,7 @@ Hu is perhaps the least iconic of China's post-Mao paramount leaders. He lacked 
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — The market-oriented agenda Hu continued and refined while attempting to address its social costs.
 - [Special Economic Zones](../economy/special-economic-zones.md) — The engines of growth from earlier decades that Hu's administration sought to replicate in central and western provinces.
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — The party's top body, which under Hu expanded to nine members and epitomized the collective-leadership model he upheld.
-
-## END GENERATED: crossrefs
-
----
+<!-- END GENERATED: crossrefs -->
 
 ## Sources
 

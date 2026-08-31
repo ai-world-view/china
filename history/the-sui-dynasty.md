@@ -82,6 +82,7 @@ The Sui's rapid collapse after only 37 years offers a canonical lesson in Chines
 - [The Han Dynasty](the-han-dynasty.md) — the classical imperial template that the Sui and Tang consciously revived
 - [The Qin Dynasty](the-qin-dynasty.md) — the earlier parallel: brief, transformative unification followed by rapid collapse
 - [The Warring States Period](warring-states-period.md) — an earlier era of division ended by unification, a structural parallel to the Sui's own reunification of a fragmented China
+- [The Grand Canal](../geography/the-grand-canal.md) — the great waterway Emperor Yang built at ruinous human cost, the Sui's most enduring legacy
 
 <!-- END GENERATED: crossrefs -->
 

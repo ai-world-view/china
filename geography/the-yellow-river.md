@@ -90,7 +90,7 @@ The Yellow River holds supreme significance in Chinese civilization across multi
 
 ## Related
 
-BEGIN GENERATED: crossrefs
+<!-- BEGIN GENERATED: crossrefs -->
 - [The Han Dynasty](../history/the-han-dynasty.md) — opened the Silk Road and managed major water projects on the Yellow River.
 - [The Great Wall of China](the-great-wall.md) — both defended against invasions and managed water flow in the North China Plain.
 - [The Qing Dynasty](../history/the-qing-dynasty.md) — implemented major dike management under emperors like Kangxi to control the Yellow River.
@@ -99,7 +99,8 @@ BEGIN GENERATED: crossrefs
 - [State-Owned Enterprises](../economy/state-owned-enterprises.md) — SOEs such as China Three Gorges Corporation manage major hydroelectric infrastructure on China's river systems.
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — Xi Jinping's Yellow River Ecological Protection strategy was announced and directed at the highest levels of party leadership.
 - [The Yangtze River](the-yangtze-river.md) — China's longest river and southern counterpart, whose flooding and prosperity contrast with the Yellow River's "Sorrow."
-END GENERATED: crossrefs
+- [The Grand Canal](the-grand-canal.md) — The imperial waterway whose middle sections the Yellow River's shifting course and floods repeatedly severed, demanding constant hydraulic management.
+<!-- END GENERATED: crossrefs -->
 
 ## Sources
 

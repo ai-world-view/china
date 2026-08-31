@@ -121,6 +121,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [The Song Dynasty](the-song-dynasty.md) — The earlier Han-Chinese dynasty whose Neo-Confucian orthodoxy, cultural models, and scholar-official ideal the Ming restored after Mongol rule
 - [Zheng He](../people/zheng-he.md) — The Muslim eunuch admiral whose seven treasure-fleet voyages (1405–1433) marked the apex of Ming maritime power before the court's inward turn
 - [The Yuan Dynasty](the-yuan-dynasty.md) — The Mongol dynasty the Ming overthrew in 1368, expelling its court to Mongolia and restoring Han-Chinese rule
+- [The Tea Trade](../economy/the-tea-trade.md) — The Ming shift to loose-leaf tea and expanded maritime export reshaped a trade central to the dynasty's economy
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
