@@ -16,6 +16,7 @@ Topics in this knowledge base concerning the philosophy, traditions, and social 
 | [Buddhism in China](buddhism-in-china.md) | The Indian religion that entered China via the Silk Road during the Han Dynasty and, over two millennia, synthesized with Confucianism and Taoism—shaping Chinese philosophy, art, literature, and daily spiritual life through the Chan, Pure Land, Huayan, and Tiantai schools. |
 | [Chinese Medicine](chinese-medicine.md) | A healing system developed over more than 2,000 years—herbal pharmacology, acupuncture, moxibustion, and massage grounded in concepts of qi, yin-yang, and the Five Elements; still practiced worldwide, it yielded the Nobel Prize–winning antimalarial artemisinin. |
 | [The I Ching (Book of Changes)](i-ching.md) | One of the oldest Chinese texts; a divination manual and philosophy of change built on 64 six-line hexagrams of yin and yang—canonized as one of the Five Classics, central to the imperial examinations, and later noted by Leibniz for its binary structure. |
+| [Filial Piety (Xiao)](filial-piety.md) | The cardinal Confucian virtue of respect and duty toward parents and ancestors; codified in the *Classic of Filial Piety* and the *Twenty-Four Paragons*, enforced through imperial law and mourning ritual, it organized family, society, and governance for over two millennia. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

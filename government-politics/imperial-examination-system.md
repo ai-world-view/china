@@ -152,6 +152,7 @@ The formal abolition on September 2, 1905 marked a rupture in Chinese civilizati
 - [The Yuan Dynasty](../history/the-yuan-dynasty.md) — Mongol dynasty that suspended and then restored the examinations under ethnic quotas
 - [The National People's Congress](national-peoples-congress.md) — Modern legislative body descended from examination-based bureaucratic tradition
 - [The Shang Dynasty](../history/the-shang-dynasty.md) — Dynasty that established the scribal and administrative culture the examination system later formalized
+- [Filial Piety (Xiao)](../culture-society/filial-piety.md) — The cardinal virtue codified in the *Classic of Filial Piety*, a core text of the Confucian curriculum the examinations tested
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

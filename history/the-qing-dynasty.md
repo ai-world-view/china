@@ -115,6 +115,8 @@ The Qing left an indelible imprint on modern China:
 - [The Song Dynasty](the-song-dynasty.md) — the earlier dynasty whose Neo-Confucian orthodoxy and scholarly culture the Qing upheld and canonized throughout its rule.
 - [The Boxer Rebellion](the-boxer-rebellion.md) — the 1899–1901 anti-foreign uprising the late Qing court embraced, whose suppression and punitive protocol hastened the dynasty's fall.
 - [The Yellow River](../geography/the-yellow-river.md) — the river whose management consumed vast Qing resources under emperors like Kangxi, its catastrophic 1855 and 1887 breaches exposing the dynasty's decline.
+- [Kangxi](../people/kangxi.md) — the fourth Qing emperor, whose 61-year reign crushed internal revolts, secured the frontiers, and brought the dynasty to its territorial and cultural zenith.
+- [The Tributary System](../government-politics/tributary-system.md) — the ritual-diplomatic order through which the Qing managed relations with Korea, Vietnam, Ryukyu, and its other tributaries until the nineteenth century.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

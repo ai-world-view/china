@@ -125,6 +125,7 @@ The precedent established by the Opium Wars—that military force could compel C
 - [The Boxer Rebellion](the-boxer-rebellion.md) — The 1899–1901 anti-foreign uprising that erupted from the same cumulative humiliation of the "unequal treaties" the Opium Wars imposed.
 - [The Chinese Civil War](../government-politics/chinese-civil-war.md) — The 20th-century conflict whose origins lay partly in anti-imperialist nationalism sparked by the humiliations of the 19th century.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — The reform leader who invoked the Opium Wars era as motivation for China's need to modernize and reassert itself.
+- [The Tributary System](../government-politics/tributary-system.md) — The Sinocentric world order the Opium Wars shattered, replacing tributary suzerainty with European treaty-port sovereignty.
 <!-- END GENERATED: crossrefs -->
 
 ---

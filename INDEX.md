@@ -45,6 +45,7 @@ Category index: [history/](history/index.md)
 
 Category index: [government-politics/](government-politics/index.md)
 
+- [The Tributary System](government-politics/tributary-system.md)
 - [The Imperial Examination System](government-politics/imperial-examination-system.md)
 - [The Communist Party of China](government-politics/communist-party-china.md)
 - [Chinese Civil War](government-politics/chinese-civil-war.md)
@@ -71,6 +72,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Buddhism in China](culture-society/buddhism-in-china.md)
 - [Chinese Medicine](culture-society/chinese-medicine.md)
 - [The I Ching (Book of Changes)](culture-society/i-ching.md)
+- [Filial Piety (Xiao)](culture-society/filial-piety.md)
 
 ## People
 
@@ -86,4 +88,5 @@ Category index: [people/](people/index.md)
 - [Jiang Zemin](people/jiang-zemin.md)
 - [Hu Jintao](people/hu-jintao.md)
 - [Zheng He](people/zheng-he.md)
+- [Kangxi](people/kangxi.md)
 <!-- END GENERATED: master-index -->

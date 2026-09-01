@@ -105,6 +105,7 @@ Zheng He's personal legacy includes his status as one of history's greatest navi
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — contemporary China's renewed engagement with global maritime commerce, centuries after Zheng He's retreat.
 - [The Great Wall of China](../geography/the-great-wall.md) — the land-based defense structure that conservative officials prioritized over maritime expansion.
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — a later moment where ideological priorities overrode practical realities, with catastrophic consequences for Chinese society.
+- [The Tributary System](../government-politics/tributary-system.md) — the ritual-diplomatic framework Zheng He's voyages served, drawing tributary missions to the Ming court from across the Indian Ocean.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

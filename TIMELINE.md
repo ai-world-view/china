@@ -64,6 +64,7 @@ Reworked and extended as new content is added.
 | 659 CE | The Tang court issues the *Xinxiu Bencao*, regarded as the world's first officially promulgated pharmacopoeia | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 675 CE | The colossal Vairocana Buddha at the Longmen Grottoes is completed under Tang patronage | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 690 CE | Wu Zetian declares herself emperor, China's only reigning empress | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 745 CE | Emperor Xuanzong of Tang has his own commentary on the *Classic of Filial Piety* inscribed in stone at the imperial academy, affirming its canonical status | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 755 CE | The An Lushan Rebellion erupts, devastating the Tang | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | c. 760 CE | Lu Yu completes the *Cha Jing* (*Classic of Tea*), the world's first monograph on tea cultivation and connoisseurship | Economy | [The Tea Trade](economy/the-tea-trade.md) |
@@ -92,6 +93,7 @@ Reworked and extended as new content is added.
 | 1293 CE | Guo Shoujing completes the Tonghui Canal, extending the Grand Canal north to the Yuan capital at Dadu (Beijing) | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 1294 CE | Death of Kublai Khan opens a period of rapid succession and dynastic instability | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1315 CE | The Yuan Dynasty restores the imperial examinations under Emperor Renzong, with separate quotas favoring Mongols and Central Asians | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
+| c. 1330 CE | The scholar Guo Jujing compiles the *Twenty-Four Paragons of Filial Piety*, which becomes late imperial China's most widely circulated moral primer | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 1351 CE | The Red Turban Rebellion erupts amid Yellow River floods and famine, beginning the Yuan's collapse | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1368 CE | Ming Dynasty founded; the iconic brick-and-stone Great Wall is built | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1368 CE | Zhu Yuanzhang founds the Ming Dynasty at Nanjing, expelling the Mongol Yuan | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
@@ -99,6 +101,7 @@ Reworked and extended as new content is added.
 | 1391 CE | The Hongwu Emperor abolishes compressed tribute-tea cakes, shifting Chinese production toward loose-leaf tea | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1405 CE | Zheng He's first treasure-fleet voyage sets sail for the Indian Ocean | People | [Zheng He](people/zheng-he.md) |
 | 1406 CE | Construction of the Forbidden City begins under the Yongle Emperor | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1414 CE | A giraffe from the East African coast is presented to the Yongle Emperor via Bengal and hailed at court as an auspicious *qilin*, dramatizing the reach of the tributary order | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1424 CE | The Yongle Emperor dies; the Hongxi Emperor orders a halt to the treasure voyages | People | [Zheng He](people/zheng-he.md) |
 | 1433 CE | Zheng He's seventh and final voyage ends and he dies at sea; the Ming abandons the treasure fleets | People | [Zheng He](people/zheng-he.md) |
@@ -109,12 +112,21 @@ Reworked and extended as new content is added.
 | 1636 CE | Hong Taiji renames the dynasty "Qing" and his people "Manchu" | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1642 CE | Defenders breach the Yellow River dikes to flood Li Zicheng's rebels besieging Kaifeng, destroying the city and killing an estimated 300,000 | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1644 CE | The Ming Dynasty falls; Qing forces enter Beijing | History | [The Ming Dynasty](history/the-ming-dynasty.md) |
-| 1683 CE | The Qing annexes Taiwan, completing its conquest of Ming loyalist resistance | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
-| 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1654 CE | Birth of Xuanye, the future Kangxi Emperor, at Beijing | People | [Kangxi](people/kangxi.md) |
+| 1661 CE | The seven-year-old Kangxi accedes to the throne under a council of four regents | People | [Kangxi](people/kangxi.md) |
+| 1669 CE | Kangxi arrests the dominant regent Oboi and assumes personal rule | People | [Kangxi](people/kangxi.md) |
+| 1670 CE | The Kangxi Emperor promulgates the Sacred Edict, whose sixteen maxims command filial piety and respect for kin, read aloud to commoners twice monthly | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
+| 1673 CE | Wu Sangui and his fellow generals rise in the Revolt of the Three Feudatories | People | [Kangxi](people/kangxi.md) |
+| 1681 CE | The fall of Kunming ends the eight-year Three Feudatories Rebellion, securing Qing central authority | People | [Kangxi](people/kangxi.md) |
+| 1683 CE | Admiral Shi Lang defeats the Zheng fleet at Penghu; the Qing annexes Taiwan under Kangxi | People | [Kangxi](people/kangxi.md) |
+| 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power, negotiated under Kangxi | People | [Kangxi](people/kangxi.md) |
+| 1696 CE | Kangxi's army shatters Galdan's Dzungars at the Battle of Jao Modo, securing Qing supremacy over Outer Mongolia | People | [Kangxi](people/kangxi.md) |
 | 1703 CE | Gottfried Wilhelm Leibniz notes that the I Ching's hexagram ordering corresponds to binary arithmetic | Culture & Society | [The I Ching](culture-society/i-ching.md) |
+| 1716 CE | The *Kangxi Dictionary* is completed, standardizing 47,035 characters under 214 radicals | People | [Kangxi](people/kangxi.md) |
+| 1722 CE | Death of the Kangxi Emperor after a 61-year reign, the longest in Chinese history; his son Yinzhen accedes as the Yongzheng Emperor | People | [Kangxi](people/kangxi.md) |
 | 1744 CE | Beijing's Yonghe Temple is converted into a major Tibetan Buddhist monastery | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 1757 CE | The Qianlong Emperor confines European maritime trade to Canton under the licensed Cohong merchants, formalizing the Canton System | Economy | [The Tea Trade](economy/the-tea-trade.md) |
-| 1793 CE | The Macartney Mission is rebuffed as the Qianlong Emperor declines British trade overtures | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
+| 1793 CE | The Macartney Mission is rebuffed after Lord Macartney refuses the full kowtow, exposing the clash between European sovereign equality and the Chinese tributary order | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1848 | Robert Fortune begins smuggling tea plants, seeds, and expertise out of China for the East India Company, seeding the Indian tea industry | Economy | [The Tea Trade](economy/the-tea-trade.md) |
@@ -126,6 +138,7 @@ Reworked and extended as new content is added.
 | 1864 | Qing forces suppress the Taiping Heavenly Kingdom after fourteen years of civil war | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1866 | Birth of Sun Yat-sen in Cuiheng village, Guangdong province | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1877 | Ferdinand von Richthofen coins the term "Silk Road" (*Seidenstraße*) | Geography | [The Silk Road](geography/the-silk-road.md) |
+| 1879 | Japan annexes the Ryukyu Kingdom, severing one of China's oldest tributary relationships | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1887 | The Yellow River bursts at Huayuankou, flooding Henan and Shandong and killing an estimated 900,000 to two million | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1893 | Birth of Mao Zedong in Shaoshan, Hunan province | People | [Mao Zedong](people/mao-zedong.md) |
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
@@ -211,6 +224,7 @@ Reworked and extended as new content is added.
 | 2012 | Hu Jintao transfers leadership to Xi Jinping in an orderly, norm-based succession | People | [Hu Jintao](people/hu-jintao.md) |
 | 2013 | Xi Jinping announces the Silk Road Economic Belt and the 21st-Century Maritime Silk Road, launching the Belt and Road Initiative | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2013 | The China (Shanghai) Pilot Free Trade Zone opens in Pudong, extending the SEZ model to financial-services liberalization | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
+| 2013 | China's revised Law on the Protection of the Rights and Interests of the Elderly takes effect, legally requiring adult children to visit aging parents—a statutory revival of filial duty | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 2014 | The Grand Canal is inscribed as a UNESCO World Heritage Site, recognizing 48 heritage sites across eight provinces | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2015 | The Guidelines on Deepening SOE Reform distinguish "commercial" from "public-interest" enterprises and promote "mixed ownership" | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
