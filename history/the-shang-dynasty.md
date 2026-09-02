@@ -135,6 +135,7 @@ The study of Shang civilization transformed modern understanding of early Chines
 - [Chinese Medicine](../culture-society/chinese-medicine.md) — Tradition rooted in the same ancient cosmology of ancestors, spirits, and the body
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — The Tang–Qing bureaucratic mechanism whose literate administrative culture the Shang scribal class prefigured
 - [The Zhou Dynasty](the-zhou-dynasty.md) — The dynasty that overthrew the Shang at Muye and inherited its writing, bronze ritual, and ancestor cult
+- [The Xia Dynasty](the-xia-dynasty.md) — The legendary dynasty the Shang overthrew at Mingtiao; the Shang oracle-bone record and Erlitou archaeology frame the debate over its historicity
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

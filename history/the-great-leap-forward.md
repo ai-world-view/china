@@ -98,6 +98,7 @@ In contemporary China, the Great Leap Forward remains among the most sensitive h
 - [Zhou Enlai](../people/zhou-enlai.md) — the administrator who, while constrained by Mao's political dominance, advocated for pragmatic measures to mitigate the campaign's damage.
 - [The Communist Party of China](../government-politics/communist-party-china.md) — the political organization through which the Great Leap Forward's policies were implemented and later reassessed.
 - [Zheng He](../people/zheng-he.md) — an earlier episode where China possessed enormous capability and then chose to withdraw, offering a structural parallel to the Great Leap's inward turn.
+- [The Hukou System](../government-politics/hukou-system.md) — the household-registration controls that confined the rural population in place and helped make the famine's scale possible.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

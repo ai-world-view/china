@@ -100,6 +100,7 @@ The Yellow River holds supreme significance in Chinese civilization across multi
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — Xi Jinping's Yellow River Ecological Protection strategy was announced and directed at the highest levels of party leadership.
 - [The Yangtze River](the-yangtze-river.md) — China's longest river and southern counterpart, whose flooding and prosperity contrast with the Yellow River's "Sorrow."
 - [The Grand Canal](the-grand-canal.md) — The imperial waterway whose middle sections the Yellow River's shifting course and floods repeatedly severed, demanding constant hydraulic management.
+- [The Xia Dynasty](../history/the-xia-dynasty.md) — The legendary founding dynasty whose culture-hero Yu the Great earned the throne by taming the Yellow River's floods.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -11,7 +11,10 @@ Reworked and extended as new content is added.
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |------|------|----------|------|
+| c. 2500 BCE | Longshan potters produce eggshell-thin black ware, among the earliest Chinese ceramics made as prestige objects | Culture & Society | [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md) |
+| c. 2070 BCE | Traditional founding of the Xia, China's legendary first dynasty, under Yu the Great after his taming of the Yellow River floods | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
 | c. 1600 BCE | The Shang Dynasty rises over the Yellow River plain, inaugurating China's historical Bronze Age | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| c. 1600 BCE | Cheng Tang overthrows the last Xia king, Jie, at the Battle of Mingtiao, ending the Xia and founding the Shang | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
 | c. 1250 BCE | The reign of Wu Ding begins; the Shang capital at Yin (near modern Anyang) reaches its cultural and military peak, producing the bulk of the oracle-bone record | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1046 BCE | The Zhou defeat the Shang at the Battle of Muye, ending the dynasty and founding the long-lived Zhou | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1046 BCE | King Wu founds the Zhou Dynasty and proclaims the Mandate of Heaven to legitimize the conquest | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
@@ -80,6 +83,7 @@ Reworked and extended as new content is added.
 | 1048 CE | A catastrophic avulsion shifts the Yellow River's lower course northward, deepening the Northern Song's fiscal and political crises | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1069 CE | Wang Anshi launches the New Laws (*xin fa*) reform program under Emperor Shenzong | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1084 CE | Sima Guang completes the *Zizhi Tongjian*, a comprehensive chronicle spanning 1,362 years of Chinese history | History | [The Song Dynasty](history/the-song-dynasty.md) |
+| c. 1085 CE | Ru ware is produced for the Northern Song court at Ruzhou, later revered as the pinnacle of celadon glaze | Culture & Society | [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md) |
 | 1092 CE | Su Song completes his water-powered astronomical clock tower at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1127 CE | The Jurchen Jin sack Kaifeng in the Jingkang Incident; the court flees south to found the Southern Song | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1177 CE | Zhu Xi completes the *Zhouyi Benyi*, which becomes the standard examination commentary on the I Ching | Culture & Society | [The I Ching](culture-society/i-ching.md) |
@@ -122,6 +126,8 @@ Reworked and extended as new content is added.
 | 1689 CE | The Treaty of Nerchinsk fixes the Sino-Russian border, China's first treaty with a European power, negotiated under Kangxi | People | [Kangxi](people/kangxi.md) |
 | 1696 CE | Kangxi's army shatters Galdan's Dzungars at the Battle of Jao Modo, securing Qing supremacy over Outer Mongolia | People | [Kangxi](people/kangxi.md) |
 | 1703 CE | Gottfried Wilhelm Leibniz notes that the I Ching's hexagram ordering corresponds to binary arithmetic | Culture & Society | [The I Ching](culture-society/i-ching.md) |
+| 1708 CE | Johann Friedrich Böttger produces the first European hard-paste porcelain at Meissen, ending China's monopoly | Culture & Society | [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md) |
+| 1712 CE | The Jesuit Père d'Entrecolles documents Jingdezhen's porcelain manufacture in letters that inform European makers | Culture & Society | [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md) |
 | 1716 CE | The *Kangxi Dictionary* is completed, standardizing 47,035 characters under 214 radicals | People | [Kangxi](people/kangxi.md) |
 | 1722 CE | Death of the Kangxi Emperor after a 61-year reign, the longest in Chinese history; his son Yinzhen accedes as the Yongzheng Emperor | People | [Kangxi](people/kangxi.md) |
 | 1744 CE | Beijing's Yonghe Temple is converted into a major Tibetan Buddhist monastery | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
@@ -176,11 +182,14 @@ Reworked and extended as new content is added.
 | 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | The Wilhelm–Baynes English translation of the I Ching appears with C.G. Jung's foreword on synchronicity | Culture & Society | [The I Ching](culture-society/i-ching.md) |
+| 1951 | The first PRC household-registration regulations are introduced, drawing on the Qing *baojia* tradition and Soviet *propiska* | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 1953 | Birth of Xi Jinping in Beijing | People | [Xi Jinping](people/xi-jinping.md) |
 | 1954 | The First National People's Congress convenes in Beijing and adopts the PRC's first constitution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 1955 | Zhou Enlai articulates the Five Principles of Peaceful Coexistence at the Bandung Conference | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1958 | The Second Session of the Eighth Party Congress adopts the general line of the Great Leap Forward; communes and backyard steel furnaces spread nationwide | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
+| 1958 | The Regulations on Household Registration formalize the binary urban-rural hukou system, binding rural residents to the land | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 1959 | Marshal Peng Dehuai is purged at the Lushan Conference for criticizing the Great Leap Forward | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
+| 1959 | Xu Xusheng's survey identifies the Erlitou site, later the leading archaeological candidate for a Xia-era polity | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
 | 1960 | The Soviet-aided Sanmenxia Dam on the Yellow River is completed, but silts up within two years, discrediting large dams on sediment-heavy rivers | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1962 | The Seven Thousand Cadres Conference assesses the Great Leap's failures as retrenchment ends the famine | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
 | 1966 | The "May 16 Circular" formally launches the Cultural Revolution; Red Guards mobilize nationwide | History | [Cultural Revolution](history/cultural-revolution.md) |
@@ -212,9 +221,11 @@ Reworked and extended as new content is added.
 | 1997 | The 15th Party Congress endorses "grasp the large, release the small," retaining major SOEs while selling or merging smaller ones | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 1997 | Hong Kong is handed over to Chinese sovereignty under Jiang Zemin, ending 156 years of British rule | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1997 | Death of Deng Xiaoping in Beijing | People | [Deng Xiaoping](people/deng-xiaoping.md) |
+| 2000 | The Xia-Shang-Zhou Chronology Project publishes a chronology dating the Xia to c. 2070–1600 BCE | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
 | 2001 | China accedes to the World Trade Organization | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 2002 | Hu Jintao becomes General Secretary of the Communist Party, beginning an orderly succession from Jiang Zemin | People | [Hu Jintao](people/hu-jintao.md) |
 | 2003 | The State-owned Assets Supervision and Administration Commission (SASAC) is established to oversee the central state-owned enterprises | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
+| 2003 | The death in custody of migrant worker Sun Zhigang prompts abolition of the custody-and-repatriation system that had enforced hukou controls | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 2006 | Yinxu, the ruins of the last Shang capital at Anyang, is inscribed as a UNESCO World Heritage Site | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 2007 | The baiji (Yangtze river dolphin) is declared functionally extinct after a survey finds none, the first large vertebrate lost to human activity in over fifty years | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2008 | Hu Jintao's China hosts the Beijing Summer Olympics and responds to the Sichuan earthquake | People | [Hu Jintao](people/hu-jintao.md) |
@@ -227,10 +238,12 @@ Reworked and extended as new content is added.
 | 2013 | China's revised Law on the Protection of the Rights and Interests of the Elderly takes effect, legally requiring adult children to visit aging parents—a statutory revival of filial duty | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 2014 | The Grand Canal is inscribed as a UNESCO World Heritage Site, recognizing 48 heritage sites across eight provinces | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2014 | The State Council issues national guidelines on hukou reform, the most comprehensive since 1958, pledging urban registration to 100 million migrants | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 2015 | The Guidelines on Deepening SOE Reform distinguish "commercial" from "public-interest" enterprises and promote "mixed ownership" | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 2015 | Tu Youyou receives the Nobel Prize in Physiology or Medicine for artemisinin, a first for mainland Chinese science | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2017 | Sri Lanka grants China a 99-year lease on Hambantota Port after a debt default | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
+| 2017 | A Northern Song Ru-ware brush washer sells for HK$294.3 million at Sotheby's Hong Kong, a world auction record for Chinese ceramics | Culture & Society | [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md) |
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
 | 2019 | Xi Jinping launches the Yellow River Ecological Protection and High-Quality Development strategy at a symposium in Zhengzhou | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 2020 | The NPC adopts China's first comprehensive Civil Code, and its Standing Committee enacts the Hong Kong National Security Law | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |

@@ -86,6 +86,7 @@ The tea trade is a lens through which to understand China's pre-modern commercia
 - [The Opium Wars](../history/the-opium-wars.md) — military conflict directly triggered by tea trade imbalances
 - [Buddhism in China](../culture-society/buddhism-in-china.md) — Buddhist monasteries were primary early cultivators and consumers
 - [Belt and Road Initiative](belt-and-road-initiative.md) — modern infrastructure reviving ancient tea-trade routes
+- [Porcelain and Ceramics](../culture-society/porcelain-and-ceramics.md) — the companion export whose teapots and teawares developed alongside tea culture and shipped along the same routes
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

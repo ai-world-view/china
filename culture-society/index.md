@@ -17,6 +17,7 @@ Topics in this knowledge base concerning the philosophy, traditions, and social 
 | [Chinese Medicine](chinese-medicine.md) | A healing system developed over more than 2,000 years—herbal pharmacology, acupuncture, moxibustion, and massage grounded in concepts of qi, yin-yang, and the Five Elements; still practiced worldwide, it yielded the Nobel Prize–winning antimalarial artemisinin. |
 | [The I Ching (Book of Changes)](i-ching.md) | One of the oldest Chinese texts; a divination manual and philosophy of change built on 64 six-line hexagrams of yin and yang—canonized as one of the Five Classics, central to the imperial examinations, and later noted by Leibniz for its binary structure. |
 | [Filial Piety (Xiao)](filial-piety.md) | The cardinal Confucian virtue of respect and duty toward parents and ancestors; codified in the *Classic of Filial Piety* and the *Twenty-Four Paragons*, enforced through imperial law and mourning ritual, it organized family, society, and governance for over two millennia. |
+| [Porcelain and Ceramics](porcelain-and-ceramics.md) | China's ceramic tradition, refined over five millennia from Neolithic earthenware through Song celadon to Ming and Qing porcelain; the imperial kilns of Jingdezhen and the blue-and-white and famille-rose wares made porcelain one of history's most valued exports, shaping global trade and aesthetics until Europe cracked the hard-paste formula at Meissen. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

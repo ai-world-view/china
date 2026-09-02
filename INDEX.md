@@ -24,6 +24,7 @@ Category index: [geography/](geography/index.md)
 
 Category index: [history/](history/index.md)
 
+- [The Xia Dynasty](history/the-xia-dynasty.md)
 - [The Shang Dynasty](history/the-shang-dynasty.md)
 - [The Zhou Dynasty](history/the-zhou-dynasty.md)
 - [The Warring States Period](history/warring-states-period.md)
@@ -52,6 +53,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [The National People's Congress](government-politics/national-peoples-congress.md)
 - [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md)
 - [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md)
+- [The Hukou System](government-politics/hukou-system.md)
 
 ## Economy
 
@@ -73,6 +75,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Chinese Medicine](culture-society/chinese-medicine.md)
 - [The I Ching (Book of Changes)](culture-society/i-ching.md)
 - [Filial Piety (Xiao)](culture-society/filial-piety.md)
+- [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md)
 
 ## People
 

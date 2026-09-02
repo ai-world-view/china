@@ -150,6 +150,7 @@ In Chinese historical memory, the Song occupies a unique place as the dynasty of
 - [The Yuan Dynasty](the-yuan-dynasty.md) — the Mongol dynasty that conquered the Southern Song at the Battle of Yamen in 1279 and ruled all China until 1368.
 - [The Yellow River](../geography/the-yellow-river.md) — the river whose catastrophic 1048 avulsion deepened the Northern Song's fiscal and political crises.
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the meritocratic mechanism the Song made the primary path to office, standardizing its Neo-Confucian curriculum.
+- [Porcelain and Ceramics](../culture-society/porcelain-and-ceramics.md) — the tradition whose classical apex the Song reached with the five great kilns and the celadon and monochrome glaze aesthetic.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
