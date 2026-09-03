@@ -93,4 +93,5 @@ The question of whether the Xia was "real" in the modern historical sense is thu
 - [The Yellow River](../geography/the-yellow-river.md) — central to Yu the Great's hydraulic mythology and Xia geography
 - [Taoism](../culture-society/taoism.md) — philosophical resonance with Yu's water-channeling approach to governance
 - [Porcelain and Ceramics](../culture-society/porcelain-and-ceramics.md) — Longshan black ware tradition preceded and informed early Xia material culture
+- [Pan Geng](pan-geng.md) — the Shang king whose move to Yin produced the oracle-bone and Anyang record against which the Xia's still-unconfirmed historicity is measured
 <!-- END GENERATED: crossrefs -->

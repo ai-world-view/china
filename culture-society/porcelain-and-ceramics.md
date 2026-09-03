@@ -111,4 +111,5 @@ Chinese ceramics continue to command the highest prices at international auction
 - [Zheng He](../people/zheng-he.md) — treasure fleets carried porcelain on diplomatic tribute missions
 - [The Song Dynasty](../history/the-song-dynasty.md) — apex of classic celadon and monochromatic glaze aesthetics
 - [The Opium Wars](../history/the-opium-wars.md) — disrupted trade networks that had sustained Jingdezhen
+- [Printing and Woodblock Printing](printing-and-woodblock.md) — a parallel craft in which Ming and Qing artisanal skill and aesthetic ambition converged, sustaining connoisseur and collector markets
 <!-- END GENERATED: crossrefs -->

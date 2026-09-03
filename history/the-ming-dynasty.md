@@ -124,6 +124,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [The Tea Trade](../economy/the-tea-trade.md) — The Ming shift to loose-leaf tea and expanded maritime export reshaped a trade central to the dynasty's economy
 - [The Tributary System](../government-politics/tributary-system.md) — The diplomatic order the Ming expanded to its greatest scope, drawing over sixty tributary states to the court through Zheng He's voyages
 - [Porcelain and Ceramics](../culture-society/porcelain-and-ceramics.md) — The Ming imperial kilns at Jingdezhen made blue-and-white porcelain a premier export and diplomatic gift
+- [Printing and Woodblock Printing](../culture-society/printing-and-woodblock.md) — The craft reached its artistic zenith under the Ming in polychrome book illustration and the mass-market printing of vernacular fiction
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

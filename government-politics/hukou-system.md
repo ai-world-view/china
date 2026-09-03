@@ -105,4 +105,5 @@ Simultaneously, the Hukou system has created a measurably two-tier social order 
 - [Deng Xiaoping](../people/deng-xiaoping.md) — economic reforms created first large-scale strain on Hukou controls
 - [Mao Zedong](../people/mao-zedong.md) — formalized the Hukou system as a pillar of collectivization
 - [Cultural Revolution](../history/cultural-revolution.md) — sent-down youth program operated within Hukou framework
+- [Regional Autonomy](regional-autonomy.md) — a parallel framework of state classification and control, dividing the population by *minzu* as the hukou divides it by urban and rural registration.
 <!-- END GENERATED: crossrefs -->

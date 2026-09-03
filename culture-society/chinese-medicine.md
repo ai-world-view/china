@@ -144,6 +144,7 @@ The persistence of Chinese medicine through centuries of political upheaval, for
 - [The Song Dynasty](../history/the-song-dynasty.md) — a period of extraordinary systematization and imperial patronage of Chinese medicine, including Wang Weiyi's bronze acupuncture mannequins (1027 CE) and the Imperial Medical Bureau's standardized curriculum.
 - [The National People's Congress](../government-politics/national-peoples-congress.md) — whose Standing Committee enacted the Law of the PRC on Traditional Chinese Medicine in 2016 (effective 2017), giving TCM a national statutory footing alongside Western medicine in China's healthcare system.
 - [The I Ching (Book of Changes)](i-ching.md) — the classic whose *yin*–*yang* cosmology supplied the philosophical framework for understanding health as balance and disease as imbalance between complementary forces.
+- [Printing and Woodblock Printing](printing-and-woodblock.md) — the technology whose Song imperial editions standardized medical classics and drug formularies, spreading consistent diagnostic and pharmaceutical texts across the empire.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

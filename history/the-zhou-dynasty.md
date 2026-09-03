@@ -78,6 +78,7 @@ The Zhou Dynasty's eight-century arc established the conceptual and institutiona
 - [I Ching](../culture-society/i-ching.md) — divinatory classic compiled during the Zhou period
 - [Imperial Examination System](../government-politics/imperial-examination-system.md) — rooted in Confucian curriculum forged under Zhou
 - [The Xia Dynasty](the-xia-dynasty.md) — the legendary first dynasty whose Mandate-forfeiture narrative the Zhou systematized to justify their conquest of the Shang
+- [Pan Geng](pan-geng.md) — the Shang king whose *Shangshu* speeches show the royal-ancestor legitimation that the Zhou's Mandate of Heaven later superseded
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -109,6 +109,7 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 - [Buddhism in China](../culture-society/buddhism-in-china.md) — the faith whose Chinese golden age unfolded under Tang patronage, when the Chan, Pure Land, Huayan, and Tiantai schools took mature form.
 - [The Song Dynasty](the-song-dynasty.md) — the dynasty that reunified China after the Tang's collapse and the Five Dynasties, looking back to Tang precedents while forging a new civilian-centered order.
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the meritocratic civil-service mechanism that the Tang expanded into the primary path to office.
+- [Printing and Woodblock Printing](../culture-society/printing-and-woodblock.md) — the technology whose organized origins date to the Tang, the era of the 868 CE *Diamond Sutra*, the world's oldest dated printed book.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -90,6 +90,7 @@ The relationship between the NPC and the Communist Party illustrates a broader p
 - [Xi Jinping](../people/xi-jinping.md) — the paramount leader who used the NPC to remove presidential term limits in 2018, consolidating his authority.
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — the post-1978 policy agenda that the NPC formally enacted through multiple laws and regulations.
 - [The Standing Committee of the Politburo](standing-committee-politburo.md) — the party's inner leadership body whose decisions the NPC formally ratifies through party discipline.
+- [Regional Autonomy](regional-autonomy.md) — the ethnic-autonomy framework whose 1984 Law on Regional National Autonomy the NPC enacted, and whose autonomous regulations its Standing Committee must ratify.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

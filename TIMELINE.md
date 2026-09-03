@@ -15,6 +15,7 @@ Reworked and extended as new content is added.
 | c. 2070 BCE | Traditional founding of the Xia, China's legendary first dynasty, under Yu the Great after his taming of the Yellow River floods | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
 | c. 1600 BCE | The Shang Dynasty rises over the Yellow River plain, inaugurating China's historical Bronze Age | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1600 BCE | Cheng Tang overthrows the last Xia king, Jie, at the Battle of Mingtiao, ending the Xia and founding the Shang | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
+| c. 1300 BCE | King Pan Geng relocates the Shang capital to Yin (near modern Anyang), ending generations of instability and inaugurating the dynasty's mature "Yin period" | History | [Pan Geng](history/pan-geng.md) |
 | c. 1250 BCE | The reign of Wu Ding begins; the Shang capital at Yin (near modern Anyang) reaches its cultural and military peak, producing the bulk of the oracle-bone record | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1046 BCE | The Zhou defeat the Shang at the Battle of Muye, ending the dynasty and founding the long-lived Zhou | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | c. 1046 BCE | King Wu founds the Zhou Dynasty and proclaims the Mandate of Heaven to legitimize the conquest | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
@@ -74,12 +75,13 @@ Reworked and extended as new content is added.
 | 781 CE | The Nestorian Stele is erected in Chang'an, recording Christianity's arrival via the Silk Road | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 793 CE | The Tang court imposes a permanent tax on tea (*chashui*), marking tea as a major state revenue source | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 845 CE | The Huichang Persecution under Emperor Wuzong devastates Chinese Buddhist institutions | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
-| 868 CE | A woodblock Diamond Sutra is printed at Dunhuang, the world's oldest dated printed book | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
+| 868 CE | A woodblock-printed Diamond Sutra is produced at Dunhuang, the world's oldest dated printed book | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
 | 907 CE | Fall of the Tang Dynasty; the Five Dynasties period begins | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 960 CE | Zhao Kuangyin seizes power and founds the Song Dynasty, establishing his capital at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 973 CE | Emperor Taizu of Song institutes the palace examination (*dianshi*), personally ranking graduates and making the examinations the primary path to office | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | 979 CE | Emperor Taizong completes the reunification of China proper, ending the Five Dynasties and Ten Kingdoms era | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1027 CE | Wang Weiyi casts bronze acupuncture mannequins to standardize the teaching of acupoints | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
+| c. 1040 CE | Bi Sheng devises the first known movable type, using baked-clay characters, an innovation later recorded in Shen Kuo's *Dream Pool Essays* | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
 | 1048 CE | A catastrophic avulsion shifts the Yellow River's lower course northward, deepening the Northern Song's fiscal and political crises | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1069 CE | Wang Anshi launches the New Laws (*xin fa*) reform program under Emperor Shenzong | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1084 CE | Sima Guang completes the *Zizhi Tongjian*, a comprehensive chronicle spanning 1,362 years of Chinese history | History | [The Song Dynasty](history/the-song-dynasty.md) |
@@ -96,6 +98,7 @@ Reworked and extended as new content is added.
 | 1281 CE | A second, larger Mongol invasion of Japan is again destroyed by typhoon | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1293 CE | Guo Shoujing completes the Tonghui Canal, extending the Grand Canal north to the Yuan capital at Dadu (Beijing) | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 1294 CE | Death of Kublai Khan opens a period of rapid succession and dynastic instability | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1298 CE | Wang Zhen prints his *Nong Shu* using wooden movable type and a revolving typecase of his own design | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
 | 1315 CE | The Yuan Dynasty restores the imperial examinations under Emperor Renzong, with separate quotas favoring Mongols and Central Asians | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
 | c. 1330 CE | The scholar Guo Jujing compiles the *Twenty-Four Paragons of Filial Piety*, which becomes late imperial China's most widely circulated moral primer | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 1351 CE | The Red Turban Rebellion erupts amid Yellow River floods and famine, beginning the Yuan's collapse | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
@@ -105,6 +108,7 @@ Reworked and extended as new content is added.
 | 1391 CE | The Hongwu Emperor abolishes compressed tribute-tea cakes, shifting Chinese production toward loose-leaf tea | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1405 CE | Zheng He's first treasure-fleet voyage sets sail for the Indian Ocean | People | [Zheng He](people/zheng-he.md) |
 | 1406 CE | Construction of the Forbidden City begins under the Yongle Emperor | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1408 CE | The *Yongle Encyclopedia*, the largest compilation of its age, is completed for the Yongle Emperor—so vast it could only be preserved in manuscript rather than print | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
 | 1414 CE | A giraffe from the East African coast is presented to the Yongle Emperor via Bengal and hailed at court as an auspicious *qilin*, dramatizing the reach of the tributary order | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1424 CE | The Yongle Emperor dies; the Hongxi Emperor orders a halt to the treasure voyages | People | [Zheng He](people/zheng-he.md) |
@@ -177,6 +181,7 @@ Reworked and extended as new content is added.
 | 1938 | Nationalist forces deliberately breach the Yellow River dikes at Huayuankou to slow the Japanese advance, killing an estimated 400,000 to 900,000 civilians | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1942 | Birth of Hu Jintao in Jiangsu province | People | [Hu Jintao](people/hu-jintao.md) |
 | 1946 | Full-scale civil war resumes as the Marshall Mission fails to broker a coalition | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1947 | The Inner Mongolia Autonomous Region is proclaimed on May 1, two years before the PRC, becoming the template for China's system of ethnic regional autonomy | Government & Politics | [Regional Autonomy](government-politics/regional-autonomy.md) |
 | 1948 | The Liaoshen, Huai-Hai, and Pingjin campaigns destroy the Nationalist field armies | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1949 | Proclamation of the People's Republic of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
@@ -192,6 +197,7 @@ Reworked and extended as new content is added.
 | 1959 | Xu Xusheng's survey identifies the Erlitou site, later the leading archaeological candidate for a Xia-era polity | History | [The Xia Dynasty](history/the-xia-dynasty.md) |
 | 1960 | The Soviet-aided Sanmenxia Dam on the Yellow River is completed, but silts up within two years, discrediting large dams on sediment-heavy rivers | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1962 | The Seven Thousand Cadres Conference assesses the Great Leap's failures as retrenchment ends the famine | History | [The Great Leap Forward](history/the-great-leap-forward.md) |
+| 1965 | The Tibet Autonomous Region is formally established, the last of China's five provincial-level autonomous regions | Government & Politics | [Regional Autonomy](government-politics/regional-autonomy.md) |
 | 1966 | The "May 16 Circular" formally launches the Cultural Revolution; Red Guards mobilize nationwide | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1966 | Mao launches the Cultural Revolution | People | [Mao Zedong](people/mao-zedong.md) |
 | 1971 | Zhou Enlai hosts Henry Kissinger's secret Beijing visit, opening U.S.–China rapprochement | People | [Zhou Enlai](people/zhou-enlai.md) |
@@ -208,6 +214,7 @@ Reworked and extended as new content is added.
 | 1980 | The four original Special Economic Zones are formally established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1982 | The National People's Congress adopts the current PRC Constitution, restoring formal constitutional governance after the Cultural Revolution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 1982 | The revised Party Constitution abolishes the Chairmanship and restores the General Secretary and Standing Committee system to institutionalize collective leadership | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
+| 1984 | The National People's Congress passes the Law on Regional National Autonomy, the principal statute implementing the constitutional autonomy system | Government & Politics | [Regional Autonomy](government-politics/regional-autonomy.md) |
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |

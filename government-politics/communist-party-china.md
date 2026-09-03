@@ -132,6 +132,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [The Standing Committee of the Politburo](standing-committee-politburo.md) — the party's supreme decision-making organ, where its top leaders set policy before it flows through state institutions.
 - [State-Owned Enterprises](../economy/state-owned-enterprises.md) — the state-controlled firms through which the party directs strategic sectors of the economy.
 - [The Hukou System](hukou-system.md) — the household-registration regime through which the party has classified citizens, controlled internal migration, and allocated services since the 1950s.
+- [Regional Autonomy](regional-autonomy.md) — the ethnic-minority self-governance framework whose autonomous governments the party's parallel committees subordinate through appointment and discipline.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
