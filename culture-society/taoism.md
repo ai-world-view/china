@@ -113,6 +113,7 @@ Globally, Taoist concepts have profoundly influenced Western alternative spiritu
 - [Buddhism in China](buddhism-in-china.md) — The imported tradition whose concepts first entered Chinese through Taoist vocabulary (*geyi*) and later blended with it in Chan practice and the "Three Teachings in One"
 - [Chinese Medicine](chinese-medicine.md) — The healing tradition whose theory of *qi*, yin-yang balance, and *yangsheng* (nourishing life) drew deeply on Taoist cosmology and practice
 - [The I Ching (Book of Changes)](i-ching.md) — The classic of change whose *yin*–*yang* cosmology and philosophy of natural transformation Taoism shares and elaborates
+- [Li Bai](../people/li-bai.md) — The Tang poet whose celebration of spontaneity, wine, nature, and the *xianren* (immortal) ideal made Daoist sensibility a wellspring of Chinese poetry
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

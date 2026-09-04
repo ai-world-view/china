@@ -22,6 +22,7 @@ Topics in this knowledge base concerning the notable people who shaped China.
 | [Hu Jintao](hu-jintao.md) | Paramount leader (2002–2012); a centrist technocrat who continued market growth while promoting the "Harmonious Society" and "Scientific Outlook on Development," and upheld the collective-leadership norms his successor later dismantled. |
 | [Zheng He](zheng-he.md) | Ming Dynasty Muslim eunuch admiral (1371–1435) who commanded seven treasure-fleet voyages across the Indian Ocean to Arabia and East Africa (1405–1433)—the apex of Chinese sea power, before the court abandoned oceanic exploration and turned inward. |
 | [Kangxi](kangxi.md) | Fourth Qing emperor (r. 1661–1722) and arguably the dynasty's greatest ruler; his 61-year reign—the longest in Chinese history—crushed the Three Feudatories, annexed Taiwan, settled the Russian frontier at Nerchinsk, broke the Dzungars, and made the Qing a stable, learned empire at its zenith. |
+| [Li Bai](li-bai.md) | Tang Dynasty poet (701–762 CE), with Du Fu one of the two greatest in the Chinese canon; his spontaneous, imaginative, wine-and-moon verse embodied Daoist freedom and defined the romantic ideal of the poet-individual. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

@@ -133,6 +133,7 @@ The CPC has presided over both the worst man-made famines in history and one of 
 - [State-Owned Enterprises](../economy/state-owned-enterprises.md) — the state-controlled firms through which the party directs strategic sectors of the economy.
 - [The Hukou System](hukou-system.md) — the household-registration regime through which the party has classified citizens, controlled internal migration, and allocated services since the 1950s.
 - [Regional Autonomy](regional-autonomy.md) — the ethnic-minority self-governance framework whose autonomous governments the party's parallel committees subordinate through appointment and discipline.
+- [The People's Liberation Army](peoples-liberation-army.md) — the party's armed instrument, commanded through the Central Military Commission under the principle that "the party commands the gun."
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

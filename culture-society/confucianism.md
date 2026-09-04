@@ -103,6 +103,7 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the civil-service mechanism that made mastery of the Confucian classics the path to office for over a millennium.
 - [The Zhou Dynasty](../history/the-zhou-dynasty.md) — the dynasty whose ritual order and intellectual ferment gave rise to Confucianism and the Hundred Schools of Thought.
 - [Filial Piety (Xiao)](filial-piety.md) — the cardinal Confucian virtue and root of *ren*, extending the family ethic of reverence for parents into the wider social and political order.
+- [Legalism](legalism.md) — the rival Warring States school that rejected moral cultivation for codified law and state power, and against which Confucianism defined itself before the two fused in imperial governance.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

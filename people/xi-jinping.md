@@ -90,6 +90,7 @@ Xi's tenure represents a decisive departure from Deng Xiaoping's philosophy of p
 - [Hu Jintao](hu-jintao.md) — Xi's immediate predecessor, from whom he received power in 2012 and whose collective-leadership norms he subsequently dismantled.
 - [Jiang Zemin](jiang-zemin.md) — the paramount leader who institutionalized the orderly succession and term limits that Xi later reversed.
 - [The Standing Committee of the Politburo](../government-politics/standing-committee-politburo.md) — the party's supreme body, which Xi has reshaped with loyalists and subordinated to his personal authority.
+- [The People's Liberation Army](../government-politics/peoples-liberation-army.md) — the military Xi commands as Central Military Commission chairman, restructuring it into joint Theater Commands and driving its modernization toward a "world-class military."
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

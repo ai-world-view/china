@@ -126,4 +126,5 @@ The war also demonstrated the power of rural revolutionary movements against urb
 - [The Qing Dynasty](../history/the-qing-dynasty.md) — imperial system whose collapse created the conditions for civil war
 - [Economic Reform & Opening-up](../economy/economic-reform-opening-up.md) — post-war economic policies under Deng that shaped the PRC's trajectory
 - [The Long March](../history/the-long-march.md) — the 1934–1935 Communist retreat that preserved the party's core and set the stage for its eventual victory in the war
+- [The People's Liberation Army](peoples-liberation-army.md) — the Communist armed force, forged in this conflict from 1927, that defeated the Nationalists and took its formal name at the 1949 victory
 <!-- END GENERATED: crossrefs -->

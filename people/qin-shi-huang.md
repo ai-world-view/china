@@ -150,4 +150,5 @@ The discovery of the Terracotta Army in 1974 transformed understanding of Qin-er
 - [Mao Zedong](./mao-zedong.md) — 20th-century leader who explicitly compared himself to Qin Shi Huang
 - [The Communist Party of China](../government-politics/communist-party-china.md) — later centralized authority drawing on imperial administrative tradition
 - [The Warring States Period](../history/warring-states-period.md) — the era of division he ended, conquering its six rival kingdoms to found the first unified empire
+- [Legalism](../culture-society/legalism.md) — the governing philosophy of his empire, implemented by his chancellor Li Si through uniform law, standardization, and suppression of rival schools
 <!-- END GENERATED: crossrefs -->

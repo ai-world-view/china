@@ -27,16 +27,19 @@ Reworked and extended as new content is added.
 | 453 BCE | The state of Jin is partitioned among the Han, Wei, and Zhao houses, forming three of the seven warring states | History | [The Warring States Period](history/warring-states-period.md) |
 | 359 BCE | Shang Yang begins his Legalist reforms in Qin under Duke Xiao, forging the era's most powerful state | History | [The Warring States Period](history/warring-states-period.md) |
 | 341 BCE | The Battle of Maling ends Wei's military dominance among the warring states | History | [The Warring States Period](history/warring-states-period.md) |
+| c. 338 BCE | Shang Yang, architect of Qin's Legalist reforms, is executed after Duke Xiao's death, though the legal institutions he built endure | Culture & Society | [Legalism](culture-society/legalism.md) |
 | 307 BCE | King Wuling of Zhao adopts cavalry and nomadic dress, revolutionizing Chinese warfare | History | [The Warring States Period](history/warring-states-period.md) |
 | 260 BCE | The Battle of Changping: the Qin general Bai Qi annihilates the Zhao army, crippling Qin's last major rival | History | [The Warring States Period](history/warring-states-period.md) |
 | 259 BCE | Birth of Ying Zheng, the future Qin Shi Huang, in Handan | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 256 BCE | Qin extinguishes the Eastern Zhou royal house, ending the eight-century Zhou Dynasty | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
 | 246 BCE | Ying Zheng accedes to the Qin throne at age 13; construction of his mausoleum begins | People | [Qin Shi Huang](people/qin-shi-huang.md) |
+| 233 BCE | Han Fei, who synthesized *fa*, *shu*, and *shi* into the canonical Legalist system, dies in a Qin prison | Culture & Society | [Legalism](culture-society/legalism.md) |
 | 221 BCE | Qin Shi Huang unifies the warring states and founds the Qin Dynasty, China's first centralized empire | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 221 BCE | Qin unification; the first continuous frontier wall is joined under general Meng Tian | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 221 BCE | Ying Zheng completes the conquest of the six states and adopts the title *Shi Huangdi*, "First Emperor" | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 213 BCE | The burning of books is ordered on the advice of chancellor Li Si | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 210 BCE | Death of Qin Shi Huang during his fifth imperial inspection tour | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
+| 208 BCE | Li Si, the Legalist chancellor who standardized the Qin empire, is executed in Xianyang under the Second Emperor | Culture & Society | [Legalism](culture-society/legalism.md) |
 | 206 BCE | Collapse of the Qin Dynasty amid peasant rebellion and civil war | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 202 BCE | Liu Bang defeats Xiang Yu at Gaixia and founds the Han Dynasty as Emperor Gaozu | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 200 BCE | Defeated at Baideng, Emperor Gaozu adopts the *heqin* policy of appeasing the Xiongnu | History | [The Han Dynasty](history/the-han-dynasty.md) |
@@ -68,10 +71,14 @@ Reworked and extended as new content is added.
 | 659 CE | The Tang court issues the *Xinxiu Bencao*, regarded as the world's first officially promulgated pharmacopoeia | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 675 CE | The colossal Vairocana Buddha at the Longmen Grottoes is completed under Tang patronage | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 690 CE | Wu Zetian declares herself emperor, China's only reigning empress | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 701 CE | Birth of the poet Li Bai, later revered with Du Fu as one of the two greatest poets of the Tang | People | [Li Bai](people/li-bai.md) |
+| 742 CE | Li Bai is summoned to Emperor Xuanzong's court at Chang'an and appointed a Hanlin academician | People | [Li Bai](people/li-bai.md) |
+| 744 CE | Li Bai and Du Fu meet in Luoyang, beginning one of Chinese literature's most celebrated literary friendships | People | [Li Bai](people/li-bai.md) |
 | 745 CE | Emperor Xuanzong of Tang has his own commentary on the *Classic of Filial Piety* inscribed in stone at the imperial academy, affirming its canonical status | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 755 CE | The An Lushan Rebellion erupts, devastating the Tang | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | c. 760 CE | Lu Yu completes the *Cha Jing* (*Classic of Tea*), the world's first monograph on tea cultivation and connoisseurship | Economy | [The Tea Trade](economy/the-tea-trade.md) |
+| 762 CE | Death of Li Bai at Dangtu in reduced circumstances; later legend has him drowning while reaching for the moon's reflection in the Yangtze | People | [Li Bai](people/li-bai.md) |
 | 781 CE | The Nestorian Stele is erected in Chang'an, recording Christianity's arrival via the Silk Road | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 793 CE | The Tang court imposes a permanent tax on tea (*chashui*), marking tea as a major state revenue source | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 845 CE | The Huichang Persecution under Emperor Wuzong devastates Chinese Buddhist institutions | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
@@ -172,6 +179,7 @@ Reworked and extended as new content is added.
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1926 | Birth of Jiang Zemin in Yangzhou, Jiangsu province | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1927 | The Shanghai Massacre shatters the KMT–CPC alliance, opening the Chinese Civil War | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1927 | The August 1 Nanchang Uprising, a failed Communist revolt against the Nationalists, is later commemorated as the founding of the People's Liberation Army | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 1928 | Systematic excavation of Yinxu, the last Shang capital near Anyang, begins under Academia Sinica and Li Ji, confirming the dynasty archaeologically | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 1931 | Catastrophic Yangtze and Huai River floods inundate some 180,000 km² and kill an estimated 3.7 million, among the deadliest natural disasters in recorded history | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 1934 | The Long March begins as some 86,000 Communist troops break out of the encircled Jiangxi Soviet | History | [The Long March](history/the-long-march.md) |
@@ -185,6 +193,8 @@ Reworked and extended as new content is added.
 | 1948 | The Liaoshen, Huai-Hai, and Pingjin campaigns destroy the Nationalist field armies | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1949 | Proclamation of the People's Republic of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1949 | Communist victory ends the civil war; the Nationalist government retreats to Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
+| 1949 | The Communist armed forces are formally designated the People's Liberation Army as the People's Republic is founded | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
+| 1950 | The PLA enters the Korean War as the Chinese People's Volunteer Army, suffering heavy casualties against the UN-led coalition | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | The Wilhelm–Baynes English translation of the I Ching appears with C.G. Jung's foreword on synchronicity | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1951 | The first PRC household-registration regulations are introduced, drawing on the Qing *baojia* tradition and Soviet *propiska* | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
@@ -210,6 +220,7 @@ Reworked and extended as new content is added.
 | 1976 | Archaeologist Zheng Zhenxiang excavates the intact tomb of Fu Hao at Yinxu, the only unlooted royal Shang burial yet found | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 1976 | Arrest of the Gang of Four ends the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
+| 1979 | The brief Sino-Vietnamese War exposes the PLA's technological and tactical weaknesses, spurring Deng Xiaoping's military modernization | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1980 | The four original Special Economic Zones are formally established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1982 | The National People's Congress adopts the current PRC Constitution, restoring formal constitutional governance after the Cultural Revolution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
@@ -246,6 +257,7 @@ Reworked and extended as new content is added.
 | 2014 | The Grand Canal is inscribed as a UNESCO World Heritage Site, recognizing 48 heritage sites across eight provinces | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 2014 | The $40 billion Silk Road Fund is established to finance Belt and Road projects | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2014 | The State Council issues national guidelines on hukou reform, the most comprehensive since 1958, pledging urban registration to 100 million migrants | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
+| 2015 | Xi Jinping launches sweeping military reforms, replacing the seven military regions with five joint Theater Commands and tightening Party control | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 2015 | The Guidelines on Deepening SOE Reform distinguish "commercial" from "public-interest" enterprises and promote "mixed ownership" | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 2015 | Tu Youyou receives the Nobel Prize in Physiology or Medicine for artemisinin, a first for mainland Chinese science | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
@@ -262,6 +274,7 @@ Reworked and extended as new content is added.
 | 2022 | Death of Jiang Zemin in Shanghai at age 96 | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 2023 | The third Belt and Road Forum convenes as cumulative BRI investment surpasses $1 trillion | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2023 | The 14th National People's Congress installs Xi Jinping for a third presidential term and appoints Li Qiang as Premier | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
+| 2024 | The Strategic Support Force is dissolved, its space, cyber, and information missions redistributed among three new arms under the Central Military Commission | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 <!-- END GENERATED: timeline -->
 
 See also the [master index](INDEX.md).

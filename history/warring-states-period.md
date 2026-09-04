@@ -140,6 +140,7 @@ The Warring States period is thus the crucible in which Chinese civilization for
 - [The Yuan Dynasty](the-yuan-dynasty.md)
 - [The Shang Dynasty](the-shang-dynasty.md)
 - [The Zhou Dynasty](the-zhou-dynasty.md)
+- [Legalism](../culture-society/legalism.md)
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

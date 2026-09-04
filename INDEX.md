@@ -56,6 +56,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md)
 - [The Hukou System](government-politics/hukou-system.md)
 - [Regional Autonomy](government-politics/regional-autonomy.md)
+- [The People's Liberation Army](government-politics/peoples-liberation-army.md)
 
 ## Economy
 
@@ -79,6 +80,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Filial Piety (Xiao)](culture-society/filial-piety.md)
 - [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md)
 - [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md)
+- [Legalism](culture-society/legalism.md)
 
 ## People
 
@@ -95,4 +97,5 @@ Category index: [people/](people/index.md)
 - [Hu Jintao](people/hu-jintao.md)
 - [Zheng He](people/zheng-he.md)
 - [Kangxi](people/kangxi.md)
+- [Li Bai](people/li-bai.md)
 <!-- END GENERATED: master-index -->
