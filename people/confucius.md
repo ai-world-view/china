@@ -101,6 +101,7 @@ In the contemporary world, Confucius remains the most revered figure in Chinese 
 - [The Han Dynasty](../history/the-han-dynasty.md) — the dynasty that elevated his teachings to state orthodoxy, making them the ideological foundation of imperial governance.
 - [The Zhou Dynasty](../history/the-zhou-dynasty.md) — the dynasty into whose late Spring and Autumn decline Confucius was born, and whose ritual order he sought to restore.
 - [Filial Piety (Xiao)](../culture-society/filial-piety.md) — the virtue Confucius called the root of moral excellence, later systematized in the *Classic of Filial Piety*.
+- [Mohism](../culture-society/mohism.md) — the rival Warring States school whose doctrine of impartial care provoked the most sustained Confucian counter-arguments, from Mencius and Xunzi.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

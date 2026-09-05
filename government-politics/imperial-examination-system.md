@@ -153,6 +153,7 @@ The formal abolition on September 2, 1905 marked a rupture in Chinese civilizati
 - [The National People's Congress](national-peoples-congress.md) — Modern legislative body descended from examination-based bureaucratic tradition
 - [The Shang Dynasty](../history/the-shang-dynasty.md) — Dynasty that established the scribal and administrative culture the examination system later formalized
 - [Filial Piety (Xiao)](../culture-society/filial-piety.md) — The cardinal virtue codified in the *Classic of Filial Piety*, a core text of the Confucian curriculum the examinations tested
+- [Calligraphy](../culture-society/calligraphy.md) — The brush art whose quality examiners read as a mark of cultivation, making a regulated examination hand part of official advancement
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

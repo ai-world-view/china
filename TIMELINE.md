@@ -24,7 +24,10 @@ Reworked and extended as new content is added.
 | 486 BCE | The state of Wu digs the Han Gou canal linking the Huai River to the Yangtze, an early precursor of the Grand Canal | Geography | [The Grand Canal](geography/the-grand-canal.md) |
 | 479 BCE | Death of Confucius; his disciples begin compiling the *Analects* | People | [Confucius](people/confucius.md) |
 | 475 BCE | Traditional start of the Warring States Period as Zhou authority fragments among contending states | History | [The Warring States Period](history/warring-states-period.md) |
+| c. 470 BCE | Birth of Mozi, founder of Mohism and the chief early rival to Confucianism | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 453 BCE | The state of Jin is partitioned among the Han, Wei, and Zhao houses, forming three of the seven warring states | History | [The Warring States Period](history/warring-states-period.md) |
+| c. 440 BCE | Mozi dissuades Chu from attacking Song, countering the engineer Gongshu Pan's siege weapon in a famous mock-siege debate | Culture & Society | [Mohism](culture-society/mohism.md) |
+| c. 391 BCE | Death of Mozi; his followers carry on the Mohist school and later compile the *Mohist Canons* | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 359 BCE | Shang Yang begins his Legalist reforms in Qin under Duke Xiao, forging the era's most powerful state | History | [The Warring States Period](history/warring-states-period.md) |
 | 341 BCE | The Battle of Maling ends Wei's military dominance among the warring states | History | [The Warring States Period](history/warring-states-period.md) |
 | c. 338 BCE | Shang Yang, architect of Qin's Legalist reforms, is executed after Duke Xiao's death, though the legal institutions he built endure | Culture & Society | [Legalism](culture-society/legalism.md) |
@@ -37,6 +40,7 @@ Reworked and extended as new content is added.
 | 221 BCE | Qin Shi Huang unifies the warring states and founds the Qin Dynasty, China's first centralized empire | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 221 BCE | Qin unification; the first continuous frontier wall is joined under general Meng Tian | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 221 BCE | Ying Zheng completes the conquest of the six states and adopts the title *Shi Huangdi*, "First Emperor" | People | [Qin Shi Huang](people/qin-shi-huang.md) |
+| 219 BCE | Qin Shi Huang's Mount Tai stele, cut in the seal script standardized by Li Si, exemplifies the imperial unification of writing | Culture & Society | [Calligraphy](culture-society/calligraphy.md) |
 | 213 BCE | The burning of books is ordered on the advice of chancellor Li Si | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 210 BCE | Death of Qin Shi Huang during his fifth imperial inspection tour | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 208 BCE | Li Si, the Legalist chancellor who standardized the Qin empire, is executed in Xianyang under the Second Emperor | Culture & Society | [Legalism](culture-society/legalism.md) |
@@ -57,6 +61,7 @@ Reworked and extended as new content is added.
 | 208 CE | At the Battle of Red Cliffs on the Yangtze, the allied forces of Liu Bei and Sun Quan destroy Cao Cao's fleet, setting the Three Kingdoms division | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 220 CE | The Eastern Han falls; the Three Kingdoms period begins | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 313 CE | The Ancient Sogdian Letters document Silk Road commerce near Dunhuang | Geography | [The Silk Road](geography/the-silk-road.md) |
+| 353 CE | Wang Xizhi composes the *Lanting Xu* ("Orchid Pavilion Preface") at a gathering in Kuaiji, later revered as the supreme masterwork of Chinese calligraphy | Culture & Society | [Calligraphy](culture-society/calligraphy.md) |
 | 401 CE | Kumarajiva reaches Chang'an and begins his landmark translations of the Lotus and Diamond Sutras | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 581 CE | Yang Jian deposes the Northern Zhou and founds the Sui Dynasty as Emperor Wen, promulgating the Kaihuang Code | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 589 CE | The Sui conquers the Chen Dynasty, reunifying China after nearly three centuries of division | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
@@ -67,19 +72,28 @@ Reworked and extended as new content is added.
 | 618 CE | Emperor Yang is assassinated at Jiangdu and the Sui Dynasty collapses | History | [The Sui Dynasty](history/the-sui-dynasty.md) |
 | 618 CE | Li Yuan founds the Tang Dynasty after the collapse of the Sui | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 626 CE | Emperor Taizong takes the throne, opening the Tang golden age | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 632 CE | Ouyang Xun's *Jiucheng Gong* stele sets the enduring standard of Tang regular-script calligraphy | Culture & Society | [Calligraphy](culture-society/calligraphy.md) |
 | 645 CE | Xuanzang returns from India with 657 Sanskrit texts and founds the Consciousness-Only school | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 659 CE | The Tang court issues the *Xinxiu Bencao*, regarded as the world's first officially promulgated pharmacopoeia | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 675 CE | The colossal Vairocana Buddha at the Longmen Grottoes is completed under Tang patronage | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 690 CE | Wu Zetian declares herself emperor, China's only reigning empress | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 701 CE | Birth of the poet Li Bai, later revered with Du Fu as one of the two greatest poets of the Tang | People | [Li Bai](people/li-bai.md) |
+| 712 CE | Birth of the poet Du Fu, later revered as the "Sage of Poetry" and, with Li Bai, one of the two greatest poets of the Tang | People | [Du Fu](people/du-fu.md) |
 | 742 CE | Li Bai is summoned to Emperor Xuanzong's court at Chang'an and appointed a Hanlin academician | People | [Li Bai](people/li-bai.md) |
 | 744 CE | Li Bai and Du Fu meet in Luoyang, beginning one of Chinese literature's most celebrated literary friendships | People | [Li Bai](people/li-bai.md) |
 | 745 CE | Emperor Xuanzong of Tang has his own commentary on the *Classic of Filial Piety* inscribed in stone at the imperial academy, affirming its canonical status | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
 | 755 CE | The An Lushan Rebellion erupts, devastating the Tang | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 756 CE | Du Fu, trapped in rebel-occupied Chang'an, composes *Chunwang* ("Spring View") | People | [Du Fu](people/du-fu.md) |
+| 759 CE | Du Fu writes the "Three Officials" and "Three Separations," his sustained witness to the human cost of the An Lushan Rebellion | People | [Du Fu](people/du-fu.md) |
 | c. 760 CE | Lu Yu completes the *Cha Jing* (*Classic of Tea*), the world's first monograph on tea cultivation and connoisseurship | Economy | [The Tea Trade](economy/the-tea-trade.md) |
+| 760 CE | Du Fu builds his Thatched Cottage (*Caotang*) at Chengdu, opening his most productive years | People | [Du Fu](people/du-fu.md) |
 | 762 CE | Death of Li Bai at Dangtu in reduced circumstances; later legend has him drowning while reaching for the moon's reflection in the Yangtze | People | [Li Bai](people/li-bai.md) |
+| 766 CE | Du Fu composes the *Qiu Xing* ("Autumn Meditations") sequence of eight regulated verses at Kuizhou | People | [Du Fu](people/du-fu.md) |
+| 770 CE | Death of Du Fu during a river journey near Tanzhou (modern Changsha) | People | [Du Fu](people/du-fu.md) |
+| c. 777 CE | The monk Huaisu writes his *Autobiography* (*Zixu tie*), a summit of Tang "wild cursive" script | Culture & Society | [Calligraphy](culture-society/calligraphy.md) |
 | 781 CE | The Nestorian Stele is erected in Chang'an, recording Christianity's arrival via the Silk Road | Geography | [The Silk Road](geography/the-silk-road.md) |
+| 785 CE | The calligrapher and Tang loyalist official Yan Zhenqing, whose regular script fused moral character with monumental form, is executed by a rebel warlord | Culture & Society | [Calligraphy](culture-society/calligraphy.md) |
 | 793 CE | The Tang court imposes a permanent tax on tea (*chashui*), marking tea as a major state revenue source | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 845 CE | The Huichang Persecution under Emperor Wuzong devastates Chinese Buddhist institutions | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 868 CE | A woodblock-printed Diamond Sutra is produced at Dunhuang, the world's oldest dated printed book | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
@@ -159,6 +173,7 @@ Reworked and extended as new content is added.
 | 1887 | The Yellow River bursts at Huayuankou, flooding Henan and Shandong and killing an estimated 900,000 to two million | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1893 | Birth of Mao Zedong in Shaoshan, Hunan province | People | [Mao Zedong](people/mao-zedong.md) |
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
+| 1894 | Sun Yirang publishes his *Mozi Xiangu*, the definitive classical edition of the *Mozi* that revives serious study of the long-neglected school | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1898 | Birth of Zhou Enlai in Huai'an, Jiangsu province | People | [Zhou Enlai](people/zhou-enlai.md) |
 | 1899 | The scholar Wang Yirong recognizes inscribed "dragon bones" sold as medicine as ancient Shang oracle bones, opening the study of the earliest Chinese writing | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
@@ -219,6 +234,7 @@ Reworked and extended as new content is added.
 | 1976 | Death of Mao Zedong in Beijing | People | [Mao Zedong](people/mao-zedong.md) |
 | 1976 | Archaeologist Zheng Zhenxiang excavates the intact tomb of Fu Hao at Yinxu, the only unlooted royal Shang burial yet found | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 1976 | Arrest of the Gang of Four ends the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
+| 1978 | A.C. Graham's *Later Mohist Logic, Ethics and Science* reconstructs the *Mohist Canons*, establishing the school's proto-scientific achievements for modern scholarship | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
 | 1979 | The brief Sino-Vietnamese War exposes the PLA's technological and tactical weaknesses, spurring Deng Xiaoping's military modernization | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |

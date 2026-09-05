@@ -111,6 +111,8 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the meritocratic civil-service mechanism that the Tang expanded into the primary path to office.
 - [Printing and Woodblock Printing](../culture-society/printing-and-woodblock.md) — the technology whose organized origins date to the Tang, the era of the 868 CE *Diamond Sutra*, the world's oldest dated printed book.
 - [Li Bai](../people/li-bai.md) — the era's greatest poet, whose spontaneous, imaginative verse epitomizes the cultural flowering of the Tang golden age.
+- [Du Fu](../people/du-fu.md) — the "Sage of Poetry," whose verse bore witness to the An Lushan Rebellion that shattered the high Tang.
+- [Calligraphy](../culture-society/calligraphy.md) — the art whose greatest monumental masters, from Ouyang Xun and Yan Zhenqing to the wild-cursive Zhang Xu and Huaisu, defined its canonical standards under the Tang.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

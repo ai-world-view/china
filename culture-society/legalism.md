@@ -96,6 +96,7 @@ Despite their opposition, both systems were adopted within imperial China, creat
 - [The Warring States Period](../history/warring-states-period.md) — the era of interstate conflict that produced Legalism as a response to disorder and the need for state power.
 - [Filial Piety (Xiao)](filial-piety.md) — the Confucian virtue that Legalists subordinated to state-centered rather than family-centered loyalty.
 - [The Zhou Dynasty](../history/the-zhou-dynasty.md) — whose breakdown and the Hundred Schools of Thought provided the philosophical ferment in which Legalism emerged.
+- [Mohism](mohism.md) — a contemporaneous Warring States school that shared Legalism's meritocratic and consequentialist bent but grounded governance in impartial care rather than raw state power.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

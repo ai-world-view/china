@@ -104,6 +104,7 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [The Zhou Dynasty](../history/the-zhou-dynasty.md) — the dynasty whose ritual order and intellectual ferment gave rise to Confucianism and the Hundred Schools of Thought.
 - [Filial Piety (Xiao)](filial-piety.md) — the cardinal Confucian virtue and root of *ren*, extending the family ethic of reverence for parents into the wider social and political order.
 - [Legalism](legalism.md) — the rival Warring States school that rejected moral cultivation for codified law and state power, and against which Confucianism defined itself before the two fused in imperial governance.
+- [Mohism](mohism.md) — the Warring States school of Mozi and Confucianism's chief early rival, whose doctrine of impartial care Mencius attacked as denying the graded obligations owed first to one's own parents.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -81,6 +81,8 @@ Category index: [culture-society/](culture-society/index.md)
 - [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md)
 - [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md)
 - [Legalism](culture-society/legalism.md)
+- [Mohism](culture-society/mohism.md)
+- [Calligraphy](culture-society/calligraphy.md)
 
 ## People
 
@@ -98,4 +100,5 @@ Category index: [people/](people/index.md)
 - [Zheng He](people/zheng-he.md)
 - [Kangxi](people/kangxi.md)
 - [Li Bai](people/li-bai.md)
+- [Du Fu](people/du-fu.md)
 <!-- END GENERATED: master-index -->

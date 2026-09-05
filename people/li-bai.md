@@ -82,6 +82,7 @@ Du Fu's poetry is more formally complex, densely allusive, morally serious, and 
 - [Buddhism in China](../culture-society/buddhism-in-china.md) — the religious tradition that shaped Tang intellectual culture and influenced Li Bai's spiritual imagination and mountain poetry.
 - [Confucianism](../culture-society/confucianism.md) — the examination orthodoxy that Li Bai rejected in favor of patronage and individual achievement, positioning himself as a poet outside the conventional literati career.
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the formal path to office that Li Bai bypassed through aristocratic patronage and poetic fame rather than Confucian examination.
+- [Du Fu](du-fu.md) — Li Bai's great friend and poetic counterpart, whose Confucian gravity and formal precision complement Li Bai's Daoist spontaneity; the two met in 744 CE.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
