@@ -79,6 +79,7 @@ The Zhou Dynasty's eight-century arc established the conceptual and institutiona
 - [Imperial Examination System](../government-politics/imperial-examination-system.md) — rooted in Confucian curriculum forged under Zhou
 - [The Xia Dynasty](the-xia-dynasty.md) — the legendary first dynasty whose Mandate-forfeiture narrative the Zhou systematized to justify their conquest of the Shang
 - [Pan Geng](pan-geng.md) — the Shang king whose *Shangshu* speeches show the royal-ancestor legitimation that the Zhou's Mandate of Heaven later superseded
+- [The Mandate of Heaven](../government-politics/the-mandate-of-heaven.md) — the doctrine of conditional, virtue-based legitimacy the Zhou articulated to justify their conquest of the Shang
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -125,6 +125,7 @@ The Ming's inward turn after 1433—abandoning the maritime ambitions of the Zhe
 - [The Tributary System](../government-politics/tributary-system.md) — The diplomatic order the Ming expanded to its greatest scope, drawing over sixty tributary states to the court through Zheng He's voyages
 - [Porcelain and Ceramics](../culture-society/porcelain-and-ceramics.md) — The Ming imperial kilns at Jingdezhen made blue-and-white porcelain a premier export and diplomatic gift
 - [Printing and Woodblock Printing](../culture-society/printing-and-woodblock.md) — The craft reached its artistic zenith under the Ming in polychrome book illustration and the mass-market printing of vernacular fiction
+- [Beijing](../geography/beijing.md) — The Yongle Emperor moved the Ming capital there in 1421 and rebuilt it as the imperial city it remained for the next five centuries
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

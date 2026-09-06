@@ -88,6 +88,7 @@ The Forbidden City also became a symbol in global architecture and art of the ae
 - [The Ming Dynasty](../history/the-ming-dynasty.md) — the Yongle Emperor built the palace (1406–1420) as the ceremonial center of Ming imperial rule.
 - [Taoism](../culture-society/taoism.md) — the complex's north-south axis and south-facing throne express Taoist feng shui and cosmological principles.
 - [The Qing Dynasty](../history/the-qing-dynasty.md) — the Manchu dynasty that ruled from the palace after 1644 until Puyi's 1912 abdication ended imperial residence there.
+- [Beijing](beijing.md) — the capital city at whose ceremonial heart the palace was built, aligned to its cosmological north-south axis.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

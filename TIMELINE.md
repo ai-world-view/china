@@ -32,6 +32,7 @@ Reworked and extended as new content is added.
 | 341 BCE | The Battle of Maling ends Wei's military dominance among the warring states | History | [The Warring States Period](history/warring-states-period.md) |
 | c. 338 BCE | Shang Yang, architect of Qin's Legalist reforms, is executed after Duke Xiao's death, though the legal institutions he built endure | Culture & Society | [Legalism](culture-society/legalism.md) |
 | 307 BCE | King Wuling of Zhao adopts cavalry and nomadic dress, revolutionizing Chinese warfare | History | [The Warring States Period](history/warring-states-period.md) |
+| c. 300 BCE | Mencius sharpens the Mandate of Heaven, holding that a ruler who loses the people's hearts forfeits heaven's favor and may rightfully be overthrown | Government & Politics | [The Mandate of Heaven](government-politics/the-mandate-of-heaven.md) |
 | 260 BCE | The Battle of Changping: the Qin general Bai Qi annihilates the Zhao army, crippling Qin's last major rival | History | [The Warring States Period](history/warring-states-period.md) |
 | 259 BCE | Birth of Ying Zheng, the future Qin Shi Huang, in Handan | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 256 BCE | Qin extinguishes the Eastern Zhou royal house, ending the eight-century Zhou Dynasty | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
@@ -83,12 +84,14 @@ Reworked and extended as new content is added.
 | 744 CE | Li Bai and Du Fu meet in Luoyang, beginning one of Chinese literature's most celebrated literary friendships | People | [Li Bai](people/li-bai.md) |
 | 745 CE | Emperor Xuanzong of Tang has his own commentary on the *Classic of Filial Piety* inscribed in stone at the imperial academy, affirming its canonical status | Culture & Society | [Filial Piety (Xiao)](culture-society/filial-piety.md) |
 | 751 CE | Battle of Talas halts Tang westward expansion in Central Asia | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
-| 755 CE | The An Lushan Rebellion erupts, devastating the Tang | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 755 CE | The frontier general An Lushan rebels from the northeast, launching the eight-year uprising that shatters the high Tang | History | [The An Lushan Rebellion](history/the-an-lushan-rebellion.md) |
+| 756 CE | An Lushan's forces capture Chang'an and he declares himself emperor; the fleeing Xuanzong Emperor is compelled to have Yang Guifei executed at Mawei Station | History | [The An Lushan Rebellion](history/the-an-lushan-rebellion.md) |
 | 756 CE | Du Fu, trapped in rebel-occupied Chang'an, composes *Chunwang* ("Spring View") | People | [Du Fu](people/du-fu.md) |
 | 759 CE | Du Fu writes the "Three Officials" and "Three Separations," his sustained witness to the human cost of the An Lushan Rebellion | People | [Du Fu](people/du-fu.md) |
 | c. 760 CE | Lu Yu completes the *Cha Jing* (*Classic of Tea*), the world's first monograph on tea cultivation and connoisseurship | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 760 CE | Du Fu builds his Thatched Cottage (*Caotang*) at Chengdu, opening his most productive years | People | [Du Fu](people/du-fu.md) |
 | 762 CE | Death of Li Bai at Dangtu in reduced circumstances; later legend has him drowning while reaching for the moon's reflection in the Yangtze | People | [Li Bai](people/li-bai.md) |
+| 763 CE | The An Lushan Rebellion is finally suppressed with the death of Shi Chaoyi; the same year Tibetan forces briefly sack Chang'an, and the provincial military governors raised to fight the war become permanently autonomous | History | [The An Lushan Rebellion](history/the-an-lushan-rebellion.md) |
 | 766 CE | Du Fu composes the *Qiu Xing* ("Autumn Meditations") sequence of eight regulated verses at Kuizhou | People | [Du Fu](people/du-fu.md) |
 | 770 CE | Death of Du Fu during a river journey near Tanzhou (modern Changsha) | People | [Du Fu](people/du-fu.md) |
 | c. 777 CE | The monk Huaisu writes his *Autobiography* (*Zixu tie*), a summit of Tang "wild cursive" script | Culture & Society | [Calligraphy](culture-society/calligraphy.md) |
@@ -112,6 +115,7 @@ Reworked and extended as new content is added.
 | 1177 CE | Zhu Xi completes the *Zhouyi Benyi*, which becomes the standard examination commentary on the I Ching | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1200 CE | Death of Zhu Xi, whose Neo-Confucian synthesis becomes orthodox for Chinese education until 1905 | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1234 CE | Mongol forces complete the conquest of the Jin Dynasty, bringing northern China under Mongol rule | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
+| 1153 CE | The Jurchen Jin move their capital to Zhongdu, on the site of modern Beijing, giving the city its first tenure as a dynastic capital | Geography | [Beijing](geography/beijing.md) |
 | 1271 CE | Kublai Khan proclaims the Yuan Dynasty and makes Dadu (modern Beijing) his capital | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1274 CE | The first Mongol invasion of Japan is destroyed by a typhoon the Japanese call *kamikaze* ("divine wind") | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1276 CE | Mongol forces capture the Southern Song capital of Hangzhou | History | [The Song Dynasty](history/the-song-dynasty.md) |
@@ -132,6 +136,8 @@ Reworked and extended as new content is added.
 | 1408 CE | The *Yongle Encyclopedia*, the largest compilation of its age, is completed for the Yongle Emperor—so vast it could only be preserved in manuscript rather than print | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
 | 1414 CE | A giraffe from the East African coast is presented to the Yongle Emperor via Bengal and hailed at court as an auspicious *qilin*, dramatizing the reach of the tributary order | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1420 CE | The Forbidden City is completed and the Ming capital moves to Beijing | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1420 CE | The Temple of Heaven is completed in Beijing as the ritual precinct where the emperor, as Son of Heaven, sacrificed at the winter solstice to renew the Mandate | Government & Politics | [The Mandate of Heaven](government-politics/the-mandate-of-heaven.md) |
+| 1421 CE | The Yongle Emperor formally transfers the Ming capital from Nanjing to Beijing, fixing the city as the imperial seat for the next five centuries | Geography | [Beijing](geography/beijing.md) |
 | 1424 CE | The Yongle Emperor dies; the Hongxi Emperor orders a halt to the treasure voyages | People | [Zheng He](people/zheng-he.md) |
 | 1433 CE | Zheng He's seventh and final voyage ends and he dies at sea; the Ming abandons the treasure fleets | People | [Zheng He](people/zheng-he.md) |
 | 1445 CE | The Daozang (Taoist Canon) is compiled under Ming patronage | Culture & Society | [Taoism](culture-society/taoism.md) |
@@ -188,6 +194,7 @@ Reworked and extended as new content is added.
 | 1911 | The Wuchang Uprising ignites the Xinhai Revolution against the Qing | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1912 | The Republic of China is founded with Sun Yat-sen as provisional president | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1912 | Abdication of the last emperor, Puyi, ends dynastic rule in the Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1912 | The Xinhai Revolution ends the imperial order and the Mandate of Heaven as the basis of political legitimacy, replaced by the republican language of popular sovereignty | Government & Politics | [The Mandate of Heaven](government-politics/the-mandate-of-heaven.md) |
 | 1921 | Founding of the Communist Party of China in Shanghai | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1923 | Richard Wilhelm publishes his German translation of the I Ching, *I Ging: Das Buch der Wandlungen* | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1925 | Death of Sun Yat-sen in Beijing; his body later interred at the Nanjing mausoleum | People | [Sun Yat-sen](people/sun-yat-sen.md) |
@@ -287,6 +294,7 @@ Reworked and extended as new content is added.
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |
 | 2022 | The 20th Party Congress seats a Standing Committee composed of Xi Jinping loyalists, abandoning the reform-era norm of balanced factional representation | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
 | 2022 | Hu Jintao is unexpectedly escorted from the closing session of the 20th Party Congress on live television | People | [Hu Jintao](people/hu-jintao.md) |
+| 2022 | Beijing hosts the Winter Olympics, becoming the first city in history to have held both a Summer (2008) and a Winter Games | Geography | [Beijing](geography/beijing.md) |
 | 2022 | Death of Jiang Zemin in Shanghai at age 96 | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 2023 | The third Belt and Road Forum convenes as cumulative BRI investment surpasses $1 trillion | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2023 | The 14th National People's Congress installs Xi Jinping for a third presidential term and appoints Li Qiang as Premier | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |

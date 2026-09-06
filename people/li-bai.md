@@ -83,6 +83,7 @@ Du Fu's poetry is more formally complex, densely allusive, morally serious, and 
 - [Confucianism](../culture-society/confucianism.md) — the examination orthodoxy that Li Bai rejected in favor of patronage and individual achievement, positioning himself as a poet outside the conventional literati career.
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — the formal path to office that Li Bai bypassed through aristocratic patronage and poetic fame rather than Confucian examination.
 - [Du Fu](du-fu.md) — Li Bai's great friend and poetic counterpart, whose Confucian gravity and formal precision complement Li Bai's Daoist spontaneity; the two met in 744 CE.
+- [The An Lushan Rebellion](../history/the-an-lushan-rebellion.md) — the 755–763 upheaval that overtook Li Bai's final years and drew him into the ruinous cause of Prince Yong, for which he was banished.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

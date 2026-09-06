@@ -97,6 +97,7 @@ To know Chinese poetry is to know Du Fu. Every major poet of subsequent dynastie
 - [Taoism](../culture-society/taoism.md) — The aesthetic complement to Confucianism in Tang poetic culture, embodied by Li Bai and influencing Du Fu's nature poetry
 - [Calligraphy](../culture-society/calligraphy.md) — The companion art form through which Tang literati, including Du Fu, expressed their literary cultivation
 - [Printing and Woodblock Printing](../culture-society/printing-and-woodblock.md) — The transmission of Du Fu's works to later generations through printing and manuscript copying
+- [The An Lushan Rebellion](../history/the-an-lushan-rebellion.md) — The 755–763 upheaval whose human cost Du Fu witnessed and immortalized in *Chunwang*, the "Three Officials," and the "Three Separations"
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

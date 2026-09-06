@@ -114,6 +114,7 @@ The dynasty's fall reinforced a pattern in Chinese historical consciousness: for
 - [The Qing Dynasty](the-qing-dynasty.md)
 - [The Silk Road](../geography/the-silk-road.md)
 - [The Warring States Period](warring-states-period.md)
+- [Beijing](../geography/beijing.md)
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

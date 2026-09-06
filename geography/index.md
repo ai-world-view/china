@@ -17,6 +17,7 @@ Topics in this knowledge base concerning the land, regions, and physical feature
 | [The Yellow River](the-yellow-river.md) | China's second-longest river, cradle of its civilization and known as "China's Sorrow" for the catastrophic floods that shaped dynasties, statecraft, and philosophy; still central to the nation's water, sediment, and ecological policy. |
 | [The Yangtze River](the-yangtze-river.md) | Asia's longest river (about 6,300 km), flowing from the Tibetan Plateau to the East China Sea; the economic artery of southern China, spanned by the world's largest hydroelectric project at the Three Gorges Dam and home to over 40 percent of the nation's population along its basin. |
 | [The Grand Canal](the-grand-canal.md) | The world's longest artificial waterway (~1,776 km), built in stages from the Sui through the Ming to carry tribute grain from the Yangtze delta to the northern capital; a UNESCO World Heritage Site and the commercial and strategic spine of imperial China for over a millennium. |
+| [Beijing](beijing.md) | China's capital for most of the past eight centuries and continuously since 1949; a strategic node on the North China Plain that grew from the Jin Zhongdu and Yuan Dadu into the Ming-Qing imperial city and today a megacity of over 21 million, holding the Forbidden City, Tiananmen Square, and the seat of the Communist Party and central government. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

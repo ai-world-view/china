@@ -94,4 +94,5 @@ The question of whether the Xia was "real" in the modern historical sense is thu
 - [Taoism](../culture-society/taoism.md) — philosophical resonance with Yu's water-channeling approach to governance
 - [Porcelain and Ceramics](../culture-society/porcelain-and-ceramics.md) — Longshan black ware tradition preceded and informed early Xia material culture
 - [Pan Geng](pan-geng.md) — the Shang king whose move to Yin produced the oracle-bone and Anyang record against which the Xia's still-unconfirmed historicity is measured
+- [The Mandate of Heaven](../government-politics/the-mandate-of-heaven.md) — the legitimacy doctrine whose forfeiture the tyrant Jie's fall came to exemplify in the classic dynastic-cycle narrative
 <!-- END GENERATED: crossrefs -->

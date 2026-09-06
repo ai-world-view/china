@@ -99,6 +99,7 @@ For the Communist Party itself, the incident prompted a strategic shift: Deng Xi
 - [Jiang Zemin and the post-1989 transition](../people/jiang-zemin.md)
 - [The Communist Party of China](communist-party-china.md)
 - [Cultural Revolution repression precedent](../history/cultural-revolution.md)
+- [Beijing](../geography/beijing.md)
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

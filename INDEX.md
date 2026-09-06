@@ -19,6 +19,7 @@ Category index: [geography/](geography/index.md)
 - [The Yellow River](geography/the-yellow-river.md)
 - [The Yangtze River](geography/the-yangtze-river.md)
 - [The Grand Canal](geography/the-grand-canal.md)
+- [Beijing](geography/beijing.md)
 
 ## History
 
@@ -33,6 +34,7 @@ Category index: [history/](history/index.md)
 - [The Han Dynasty](history/the-han-dynasty.md)
 - [The Sui Dynasty](history/the-sui-dynasty.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
+- [The An Lushan Rebellion](history/the-an-lushan-rebellion.md)
 - [The Song Dynasty](history/the-song-dynasty.md)
 - [The Yuan Dynasty](history/the-yuan-dynasty.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
@@ -47,6 +49,7 @@ Category index: [history/](history/index.md)
 
 Category index: [government-politics/](government-politics/index.md)
 
+- [The Mandate of Heaven](government-politics/the-mandate-of-heaven.md)
 - [The Tributary System](government-politics/tributary-system.md)
 - [The Imperial Examination System](government-politics/imperial-examination-system.md)
 - [The Communist Party of China](government-politics/communist-party-china.md)
