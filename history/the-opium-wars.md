@@ -126,6 +126,7 @@ The precedent established by the Opium Wars—that military force could compel C
 - [The Chinese Civil War](../government-politics/chinese-civil-war.md) — The 20th-century conflict whose origins lay partly in anti-imperialist nationalism sparked by the humiliations of the 19th century.
 - [Deng Xiaoping](../people/deng-xiaoping.md) — The reform leader who invoked the Opium Wars era as motivation for China's need to modernize and reassert itself.
 - [The Tributary System](../government-politics/tributary-system.md) — The Sinocentric world order the Opium Wars shattered, replacing tributary suzerainty with European treaty-port sovereignty.
+- [Shanghai](../geography/shanghai.md) — The treaty port opened by the 1842 Treaty of Nanking that grew into modern China's foremost commercial and financial center.
 <!-- END GENERATED: crossrefs -->
 
 ---

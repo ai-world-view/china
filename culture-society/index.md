@@ -22,6 +22,7 @@ Topics in this knowledge base concerning the philosophy, traditions, and social 
 | [Legalism](legalism.md) | An ancient philosophical school emphasizing codified law, meritocratic administration, and centralized state control over moral virtue; forged in the Warring States and made state doctrine by the Qin, its statecraft outlasted its name to shape two millennia of imperial governance. |
 | [Mohism](mohism.md) | The Warring States school founded by Mozi (c. 470–391 BCE) and Confucianism's chief early rival, teaching *jian'ai* (impartial care), opposition to aggressive war, and meritocracy; its later Canons pioneered logic, optics, and mechanics before the school was eclipsed by the Han's Confucian turn. |
 | [Calligraphy](calligraphy.md) | The art of Chinese brushwork (*shufa*), practiced for over three millennia from oracle-bone and seal scripts to the regular, running, and cursive hands; central to the literati ideal and self-cultivation, it produced canonical masters from Wang Xizhi and the Tang giants to the Song and later dynasties. |
+| [Oracle Bones and Divination](oracle-bones-divination.md) | The Shang Dynasty practice of heating ox scapulae and turtle plastrons and reading the resulting cracks to divine the will of ancestors and spirits; its inscriptions (*jiaguwen*) are the earliest known Chinese writing and the first direct textual record of ancient China, recovered in their tens of thousands from Yinxu near Anyang. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

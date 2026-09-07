@@ -20,6 +20,7 @@ Category index: [geography/](geography/index.md)
 - [The Yangtze River](geography/the-yangtze-river.md)
 - [The Grand Canal](geography/the-grand-canal.md)
 - [Beijing](geography/beijing.md)
+- [Shanghai](geography/shanghai.md)
 
 ## History
 
@@ -35,6 +36,7 @@ Category index: [history/](history/index.md)
 - [The Sui Dynasty](history/the-sui-dynasty.md)
 - [The Tang Dynasty](history/the-tang-dynasty.md)
 - [The An Lushan Rebellion](history/the-an-lushan-rebellion.md)
+- [The Five Dynasties and Ten Kingdoms](history/five-dynasties-ten-kingdoms.md)
 - [The Song Dynasty](history/the-song-dynasty.md)
 - [The Yuan Dynasty](history/the-yuan-dynasty.md)
 - [The Ming Dynasty](history/the-ming-dynasty.md)
@@ -86,6 +88,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Legalism](culture-society/legalism.md)
 - [Mohism](culture-society/mohism.md)
 - [Calligraphy](culture-society/calligraphy.md)
+- [Oracle Bones and Divination](culture-society/oracle-bones-divination.md)
 
 ## People
 

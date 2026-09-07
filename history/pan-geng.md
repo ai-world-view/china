@@ -59,6 +59,7 @@ Pan Geng's place in cultural memory also extends into Confucian tradition. The t
 - [The Yellow River](../geography/the-yellow-river.md) — the floodplain whose fertile land and trade access made the new capital at Yin viable
 - [The Zhou Dynasty](the-zhou-dynasty.md) — the dynasty that overthrew the Shang at Muye (c. 1046 BCE) and developed the Mandate of Heaven to explain its fall, inheriting many Shang administrative innovations
 - [Confucianism](../culture-society/confucianism.md) — the tradition that canonized the three *Pan Geng* speeches of the *Shangshu* as models of royal rhetoric and proper governance
+- [Oracle Bones and Divination](../culture-society/oracle-bones-divination.md) — the divination records unearthed at Yin, the capital Pan Geng founded, which confirmed the Shang royal genealogy
 <!-- END GENERATED: crossrefs -->
 
 ---

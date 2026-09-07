@@ -137,6 +137,7 @@ The study of Shang civilization transformed modern understanding of early Chines
 - [The Zhou Dynasty](the-zhou-dynasty.md) — The dynasty that overthrew the Shang at Muye and inherited its writing, bronze ritual, and ancestor cult
 - [The Xia Dynasty](the-xia-dynasty.md) — The legendary dynasty the Shang overthrew at Mingtiao; the Shang oracle-bone record and Erlitou archaeology frame the debate over its historicity
 - [Pan Geng](pan-geng.md) — The Shang king who moved the capital to Yin (near Anyang), the site whose oracle bones and royal tombs confirmed the dynasty archaeologically
+- [Oracle Bones and Divination](../culture-society/oracle-bones-divination.md) — The Shang pyromantic divination practice that produced the earliest Chinese writing and the direct textual record of the dynasty
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

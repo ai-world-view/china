@@ -100,9 +100,12 @@ Reworked and extended as new content is added.
 | 793 CE | The Tang court imposes a permanent tax on tea (*chashui*), marking tea as a major state revenue source | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 845 CE | The Huichang Persecution under Emperor Wuzong devastates Chinese Buddhist institutions | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
 | 868 CE | A woodblock-printed Diamond Sutra is produced at Dunhuang, the world's oldest dated printed book | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
-| 907 CE | Fall of the Tang Dynasty; the Five Dynasties period begins | History | [The Tang Dynasty](history/the-tang-dynasty.md) |
+| 907 CE | Zhu Wen deposes the last Tang emperor and founds the Later Liang at Kaifeng, opening the Five Dynasties and Ten Kingdoms period | History | [The Five Dynasties and Ten Kingdoms](history/five-dynasties-ten-kingdoms.md) |
+| 938 CE | The Later Jin founder Shi Jingtang cedes the Sixteen Prefectures (including the future Beijing) to the Khitan Liao in return for military support | History | [The Five Dynasties and Ten Kingdoms](history/five-dynasties-ten-kingdoms.md) |
+| 953 CE | Feng Dao's government-sponsored woodblock printing of the Nine Confucian Classics, begun in 932, is completed—the first large-scale secular printing project in Chinese history | History | [The Five Dynasties and Ten Kingdoms](history/five-dynasties-ten-kingdoms.md) |
 | 960 CE | Zhao Kuangyin seizes power and founds the Song Dynasty, establishing his capital at Kaifeng | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 973 CE | Emperor Taizu of Song institutes the palace examination (*dianshi*), personally ranking graduates and making the examinations the primary path to office | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
+| 975 CE | Song forces take the Southern Tang capital at Jinling (Nanjing); the poet-ruler Li Yu surrenders and is carried captive to Kaifeng | History | [The Five Dynasties and Ten Kingdoms](history/five-dynasties-ten-kingdoms.md) |
 | 979 CE | Emperor Taizong completes the reunification of China proper, ending the Five Dynasties and Ten Kingdoms era | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1027 CE | Wang Weiyi casts bronze acupuncture mannequins to standardize the teaching of acupoints | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | c. 1040 CE | Bi Sheng devises the first known movable type, using baked-clay characters, an innovation later recorded in Shen Kuo's *Dream Pool Essays* | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
@@ -122,6 +125,7 @@ Reworked and extended as new content is added.
 | 1279 CE | The Song fleet is annihilated at the Battle of Yamen, ending the dynasty and bringing all China under Mongol rule | History | [The Song Dynasty](history/the-song-dynasty.md) |
 | 1281 CE | A second, larger Mongol invasion of Japan is again destroyed by typhoon | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1293 CE | Guo Shoujing completes the Tonghui Canal, extending the Grand Canal north to the Yuan capital at Dadu (Beijing) | Geography | [The Grand Canal](geography/the-grand-canal.md) |
+| 1291 CE | Shanghai is formally established as a county (*xian*) under the Yuan Dynasty, its first administrative recognition | Geography | [Shanghai](geography/shanghai.md) |
 | 1294 CE | Death of Kublai Khan opens a period of rapid succession and dynastic instability | History | [The Yuan Dynasty](history/the-yuan-dynasty.md) |
 | 1298 CE | Wang Zhen prints his *Nong Shu* using wooden movable type and a revolving typecase of his own design | Culture & Society | [Printing and Woodblock Printing](culture-society/printing-and-woodblock.md) |
 | 1315 CE | The Yuan Dynasty restores the imperial examinations under Emperor Renzong, with separate quotas favoring Mongols and Central Asians | Government & Politics | [The Imperial Examination System](government-politics/imperial-examination-system.md) |
@@ -166,6 +170,7 @@ Reworked and extended as new content is added.
 | 1793 CE | The Macartney Mission is rebuffed after Lord Macartney refuses the full kowtow, exposing the clash between European sovereign equality and the Chinese tributary order | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Opium Wars](history/the-opium-wars.md) |
+| 1843 | Shanghai opens as a treaty port and the British Settlement is established on the Bund, beginning the city's rise as China's foremost commercial center | Geography | [Shanghai](geography/shanghai.md) |
 | 1848 | Robert Fortune begins smuggling tea plants, seeds, and expertise out of China for the East India Company, seeding the Indian tea industry | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1850 | The Taiping Rebellion erupts, beginning one of the deadliest civil wars in history | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1855 | The Yellow River bursts its banks at Tongwaxiang and shifts to a new northern course into the Bohai Sea, disrupting the Grand Canal amid the Taiping Rebellion | Geography | [The Yellow River](geography/the-yellow-river.md) |
@@ -182,7 +187,8 @@ Reworked and extended as new content is added.
 | 1894 | Sun Yirang publishes his *Mozi Xiangu*, the definitive classical edition of the *Mozi* that revives serious study of the long-neglected school | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1898 | Birth of Zhou Enlai in Huai'an, Jiangsu province | People | [Zhou Enlai](people/zhou-enlai.md) |
-| 1899 | The scholar Wang Yirong recognizes inscribed "dragon bones" sold as medicine as ancient Shang oracle bones, opening the study of the earliest Chinese writing | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| 1899 | The scholar Wang Yirong recognizes inscribed "dragon bones" sold as medicine as ancient Shang oracle bones, opening the study of the earliest Chinese writing | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
+| 1903 | Liu E publishes *Tieyun Cang Gui*, the first printed collection of oracle-bone inscriptions, reproducing 1,058 rubbings | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
 | 1899 | The Boxer movement ("Righteous and Harmonious Fists") spreads through Shandong amid drought and foreign encroachment | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
 | 1900 | The Dunhuang manuscript cache is discovered in the Mogao Caves | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 1900 | The Eight-Nation Alliance lifts the 55-day siege of Beijing's Legation Quarter and occupies the capital | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
@@ -199,6 +205,7 @@ Reworked and extended as new content is added.
 | 1923 | Richard Wilhelm publishes his German translation of the I Ching, *I Ging: Das Buch der Wandlungen* | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1925 | Death of Sun Yat-sen in Beijing; his body later interred at the Nanjing mausoleum | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1925 | The Palace Museum is established in the former Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
+| 1925 | British-officered police fire on protesters at Shanghai's International Settlement, sparking the May Thirtieth Movement and a nationwide anti-imperialist strike wave | Geography | [Shanghai](geography/shanghai.md) |
 | 1926 | Birth of Jiang Zemin in Yangzhou, Jiangsu province | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1927 | The Shanghai Massacre shatters the KMT–CPC alliance, opening the Chinese Civil War | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1927 | The August 1 Nanchang Uprising, a failed Communist revolt against the Nationalists, is later commemorated as the founding of the People's Liberation Army | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
@@ -207,6 +214,8 @@ Reworked and extended as new content is added.
 | 1934 | The Long March begins as some 86,000 Communist troops break out of the encircled Jiangxi Soviet | History | [The Long March](history/the-long-march.md) |
 | 1935 | At the Zunyi Conference, Mao Zedong rises to pre-eminence in the party's military leadership | History | [The Long March](history/the-long-march.md) |
 | 1935 | The First Front Army reaches northern Shaanxi, ending the Long March after roughly 9,000 km | History | [The Long March](history/the-long-march.md) |
+| 1936 | Excavation of Pit H127 at Yinxu yields 17,096 oracle-bone pieces in a single cache, the largest archive of Shang divination records ever found | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
+| 1937 | The three-month Battle of Shanghai (August–November) becomes one of the largest and bloodiest engagements of the Second Sino-Japanese War before the city falls to Japan | Geography | [Shanghai](geography/shanghai.md) |
 | 1937 | The Second United Front suspends the civil war to resist the Japanese invasion | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1938 | Nationalist forces deliberately breach the Yellow River dikes at Huayuankou to slow the Japanese advance, killing an estimated 400,000 to 900,000 civilians | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1942 | Birth of Hu Jintao in Jiangsu province | People | [Hu Jintao](people/hu-jintao.md) |
@@ -256,6 +265,7 @@ Reworked and extended as new content is added.
 | 1989 | The People's Liberation Army suppresses the Tiananmen Square pro-democracy movement by force on June 3–4 | Government & Politics | [The 1989 Tiananmen Square Pro-Democracy Movement](government-politics/tiananmen-square-1989.md) |
 | 1989 | Jiang Zemin becomes General Secretary of the Communist Party after the Tiananmen crisis | People | [Jiang Zemin](people/jiang-zemin.md) |
 | 1990 | The Pudong New Area is launched, extending SEZ-style policy to Shanghai | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
+| 1990 | The Shanghai Stock Exchange reopens on December 19 after a four-decade closure, restoring a public equity market to mainland China | Geography | [Shanghai](geography/shanghai.md) |
 | 1992 | Deng's Southern Tour revives and accelerates market reform | People | [Deng Xiaoping](people/deng-xiaoping.md) |
 | 1993 | The Company Law converts state-owned enterprises from administrative units into corporate legal entities | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 1994 | Construction of the Three Gorges Dam, the world's largest hydroelectric project, begins at Sandouping on the Yangtze | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
@@ -270,6 +280,7 @@ Reworked and extended as new content is added.
 | 2006 | Yinxu, the ruins of the last Shang capital at Anyang, is inscribed as a UNESCO World Heritage Site | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
 | 2007 | The baiji (Yangtze river dolphin) is declared functionally extinct after a survey finds none, the first large vertebrate lost to human activity in over fifty years | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2008 | Hu Jintao's China hosts the Beijing Summer Olympics and responds to the Sichuan earthquake | People | [Hu Jintao](people/hu-jintao.md) |
+| 2010 | Shanghai hosts the World Expo (May–October) under the theme "Better City, Better Life," drawing a record 73 million visitors | Geography | [Shanghai](geography/shanghai.md) |
 | 2012 | The Three Gorges Dam is declared fully operational as its final turbines are commissioned, reaching 22,500 MW of installed capacity | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2012 | Xi Jinping becomes General Secretary of the Communist Party of China | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 2012 | The 18th Party Congress reduces the Politburo Standing Committee from nine members to seven, consolidating authority under Xi Jinping | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
@@ -282,10 +293,12 @@ Reworked and extended as new content is added.
 | 2014 | The State Council issues national guidelines on hukou reform, the most comprehensive since 1958, pledging urban registration to 100 million migrants | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 2015 | Xi Jinping launches sweeping military reforms, replacing the seven military regions with five joint Theater Commands and tightening Party control | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 2015 | The Guidelines on Deepening SOE Reform distinguish "commercial" from "public-interest" enterprises and promote "mixed ownership" | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
+| 2015 | The 632-metre Shanghai Tower is completed in Pudong's Lujiazui district, becoming China's tallest and the world's second-tallest building | Geography | [Shanghai](geography/shanghai.md) |
 | 2015 | Tu Youyou receives the Nobel Prize in Physiology or Medicine for artemisinin, a first for mainland Chinese science | Culture & Society | [Chinese Medicine](culture-society/chinese-medicine.md) |
 | 2016 | The Asian Infrastructure Investment Bank begins operations with 57 founding members | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2017 | Sri Lanka grants China a 99-year lease on Hambantota Port after a debt default | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2017 | A Northern Song Ru-ware brush washer sells for HK$294.3 million at Sotheby's Hong Kong, a world auction record for Chinese ceramics | Culture & Society | [Porcelain and Ceramics](culture-society/porcelain-and-ceramics.md) |
+| 2017 | The Shang oracle-bone inscriptions are added to the UNESCO Memory of the World Register as foundational documentary heritage | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
 | 2019 | Xi Jinping launches the Yellow River Ecological Protection and High-Quality Development strategy at a symposium in Zhengzhou | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 2020 | The NPC adopts China's first comprehensive Civil Code, and its Standing Committee enacts the Hong Kong National Security Law | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |

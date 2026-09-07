@@ -75,6 +75,7 @@ Culturally, the An Lushan Rebellion marked a watershed. The cosmopolitan, hedoni
 - [The Silk Road](../geography/the-silk-road.md)
 - [The Mandate of Heaven](../government-politics/the-mandate-of-heaven.md)
 - [Beijing](../geography/beijing.md)
+- [The Five Dynasties and Ten Kingdoms](./five-dynasties-ten-kingdoms.md)
 
 <!-- END GENERATED: crossrefs -->
 

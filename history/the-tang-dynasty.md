@@ -114,6 +114,7 @@ The phrase "Golden Age" (*Kaiyuan-Tianbao era*, after Xuanzong's most prosperous
 - [Du Fu](../people/du-fu.md) — the "Sage of Poetry," whose verse bore witness to the An Lushan Rebellion that shattered the high Tang.
 - [Calligraphy](../culture-society/calligraphy.md) — the art whose greatest monumental masters, from Ouyang Xun and Yan Zhenqing to the wild-cursive Zhang Xu and Huaisu, defined its canonical standards under the Tang.
 - [The An Lushan Rebellion](the-an-lushan-rebellion.md) — the 755–763 uprising that shattered the high Tang, halved its registered population, and began the dynasty's long decline into regional fragmentation.
+- [The Five Dynasties and Ten Kingdoms](five-dynasties-ten-kingdoms.md) — the fragmented 907–979 interregnum that followed the Tang's fall, before the Song reunified China.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

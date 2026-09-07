@@ -121,6 +121,7 @@ The twentieth and twenty-first centuries brought unprecedented demands on the Ya
 - [The Opium Wars](../history/the-opium-wars.md) — Conflict that opened Yangtze treaty ports to foreign trade
 - [The Shang Dynasty](../history/the-shang-dynasty.md) — Early dynasty centered on the Yellow River plain, northern counterpart to Yangtze civilizations
 - [The Grand Canal](the-grand-canal.md) — The imperial waterway that linked the Yangtze delta's grain surplus to the northern capital
+- [Shanghai](shanghai.md) — The metropolis at the Yangtze's mouth, whose treaty-port rise made it the river basin's gateway to global commerce
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
