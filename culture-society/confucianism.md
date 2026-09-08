@@ -106,6 +106,7 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [Legalism](legalism.md) — the rival Warring States school that rejected moral cultivation for codified law and state power, and against which Confucianism defined itself before the two fused in imperial governance.
 - [Mohism](mohism.md) — the Warring States school of Mozi and Confucianism's chief early rival, whose doctrine of impartial care Mencius attacked as denying the graded obligations owed first to one's own parents.
 - [The Mandate of Heaven](../government-politics/the-mandate-of-heaven.md) — the doctrine of virtue-based legitimacy that Confucian thinkers, above all Mencius, tied to the ruler's benevolence and the people's welfare.
+- [Lu Xun](../people/lu-xun.md) — the writer whose vernacular stories indicted the Confucian tradition as a hierarchy that "eats people."
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -106,4 +106,5 @@ Simultaneously, the Hukou system has created a measurably two-tier social order 
 - [Mao Zedong](../people/mao-zedong.md) — formalized the Hukou system as a pillar of collectivization
 - [Cultural Revolution](../history/cultural-revolution.md) — sent-down youth program operated within Hukou framework
 - [Regional Autonomy](regional-autonomy.md) — a parallel framework of state classification and control, dividing the population by *minzu* as the hukou divides it by urban and rural registration.
+- [Agriculture and Land Reform](../economy/agriculture-and-land-reform.md) — the rural land tenure and collective landholding to which the hukou bound the peasantry
 <!-- END GENERATED: crossrefs -->

@@ -73,6 +73,7 @@ More broadly, the SEZ model demonstrated how state control and market mechanisms
 - [The Qing Dynasty](../history/the-qing-dynasty.md) — earlier Canton System prefigured SEZs as trade enclaves
 - [The Silk Road](../geography/the-silk-road.md) — historical precedent for trade-based economic integration
 - [State-Owned Enterprises](state-owned-enterprises.md) — the state sector that stayed dominant in strategic industries even as the zones opened space for private and foreign firms
+- [Hong Kong](../geography/hong-kong.md) — the capitalist entrepôt across the border from Shenzhen whose capital, factory managers, and expertise built the first SEZ
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

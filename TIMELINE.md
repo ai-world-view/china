@@ -170,6 +170,7 @@ Reworked and extended as new content is added.
 | 1793 CE | The Macartney Mission is rebuffed after Lord Macartney refuses the full kowtow, exposing the clash between European sovereign equality and the Chinese tributary order | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
 | 1839 | Commissioner Lin Zexu destroys British opium at Humen, triggering the First Opium War | History | [The Opium Wars](history/the-opium-wars.md) |
 | 1842 | The Treaty of Nanking cedes Hong Kong Island and opens five treaty ports | History | [The Opium Wars](history/the-opium-wars.md) |
+| 1842 | The Treaty of Nanking cedes Hong Kong Island to Britain in perpetuity, founding the colony as a free port | Geography | [Hong Kong](geography/hong-kong.md) |
 | 1843 | Shanghai opens as a treaty port and the British Settlement is established on the Bund, beginning the city's rise as China's foremost commercial center | Geography | [Shanghai](geography/shanghai.md) |
 | 1848 | Robert Fortune begins smuggling tea plants, seeds, and expertise out of China for the East India Company, seeding the Indian tea industry | Economy | [The Tea Trade](economy/the-tea-trade.md) |
 | 1850 | The Taiping Rebellion erupts, beginning one of the deadliest civil wars in history | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
@@ -181,12 +182,14 @@ Reworked and extended as new content is added.
 | 1866 | Birth of Sun Yat-sen in Cuiheng village, Guangdong province | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1877 | Ferdinand von Richthofen coins the term "Silk Road" (*Seidenstraße*) | Geography | [The Silk Road](geography/the-silk-road.md) |
 | 1879 | Japan annexes the Ryukyu Kingdom, severing one of China's oldest tributary relationships | Government & Politics | [The Tributary System](government-politics/tributary-system.md) |
+| 1881 | Birth of Lu Xun (Zhou Shuren) in Shaoxing, Zhejiang province | People | [Lu Xun](people/lu-xun.md) |
 | 1887 | The Yellow River bursts at Huayuankou, flooding Henan and Shandong and killing an estimated 900,000 to two million | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 1893 | Birth of Mao Zedong in Shaoshan, Hunan province | People | [Mao Zedong](people/mao-zedong.md) |
 | 1894 | Sun Yat-sen founds the Revive China Society in Honolulu, his first revolutionary organization | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1894 | Sun Yirang publishes his *Mozi Xiangu*, the definitive classical edition of the *Mozi* that revives serious study of the long-neglected school | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 1895 | The Treaty of Shimonoseki ends the First Sino-Japanese War; Taiwan is ceded to Japan | History | [The Qing Dynasty](history/the-qing-dynasty.md) |
 | 1898 | Birth of Zhou Enlai in Huai'an, Jiangsu province | People | [Zhou Enlai](people/zhou-enlai.md) |
+| 1898 | The Second Convention of Peking leases the New Territories to Britain for 99 years, expiring 30 June 1997 | Geography | [Hong Kong](geography/hong-kong.md) |
 | 1899 | The scholar Wang Yirong recognizes inscribed "dragon bones" sold as medicine as ancient Shang oracle bones, opening the study of the earliest Chinese writing | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
 | 1903 | Liu E publishes *Tieyun Cang Gui*, the first printed collection of oracle-bone inscriptions, reproducing 1,058 rubbings | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
 | 1899 | The Boxer movement ("Righteous and Harmonious Fists") spreads through Shandong amid drought and foreign encroachment | History | [The Boxer Rebellion](history/the-boxer-rebellion.md) |
@@ -201,6 +204,7 @@ Reworked and extended as new content is added.
 | 1912 | The Republic of China is founded with Sun Yat-sen as provisional president | People | [Sun Yat-sen](people/sun-yat-sen.md) |
 | 1912 | Abdication of the last emperor, Puyi, ends dynastic rule in the Forbidden City | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1912 | The Xinhai Revolution ends the imperial order and the Mandate of Heaven as the basis of political legitimacy, replaced by the republican language of popular sovereignty | Government & Politics | [The Mandate of Heaven](government-politics/the-mandate-of-heaven.md) |
+| 1918 | Lu Xun publishes "A Madman's Diary" in *New Youth*, the first major work of modern vernacular Chinese fiction | People | [Lu Xun](people/lu-xun.md) |
 | 1921 | Founding of the Communist Party of China in Shanghai | Government & Politics | [The Communist Party of China](government-politics/communist-party-china.md) |
 | 1923 | Richard Wilhelm publishes his German translation of the I Ching, *I Ging: Das Buch der Wandlungen* | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 1925 | Death of Sun Yat-sen in Beijing; his body later interred at the Nanjing mausoleum | People | [Sun Yat-sen](people/sun-yat-sen.md) |
@@ -215,6 +219,7 @@ Reworked and extended as new content is added.
 | 1935 | At the Zunyi Conference, Mao Zedong rises to pre-eminence in the party's military leadership | History | [The Long March](history/the-long-march.md) |
 | 1935 | The First Front Army reaches northern Shaanxi, ending the Long March after roughly 9,000 km | History | [The Long March](history/the-long-march.md) |
 | 1936 | Excavation of Pit H127 at Yinxu yields 17,096 oracle-bone pieces in a single cache, the largest archive of Shang divination records ever found | Culture & Society | [Oracle Bones and Divination](culture-society/oracle-bones-divination.md) |
+| 1936 | Death of Lu Xun in Shanghai; mourners drape his coffin with a banner reading "Soul of the Nation" | People | [Lu Xun](people/lu-xun.md) |
 | 1937 | The three-month Battle of Shanghai (August–November) becomes one of the largest and bloodiest engagements of the Second Sino-Japanese War before the city falls to Japan | Geography | [Shanghai](geography/shanghai.md) |
 | 1937 | The Second United Front suspends the civil war to resist the Japanese invasion | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1938 | Nationalist forces deliberately breach the Yellow River dikes at Huayuankou to slow the Japanese advance, killing an estimated 400,000 to 900,000 civilians | Geography | [The Yellow River](geography/the-yellow-river.md) |
@@ -228,6 +233,7 @@ Reworked and extended as new content is added.
 | 1950 | The PLA enters the Korean War as the Chinese People's Volunteer Army, suffering heavy casualties against the UN-led coalition | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 1950 | Chiang Kai-shek resumes the Republic of China presidency on Taiwan | Government & Politics | [Chinese Civil War](government-politics/chinese-civil-war.md) |
 | 1950 | The Wilhelm–Baynes English translation of the I Ching appears with C.G. Jung's foreword on synchronicity | Culture & Society | [The I Ching](culture-society/i-ching.md) |
+| 1950 | The Land Reform Law launches the nationwide redistribution of landlord holdings, giving land to some 300 million peasants by 1952 | Economy | [Agriculture and Land Reform](economy/agriculture-and-land-reform.md) |
 | 1951 | The first PRC household-registration regulations are introduced, drawing on the Qing *baojia* tradition and Soviet *propiska* | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 1953 | Birth of Xi Jinping in Beijing | People | [Xi Jinping](people/xi-jinping.md) |
 | 1954 | The First National People's Congress convenes in Beijing and adopts the PRC's first constitution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
@@ -252,12 +258,14 @@ Reworked and extended as new content is added.
 | 1976 | Arrest of the Gang of Four ends the Cultural Revolution | History | [Cultural Revolution](history/cultural-revolution.md) |
 | 1978 | A.C. Graham's *Later Mohist Logic, Ethics and Science* reconstructs the *Mohist Canons*, establishing the school's proto-scientific achievements for modern scholarship | Culture & Society | [Mohism](culture-society/mohism.md) |
 | 1978 | Third Plenum launches Reform and Opening-up under Deng Xiaoping | Economy | [Economic Reform & Opening-up](economy/economic-reform-opening-up.md) |
+| 1978 | Eighteen households in Xiaogang, Anhui, secretly divide commune land, seeding the household-responsibility system that decollectivized farming | Economy | [Agriculture and Land Reform](economy/agriculture-and-land-reform.md) |
 | 1979 | The brief Sino-Vietnamese War exposes the PLA's technological and tactical weaknesses, spurring Deng Xiaoping's military modernization | Government & Politics | [The People's Liberation Army](government-politics/peoples-liberation-army.md) |
 | 1979 | China authorizes its first Special Economic Zones in Guangdong and Fujian provinces | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1980 | The four original Special Economic Zones are formally established at Shenzhen, Zhuhai, Shantou, and Xiamen | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
 | 1982 | The National People's Congress adopts the current PRC Constitution, restoring formal constitutional governance after the Cultural Revolution | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
 | 1982 | The revised Party Constitution abolishes the Chairmanship and restores the General Secretary and Standing Committee system to institutionalize collective leadership | Government & Politics | [The Standing Committee of the Politburo](government-politics/standing-committee-politburo.md) |
 | 1984 | The National People's Congress passes the Law on Regional National Autonomy, the principal statute implementing the constitutional autonomy system | Government & Politics | [Regional Autonomy](government-politics/regional-autonomy.md) |
+| 1984 | Britain and China sign the Sino-British Joint Declaration, agreeing to return Hong Kong in 1997 under "one country, two systems" | Geography | [Hong Kong](geography/hong-kong.md) |
 | 1987 | The Great Wall designated a UNESCO World Heritage Site | Geography | [The Great Wall of China](geography/the-great-wall.md) |
 | 1987 | The Forbidden City designated a UNESCO World Heritage Site | Geography | [The Forbidden City](geography/the-forbidden-city.md) |
 | 1988 | Hainan becomes a province and is designated China's largest Special Economic Zone | Economy | [Special Economic Zones](economy/special-economic-zones.md) |
@@ -278,6 +286,7 @@ Reworked and extended as new content is added.
 | 2003 | The State-owned Assets Supervision and Administration Commission (SASAC) is established to oversee the central state-owned enterprises | Economy | [State-Owned Enterprises](economy/state-owned-enterprises.md) |
 | 2003 | The death in custody of migrant worker Sun Zhigang prompts abolition of the custody-and-repatriation system that had enforced hukou controls | Government & Politics | [The Hukou System](government-politics/hukou-system.md) |
 | 2006 | Yinxu, the ruins of the last Shang capital at Anyang, is inscribed as a UNESCO World Heritage Site | History | [The Shang Dynasty](history/the-shang-dynasty.md) |
+| 2006 | China abolishes the centuries-old agricultural tax, ending direct taxation of farmers | Economy | [Agriculture and Land Reform](economy/agriculture-and-land-reform.md) |
 | 2007 | The baiji (Yangtze river dolphin) is declared functionally extinct after a survey finds none, the first large vertebrate lost to human activity in over fifty years | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2008 | Hu Jintao's China hosts the Beijing Summer Olympics and responds to the Sichuan earthquake | People | [Hu Jintao](people/hu-jintao.md) |
 | 2010 | Shanghai hosts the World Expo (May–October) under the theme "Better City, Better Life," drawing a record 73 million visitors | Geography | [Shanghai](geography/shanghai.md) |
@@ -302,6 +311,7 @@ Reworked and extended as new content is added.
 | 2018 | China removes presidential term limits, enabling Xi Jinping's indefinite tenure | People | [Xi Jinping](people/xi-jinping.md) |
 | 2019 | Xi Jinping launches the Yellow River Ecological Protection and High-Quality Development strategy at a symposium in Zhengzhou | Geography | [The Yellow River](geography/the-yellow-river.md) |
 | 2020 | The NPC adopts China's first comprehensive Civil Code, and its Standing Committee enacts the Hong Kong National Security Law | Government & Politics | [The National People's Congress](government-politics/national-peoples-congress.md) |
+| 2020 | Beijing imposes the National Security Law directly on Hong Kong, sharply curtailing the territory's political autonomy | Geography | [Hong Kong](geography/hong-kong.md) |
 | 2021 | China begins a ten-year fishing moratorium on the Yangtze main stem and key tributaries, and enacts the Yangtze Protection Law | Geography | [The Yangtze River](geography/the-yangtze-river.md) |
 | 2021 | The China–Laos Railway opens, linking Kunming toward Vientiane | Economy | [Belt and Road Initiative](economy/belt-and-road-initiative.md) |
 | 2022 | Xi Jinping secures an unprecedented third term as General Secretary at the 20th Party Congress | People | [Xi Jinping](people/xi-jinping.md) |

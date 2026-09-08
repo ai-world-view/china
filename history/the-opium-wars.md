@@ -127,6 +127,7 @@ The precedent established by the Opium Wars—that military force could compel C
 - [Deng Xiaoping](../people/deng-xiaoping.md) — The reform leader who invoked the Opium Wars era as motivation for China's need to modernize and reassert itself.
 - [The Tributary System](../government-politics/tributary-system.md) — The Sinocentric world order the Opium Wars shattered, replacing tributary suzerainty with European treaty-port sovereignty.
 - [Shanghai](../geography/shanghai.md) — The treaty port opened by the 1842 Treaty of Nanking that grew into modern China's foremost commercial and financial center.
+- [Hong Kong](../geography/hong-kong.md) — The island ceded to Britain in perpetuity by the 1842 Treaty of Nanking, held as a colony until the 1997 handover.
 <!-- END GENERATED: crossrefs -->
 
 ---

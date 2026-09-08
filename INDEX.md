@@ -21,6 +21,7 @@ Category index: [geography/](geography/index.md)
 - [The Grand Canal](geography/the-grand-canal.md)
 - [Beijing](geography/beijing.md)
 - [Shanghai](geography/shanghai.md)
+- [Hong Kong](geography/hong-kong.md)
 
 ## History
 
@@ -72,6 +73,7 @@ Category index: [economy/](economy/index.md)
 - [Special Economic Zones](economy/special-economic-zones.md)
 - [State-Owned Enterprises (SOEs)](economy/state-owned-enterprises.md)
 - [The Tea Trade](economy/the-tea-trade.md)
+- [Agriculture and Land Reform](economy/agriculture-and-land-reform.md)
 
 ## Culture & Society
 
@@ -107,4 +109,5 @@ Category index: [people/](people/index.md)
 - [Kangxi](people/kangxi.md)
 - [Li Bai](people/li-bai.md)
 - [Du Fu](people/du-fu.md)
+- [Lu Xun](people/lu-xun.md)
 <!-- END GENERATED: master-index -->

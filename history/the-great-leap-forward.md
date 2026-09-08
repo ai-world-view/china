@@ -99,6 +99,7 @@ In contemporary China, the Great Leap Forward remains among the most sensitive h
 - [The Communist Party of China](../government-politics/communist-party-china.md) — the political organization through which the Great Leap Forward's policies were implemented and later reassessed.
 - [Zheng He](../people/zheng-he.md) — an earlier episode where China possessed enormous capability and then chose to withdraw, offering a structural parallel to the Great Leap's inward turn.
 - [The Hukou System](../government-politics/hukou-system.md) — the household-registration controls that confined the rural population in place and helped make the famine's scale possible.
+- [Agriculture and Land Reform](../economy/agriculture-and-land-reform.md) — the collectivization drive whose people's communes the Great Leap radicalized, and the post-Mao decollectivization that reversed it.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

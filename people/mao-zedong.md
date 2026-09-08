@@ -140,6 +140,7 @@ Deng Xiaoping's reforms—the Economic Reform & Opening-up launched in 1978—we
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — Mao's 1958–1962 campaign to industrialize through mass mobilization, whose resulting famine discredited his economic leadership and isolated him within the party.
 - [The Long March](../history/the-long-march.md) — the 1934–1935 retreat during which Mao rose to pre-eminence at the Zunyi Conference, an ascendancy he held until his death.
 - [The People's Liberation Army](../government-politics/peoples-liberation-army.md) — the armed force Mao built from peasant guerrillas and made the instrument of the revolution, insisting that the party must always command the gun.
+- [Agriculture and Land Reform](../economy/agriculture-and-land-reform.md) — the land redistribution and collectivization at the center of Mao's rural revolution and its later reversal.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

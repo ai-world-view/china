@@ -24,6 +24,7 @@ Topics in this knowledge base concerning the notable people who shaped China.
 | [Kangxi](kangxi.md) | Fourth Qing emperor (r. 1661–1722) and arguably the dynasty's greatest ruler; his 61-year reign—the longest in Chinese history—crushed the Three Feudatories, annexed Taiwan, settled the Russian frontier at Nerchinsk, broke the Dzungars, and made the Qing a stable, learned empire at its zenith. |
 | [Li Bai](li-bai.md) | Tang Dynasty poet (701–762 CE), with Du Fu one of the two greatest in the Chinese canon; his spontaneous, imaginative, wine-and-moon verse embodied Daoist freedom and defined the romantic ideal of the poet-individual. |
 | [Du Fu](du-fu.md) | Tang Dynasty poet (712–770 CE), the "Sage of Poetry" and "Poet-Historian," whose Confucian moral seriousness and mastery of regulated verse made him, with Li Bai, one of the two summits of Chinese poetry; his witness to the An Lushan Rebellion set the standard for poetry as moral and historical record. |
+| [Lu Xun](lu-xun.md) | The foremost writer of modern China (1881–1936); trained as a physician in Japan before turning to literature, his vernacular stories ("A Madman's Diary," "The True Story of Ah Q") and biting essays diagnosed a "sick" national spirit and made him the conscience of the May Fourth generation and the Chinese left. |
 <!-- END GENERATED: category-index -->
 
 See also the [master index](../INDEX.md) and the [timeline](../TIMELINE.md).

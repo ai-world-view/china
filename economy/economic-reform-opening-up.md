@@ -121,6 +121,7 @@ The reforms also reshaped international relations. Rising Chinese exports and fo
 - [The Great Leap Forward](../history/the-great-leap-forward.md) — the utopian mobilization campaign whose famine and failure made the empirical case for the market-oriented reforms that followed.
 - [State-Owned Enterprises](state-owned-enterprises.md) — the state sector that persisted alongside the reforms and proved the hardest and slowest part of the economy to restructure.
 - [The Hukou System](../government-politics/hukou-system.md) — the household-registration barrier that the reform economy's demand for migrant labor first strained and gradually loosened.
+- [Agriculture and Land Reform](agriculture-and-land-reform.md) — the rural household-responsibility system that decollectivized farming and formed the reform program's first and most immediately successful component.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

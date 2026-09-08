@@ -119,6 +119,7 @@ Shanghai's identity as cosmopolitan, entrepreneurial, and globally oriented rema
 - [Sun Yat-sen](../people/sun-yat-sen.md)
 - [The Tea Trade](../economy/the-tea-trade.md)
 - [The Five Dynasties and Ten Kingdoms](../history/five-dynasties-ten-kingdoms.md)
+- [Hong Kong](./hong-kong.md)
 
 <!-- END GENERATED: crossrefs -->
 

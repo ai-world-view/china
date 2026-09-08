@@ -103,6 +103,7 @@ The cultural synthesis achieved by Ming and Qing printers—combining calligraph
 - [Confucianism](confucianism.md) — the canonical tradition whose texts printing standardized and disseminated, and whose values shaped the literati print aesthetic
 - [Chinese Medicine](chinese-medicine.md) — medical texts that benefited from print standardization; Song imperial medical compilations were a major early application
 - [Porcelain and Ceramics](porcelain-and-ceramics.md) — a parallel Ming craft achievement in which artisanal skill and aesthetic ambition converged; both sustained collector markets
+- [Lu Xun](../people/lu-xun.md) — the writer who led the 1930s New Woodblock Print Movement, reviving the woodblock medium for modern political art
 <!-- END GENERATED: crossrefs -->
 
 ---
