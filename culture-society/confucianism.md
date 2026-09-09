@@ -107,6 +107,7 @@ Confucianism's influence on East Asian societies is pervasive and ongoing. Empha
 - [Mohism](mohism.md) — the Warring States school of Mozi and Confucianism's chief early rival, whose doctrine of impartial care Mencius attacked as denying the graded obligations owed first to one's own parents.
 - [The Mandate of Heaven](../government-politics/the-mandate-of-heaven.md) — the doctrine of virtue-based legitimacy that Confucian thinkers, above all Mencius, tied to the ruler's benevolence and the people's welfare.
 - [Lu Xun](../people/lu-xun.md) — the writer whose vernacular stories indicted the Confucian tradition as a hierarchy that "eats people."
+- [Mencius](../people/mencius.md) — the "Second Sage" whose doctrines of innate human goodness and humane government became central to the Confucian tradition.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

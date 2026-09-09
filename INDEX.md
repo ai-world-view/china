@@ -110,4 +110,7 @@ Category index: [people/](people/index.md)
 - [Li Bai](people/li-bai.md)
 - [Du Fu](people/du-fu.md)
 - [Lu Xun](people/lu-xun.md)
+- [Mencius](people/mencius.md)
+- [Sima Qian](people/sima-qian.md)
+- [Zhuangzi](people/zhuangzi.md)
 <!-- END GENERATED: master-index -->

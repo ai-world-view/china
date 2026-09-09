@@ -142,6 +142,8 @@ The Warring States period is thus the crucible in which Chinese civilization for
 - [The Zhou Dynasty](the-zhou-dynasty.md)
 - [Legalism](../culture-society/legalism.md)
 - [Mohism](../culture-society/mohism.md)
+- [Mencius](../people/mencius.md)
+- [Zhuangzi](../people/zhuangzi.md)
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

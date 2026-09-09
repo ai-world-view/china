@@ -79,6 +79,7 @@ The Communist Party later mobilized a secularized version of mandate logic: Mao 
 - [The Boxer Rebellion](../history/the-boxer-rebellion.md)
 - [Beijing](../geography/beijing.md)
 - [The An Lushan Rebellion](../history/the-an-lushan-rebellion.md)
+- [Mencius](../people/mencius.md)
 
 <!-- END GENERATED: crossrefs -->
 

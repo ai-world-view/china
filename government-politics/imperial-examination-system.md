@@ -154,6 +154,8 @@ The formal abolition on September 2, 1905 marked a rupture in Chinese civilizati
 - [The Shang Dynasty](../history/the-shang-dynasty.md) — Dynasty that established the scribal and administrative culture the examination system later formalized
 - [Filial Piety (Xiao)](../culture-society/filial-piety.md) — The cardinal virtue codified in the *Classic of Filial Piety*, a core text of the Confucian curriculum the examinations tested
 - [Calligraphy](../culture-society/calligraphy.md) — The brush art whose quality examiners read as a mark of cultivation, making a regulated examination hand part of official advancement
+- [Mencius](../people/mencius.md) — The Confucian "Second Sage" whose *Mencius*, one of the Four Books, became core examination curriculum from the Ming Dynasty onward
+- [Sima Qian](../people/sima-qian.md) — The Grand Historian whose *Records of the Grand Historian* served as a model of prose and historical reasoning for examination candidates
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -137,6 +137,7 @@ The Qin's name, *Qin* (*秦*), passed through Sanskrit (*Cīna*) and Persian (*C
 - [The Shang Dynasty](the-shang-dynasty.md) — the Bronze Age dynasty whose literate, scribal statecraft the Qin's centralized bureaucracy ultimately extended.
 - [The Zhou Dynasty](the-zhou-dynasty.md) — the long dynasty whose late Warring States turmoil and Legalist reforms in Qin produced the unification the Qin Dynasty completed.
 - [Legalism](../culture-society/legalism.md) — the philosophy of codified law, meritocracy, and centralized control that the Qin adopted as state doctrine to build and govern its empire.
+- [Sima Qian](../people/sima-qian.md) — the Han historian whose *Records of the Grand Historian* is the fullest early account of the Qin unification and Qin Shi Huang's reign.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -103,6 +103,7 @@ The Mohist vision — a meritocratic society governed by the principle of mutual
 - [Qin Shi Huang](../people/qin-shi-huang.md) — The ruler whose 213 BCE book burning damaged the Mohist textual tradition irreparably
 - [The Imperial Examination System](../government-politics/imperial-examination-system.md) — The Han-established system that institutionalized Confucianism and excluded Mohist texts from the curriculum
 - [Confucius](../people/confucius.md) — Founder of the rival Confucian school; his follower Mencius mounted the most detailed ancient critique of Mohist *jian'ai*
+- [Mencius](../people/mencius.md) — The Confucian "Second Sage" whose sustained attack on Mohist impartial care became the template for later critiques of the school
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

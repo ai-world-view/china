@@ -95,6 +95,7 @@ His life and work represent the enduring tragedy of twentieth-century Chinese in
 - [The Communist Party of China](../government-politics/communist-party-china.md)
 - [The Chinese Civil War](../government-politics/chinese-civil-war.md)
 - [Mao Zedong](mao-zedong.md)
+- [Sima Qian](sima-qian.md)
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -154,6 +154,7 @@ In Chinese historical memory, the Song occupies a unique place as the dynasty of
 - [Printing and Woodblock Printing](../culture-society/printing-and-woodblock.md) — the technology whose commercial expansion, movable type, and canon standardization made the Song a golden age of the book.
 - [Calligraphy](../culture-society/calligraphy.md) — the art the Song turned decisively toward individual expression, its "Four Great Masters" — Su Shi, Huang Tingjian, Mi Fu, and Cai Xiang — reshaping its aesthetics.
 - [The Five Dynasties and Ten Kingdoms](five-dynasties-ten-kingdoms.md) — the fractured 907–979 interregnum from which Zhao Kuangyin's Song emerged, conquering the Ten Kingdoms to reunify China by 979.
+- [Mencius](../people/mencius.md) — the Confucian philosopher whose moral psychology Zhu Xi's Neo-Confucians made central, elevating the *Mencius* into the canonical Four Books.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

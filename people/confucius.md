@@ -102,6 +102,9 @@ In the contemporary world, Confucius remains the most revered figure in Chinese 
 - [The Zhou Dynasty](../history/the-zhou-dynasty.md) — the dynasty into whose late Spring and Autumn decline Confucius was born, and whose ritual order he sought to restore.
 - [Filial Piety (Xiao)](../culture-society/filial-piety.md) — the virtue Confucius called the root of moral excellence, later systematized in the *Classic of Filial Piety*.
 - [Mohism](../culture-society/mohism.md) — the rival Warring States school whose doctrine of impartial care provoked the most sustained Confucian counter-arguments, from Mencius and Xunzi.
+- [Mencius](mencius.md) — the "Second Sage" who extended Confucius's ethics into the doctrine of innate human goodness and conditional, benevolence-based rulership.
+- [Zhuangzi](zhuangzi.md) — the Daoist philosopher who implicitly critiqued Confucian ritual and moral striving as artificial impositions on human nature.
+- [Sima Qian](sima-qian.md) — the Han historian whose *Records of the Grand Historian* preserved the fullest early biography of Confucius.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

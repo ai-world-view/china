@@ -28,11 +28,15 @@ Reworked and extended as new content is added.
 | 453 BCE | The state of Jin is partitioned among the Han, Wei, and Zhao houses, forming three of the seven warring states | History | [The Warring States Period](history/warring-states-period.md) |
 | c. 440 BCE | Mozi dissuades Chu from attacking Song, countering the engineer Gongshu Pan's siege weapon in a famous mock-siege debate | Culture & Society | [Mohism](culture-society/mohism.md) |
 | c. 391 BCE | Death of Mozi; his followers carry on the Mohist school and later compile the *Mohist Canons* | Culture & Society | [Mohism](culture-society/mohism.md) |
+| c. 372 BCE | Birth of Mencius (Mengzi) in the state of Zou, the philosopher later honored as Confucianism's "Second Sage" | People | [Mencius](people/mencius.md) |
+| c. 369 BCE | Birth of Zhuangzi (Zhuang Zhou) in the town of Meng, the foremost Daoist philosopher after Laozi | People | [Zhuangzi](people/zhuangzi.md) |
 | 359 BCE | Shang Yang begins his Legalist reforms in Qin under Duke Xiao, forging the era's most powerful state | History | [The Warring States Period](history/warring-states-period.md) |
 | 341 BCE | The Battle of Maling ends Wei's military dominance among the warring states | History | [The Warring States Period](history/warring-states-period.md) |
 | c. 338 BCE | Shang Yang, architect of Qin's Legalist reforms, is executed after Duke Xiao's death, though the legal institutions he built endure | Culture & Society | [Legalism](culture-society/legalism.md) |
 | 307 BCE | King Wuling of Zhao adopts cavalry and nomadic dress, revolutionizing Chinese warfare | History | [The Warring States Period](history/warring-states-period.md) |
 | c. 300 BCE | Mencius sharpens the Mandate of Heaven, holding that a ruler who loses the people's hearts forfeits heaven's favor and may rightfully be overthrown | Government & Politics | [The Mandate of Heaven](government-politics/the-mandate-of-heaven.md) |
+| c. 289 BCE | Death of Mencius, whose collected teachings become one of the Confucian Four Books | People | [Mencius](people/mencius.md) |
+| c. 286 BCE | Death of Zhuangzi, whose *Zhuangzi* becomes a foundational text of Daoism and Chinese literature | People | [Zhuangzi](people/zhuangzi.md) |
 | 260 BCE | The Battle of Changping: the Qin general Bai Qi annihilates the Zhao army, crippling Qin's last major rival | History | [The Warring States Period](history/warring-states-period.md) |
 | 259 BCE | Birth of Ying Zheng, the future Qin Shi Huang, in Handan | People | [Qin Shi Huang](people/qin-shi-huang.md) |
 | 256 BCE | Qin extinguishes the Eastern Zhou royal house, ending the eight-century Zhou Dynasty | History | [The Zhou Dynasty](history/the-zhou-dynasty.md) |
@@ -48,10 +52,13 @@ Reworked and extended as new content is added.
 | 206 BCE | Collapse of the Qin Dynasty amid peasant rebellion and civil war | History | [The Qin Dynasty](history/the-qin-dynasty.md) |
 | 202 BCE | Liu Bang defeats Xiang Yu at Gaixia and founds the Han Dynasty as Emperor Gaozu | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 200 BCE | Defeated at Baideng, Emperor Gaozu adopts the *heqin* policy of appeasing the Xiongnu | History | [The Han Dynasty](history/the-han-dynasty.md) |
+| c. 145 BCE | Birth of Sima Qian, the future Grand Historian, into a family of Han court astronomer-historians | People | [Sima Qian](people/sima-qian.md) |
 | 141 BCE | Emperor Wu of Han accedes to the throne, opening an era of expansion | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 136 BCE | Emperor Wu of Han designates Confucianism the official state ideology | Culture & Society | [Confucianism](culture-society/confucianism.md) |
 | 136 BCE | The I Ching is canonized among the Five Classics under Emperor Wu of Han | Culture & Society | [The I Ching](culture-society/i-ching.md) |
 | 126 BCE | Zhang Qian returns from Central Asia, opening Han knowledge of the Western Regions and the Silk Road | Geography | [The Silk Road](geography/the-silk-road.md) |
+| c. 99 BCE | Sima Qian is condemned to castration for defending the defeated general Li Ling, and chooses to live to complete his history | People | [Sima Qian](people/sima-qian.md) |
+| c. 86 BCE | Death of Sima Qian, having completed the *Records of the Grand Historian* (*Shiji*), the model for two millennia of Chinese historiography | People | [Sima Qian](people/sima-qian.md) |
 | 9 CE | Wang Mang usurps the throne and founds the short-lived Xin Dynasty | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 25 CE | Liu Xiu restores the dynasty as the Eastern Han, with its capital at Luoyang | History | [The Han Dynasty](history/the-han-dynasty.md) |
 | 68 CE | The White Horse Temple is founded at Luoyang, traditionally China's first Buddhist monastery | Culture & Society | [Buddhism in China](culture-society/buddhism-in-china.md) |
