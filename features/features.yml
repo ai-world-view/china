@@ -19,7 +19,7 @@ repo: ai-world-view/china
 features:
   - id: AWV-CHINA-001
     title: "Static site: Jekyll with remote_theme:…"
-    description: "Static site: Jekyll with `remote_theme: bamr87/zer0-mistakes@v1.26.0`, `baseurl: /china`."
+    description: "Static site: Jekyll with `remote_theme: bamr87/zer0-mistakes`, `baseurl: /china`."
     implemented: true
     status: shipped
     prd: [FR2]
